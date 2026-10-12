@@ -1,0 +1,65 @@
+SMARTTEAM AI - PRESENTATION ARCHITECTURE
+
+                    +---------------------------+
+                    |      STUDENT BROWSER      |
+                    |       JSP + CSS/JSTL      |
+                    +-------------+-------------+
+                                  |
+                                  v
+                    +---------------------------+
+                    |       SPRING MVC          |
+                    | Controllers / Routing     |
+                    +-------------+-------------+
+                                  |
+                +-----------------+------------------+
+                |                                    |
+                v                                    v
+       +------------------+                 +---------------------+
+       |  SESSION / AUTH  |                 |   SERVICE LAYER     |
+       | HttpSession      |                 | Business Rules     |
+       +------------------+                 +----------+----------+
+                                                     |
+                                  +------------------+------------------+
+                                  |                                     |
+                                  v                                     v
+                         +----------------+                    +----------------+
+                         | JPA/HIBERNATE |                    | JDBC DAO       |
+                         | ORM + CRUD    |                    | SQL/statistics |
+                         +-------+--------+                    +-------+--------+
+                                 |                                     |
+                                 +------------------+------------------+
+                                                    |
+                                                    v
+                                           +------------------+
+                                           |     MYSQL         |
+                                           | XAMPP MySQL       |
+                                           +------------------+
+
+                 AI PATH
+
+       Java MatchingService
+                |
+                | HTTP JSON
+                v
+       +------------------------+
+       | Python FastAPI         |
+       | ML REST Service        |
+       +-----------+------------+
+                   |
+        +----------+----------+
+        |                     |
+        v                     v
+ +--------------+      +---------------+
+ | Classification|      | K-Means       |
+ | LR/KNN/DT/SVM|      | Student       |
+ | NB/RF/Ensemble|      | Segmentation  |
+ +--------------+      +---------------+
+        |
+        v
+ +--------------------+
+ | Probability /      |
+ | Cluster result     |
+ +--------------------+
+        |
+        v
+ Java -> JSP -> Student

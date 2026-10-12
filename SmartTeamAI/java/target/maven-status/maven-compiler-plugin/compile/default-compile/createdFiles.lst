@@ -1,0 +1,7 @@
+com\smartteam\repository\RatingRepository.class
+com\smartteam\repository\ProjectRequestRepository.class
+com\smartteam\entity\ProjectRequest.class
+com\smartteam\service\ProjectTeamService.class
+com\smartteam\entity\Rating.class
+com\smartteam\repository\TeamMemberRepository.class
+com\smartteam\entity\TeamMember.class

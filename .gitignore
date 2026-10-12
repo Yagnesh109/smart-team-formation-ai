@@ -1,0 +1,6 @@
+java-web/target/
+ml-service/venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/

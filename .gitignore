@@ -1,6 +1,30 @@
-java-web/target/
+# Java build output
+target/
+*.class
+*.jar
+*.war
+
+# Python virtual environments
+.venv/
+venv/
+env/
+.env/
 ml-service/venv/
+
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# ML model files (large binaries - optional, remove if you want to commit them)
+# ml/models/*.joblib
+
+# IDE
 .idea/
 .vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db

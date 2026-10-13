@@ -9,9 +9,8 @@ This guide provides step-by-step instructions for setting up, running, and verif
 | Folder Path | Purpose / Description | Port / Executable |
 | :--- | :--- | :--- |
 | **`SmartTeamAI/sql/`** | Database scripts (`smart_team_ai.sql`) | MySQL (`3306`) |
-| **`SmartTeamAI/java/`** | **Spring Boot 3 Java Backend** (JPA, Servlets/JSP, Controllers, Services) | Spring Boot (`8080`) |
-| **`ml-service/`** | **Python ML Microservice** (Flask, TF-IDF, Cosine Similarity, Scikit-learn) | REST API (`8000` / `5000`) |
-| **`java-web/`** | (Legacy Option) Java EE Servlet + JSP WAR application | Apache Tomcat (`8080`) |
+| **`SmartTeamAI/java/`** | **Spring Boot 3 Java Backend** (JPA, Servlets/JSP, Controllers, Services) | Spring Boot (`8085`) |
+| **`ml/`** | **Unified Python ML Microservice** (FastAPI, Soft Voting Ensemble, TF-IDF, K-Means, Scikit-learn) | REST API (`8000`) |
 
 ---
 
@@ -29,30 +28,28 @@ This guide provides step-by-step instructions for setting up, running, and verif
 
 ---
 
-## 🤖 Step 2: Run Python Machine Learning Microservice (`ml-service`)
+## 🤖 Step 2: Run Unified Python Machine Learning Microservice (`ml`)
 
-The Python ML service calculates TF-IDF skill overlap, cosine similarity, and compatibility scores for teammate recommendations.
+The unified Python ML service provides teammate compatibility prediction using the Soft Voting Ensemble classifier, K-Means clustering, and TF-IDF similarity.
 
 ### Run via Windows PowerShell / Terminal:
 ```powershell
-# 1. Navigate to ml-service folder from workspace root
-cd ml-service
+# 1. Navigate to the ml folder from workspace root
+cd ml
 
-# 2. Create Python virtual environment (Python 3.11 recommended)
-py -3.11 -m venv venv
+# 2. Activate virtual environment
+.\.venv\Scripts\activate
 
-# 3. Activate virtual environment
-.\venv\Scripts\activate
+# 3. (Optional) Re-train models if needed
+python train_models.py
 
-# 4. Install required packages
-pip install -r requirements.txt
-
-# 5. Start Flask ML server
-python app.py
+# 4. Start unified FastAPI server
+uvicorn main:app --reload --port 8000
 ```
 
-- **ML API Endpoint**: `http://127.0.0.1:8000` (or `http://127.0.0.1:5000`)
+- **ML API Endpoint**: `http://127.0.0.1:8000`
 - **Health Check**: `http://127.0.0.1:8000/health`
+- **Interactive Swagger Documentation**: `http://127.0.0.1:8000/docs`
 
 ---
 
@@ -85,9 +82,9 @@ C:\netbeans\java\maven\bin\mvn.cmd spring-boot:run
 
 ## 🌐 Step 4: Access Application in Browser
 
-- **Application URL**: [http://localhost:8080/](http://localhost:8080/)
-- **Login Page**: [http://localhost:8080/login](http://localhost:8080/login)
-- **Registration Page**: [http://localhost:8080/register](http://localhost:8080/register)
+- **Application URL**: [http://localhost:8085/](http://localhost:8085/)
+- **Login Page**: [http://localhost:8085/login](http://localhost:8085/login)
+- **Registration Page**: [http://localhost:8085/register](http://localhost:8085/register)
 
 ### Test Workflow:
 1. **Register/Login** as a student.
@@ -110,5 +107,5 @@ C:\netbeans\java\maven\bin\mvn.cmd spring-boot:run
 | Component | Port | Technology Stack | Location |
 | :--- | :--- | :--- | :--- |
 | **MySQL Database** | `3306` | MySQL / MariaDB via XAMPP | `SmartTeamAI/sql/smart_team_ai.sql` |
-| **Python ML API** | `8000` | Flask, scikit-learn, TF-IDF | `ml-service/app.py` |
+| **Python ML API** | `8000` | FastAPI, scikit-learn, Soft Voting Ensemble | `ml/main.py` |
 | **Spring Boot Backend** | `8080` | Spring Boot 3, JPA, Hibernate, JSP | `SmartTeamAI/java/` |

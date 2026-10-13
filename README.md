@@ -120,16 +120,14 @@ Prefer Python 3.11 for the ML service. Python 3.14 may require newer versions of
 ## Folder structure
 
 SmartTeamFormation-Advanced/
-  java-web/
-    pom.xml
-    src/main/java/com/smartteam/...
-    src/main/webapp/...
-  ml-service/
-    app.py
+  SmartTeamAI/
+    java/          # Spring Boot 3 Java Backend (JPA, JSP, Servlets)
+    sql/           # MySQL Database Schema (smart_team_ai.sql)
+  ml/              # Unified Python ML Microservice (FastAPI, Soft Voting Ensemble)
+    models/        # Trained .joblib models & metrics.json
+    main.py        # FastAPI Application (Port 8000)
+    train_models.py
     requirements.txt
-  database/
-    schema.sql
-    sample_data.sql
   docs/
     ARCHITECTURE.md
     BUILD_GUIDE.md
@@ -141,26 +139,27 @@ SmartTeamFormation-Advanced/
 
 Start MySQL from XAMPP.
 
-Open phpMyAdmin and run:
-database/schema.sql
-then:
-database/sample_data.sql
+Open phpMyAdmin and import:
+`SmartTeamAI/sql/smart_team_ai.sql`
 
-### 2. ML service
+### 2. ML service (Unified FastAPI)
 
 Open VS Code terminal:
 
-cd ml-service
-py -3.11 -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-python app.py
+```powershell
+cd ml
+.\.venv\Scripts\activate
+uvicorn main:app --reload --port 8000
+```
 
 ML service:
-http://127.0.0.1:5000
+http://127.0.0.1:8000
 
 Health check:
-http://127.0.0.1:5000/health
+http://127.0.0.1:8000/health
+
+API Docs:
+http://127.0.0.1:8000/docs
 
 ### 3. Java web app
 
@@ -181,7 +180,7 @@ Clean and Build
 then Run
 
 Application:
-http://localhost:8080/SmartTeamFormationML/
+http://localhost:8085/
 
 ### 4. Test
 

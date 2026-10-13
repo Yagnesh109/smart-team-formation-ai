@@ -7,7 +7,7 @@
 </head>
 <body>
 <div class="card wide">
-    <h1>Create Student Profile</h1>
+    <h1>Create Profile</h1>
     <p>Sign up to find project teammates and collaborate on projects.</p>
 
     <% if(request.getAttribute("error") != null){ %>
@@ -21,7 +21,7 @@
         </div>
 
         <div class="form-group">
-            <label for="reg-email">College Email Address</label>
+            <label for="reg-email">Email Address</label>
             <input id="reg-email" name="email" type="email" placeholder="e.g. aakash@example.com" required>
         </div>
 
@@ -60,11 +60,11 @@
         </div>
 
         <div class="form-group full">
-            <label for="reg-bio">Student Bio & Skills Summary</label>
+            <label for="reg-bio">Bio &amp; Skills Summary</label>
             <textarea id="reg-bio" name="bio" placeholder="Describe your technical skills, programming languages, past project experience..."></textarea>
         </div>
 
-        <button type="submit" class="full btn-success">Create Student Profile</button>
+        <button type="submit" class="full btn-success">Create Profile</button>
     </form>
 
     <div style="margin-top: 15px; text-align: center;">

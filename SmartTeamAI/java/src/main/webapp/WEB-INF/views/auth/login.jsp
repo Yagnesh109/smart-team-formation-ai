@@ -19,8 +19,8 @@
 
     <form method="post" action="/login">
         <div class="form-group">
-            <label for="login-email">College Email Address</label>
-            <input id="login-email" name="email" type="email" placeholder="e.g. student@college.edu" required>
+            <label for="login-email">Email Address</label>
+            <input id="login-email" name="email" type="email" placeholder="e.g. student@example.com" required>
         </div>
 
         <div class="form-group">
@@ -32,7 +32,7 @@
     </form>
 
     <div style="margin-top: 15px;">
-        <a href="/register" class="btn btn-outline btn-sm">Create Student Profile</a>
+        <a href="/register" class="btn btn-outline btn-sm">Create Profile</a>
     </div>
 </div>
 </body>

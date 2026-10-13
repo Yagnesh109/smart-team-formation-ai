@@ -7,9 +7,20 @@
 </head>
 <body>
 <nav>
-    <b>SmartTeam AI</b>
-    <a href="/dashboard">Dashboard</a>
-    <a href="/logout">Logout</a>
+    <a href="/dashboard" class="nav-brand">
+        <b>SmartTeam AI</b>
+    </a>
+    <div class="nav-links">
+        <a href="/dashboard" class="nav-link">Dashboard</a>
+        <a href="/matching" class="nav-link">AI Teammate Finder</a>
+        <a href="/projects/new" class="nav-link active">Create Project</a>
+    </div>
+    <div class="nav-right">
+        <span class="nav-user">
+            Welcome, <b>${not empty student.name ? student.name : (not empty sessionScope.studentName ? sessionScope.studentName : 'Student')}</b>
+        </span>
+        <a href="/logout" class="nav-logout">Logout</a>
+    </div>
 </nav>
 
 <div class="card wide">

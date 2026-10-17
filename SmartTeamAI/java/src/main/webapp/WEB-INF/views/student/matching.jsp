@@ -60,25 +60,61 @@
     </div>
 
     <c:if test="${not empty results}">
-        <h2>AI Recommended Candidates</h2>
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-top:24px;">
+            <h2>AI Recommended Candidates</h2>
+            <span style="font-size:12px; color:#627d98;">Trained on Kaggle Dynamic Student-Project Matching & Collaboration Benchmarks</span>
+        </div>
         <c:forEach var="r" items="${results}">
-            <div class="match">
+            <div class="match" style="padding: 20px; border-left: 5px solid ${r.matchScore >= 70 ? '#38ef7d' : (r.matchScore >= 50 ? '#3b82f6' : '#cbd5dc')};">
                 <div>
-                    <h3>${r.name}</h3>
-                    <p><b>${r.department}</b> · ${r.experience} Level</p>
+                    <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin-bottom:4px;">
+                        <h3 style="margin:0;">${r.name}</h3>
+                        <c:if test="${not empty r.archetype}">
+                            <span style="background:#e0e7ff; color:#3730a3; padding:2px 8px; border-radius:12px; font-size:11px; font-weight:600;">
+                                ✦ ${r.archetype}
+                            </span>
+                        </c:if>
+                        <c:choose>
+                            <c:when test="${r.label == 'HIGHLY_COMPATIBLE'}">
+                                <span style="background:#dcfce7; color:#166534; padding:2px 8px; border-radius:12px; font-size:11px; font-weight:700;">
+                                    HIGH COMPATIBILITY
+                                </span>
+                            </c:when>
+                            <c:when test="${r.label == 'COMPATIBLE'}">
+                                <span style="background:#fef3c7; color:#92400e; padding:2px 8px; border-radius:12px; font-size:11px; font-weight:700;">
+                                    COMPATIBLE
+                                </span>
+                            </c:when>
+                            <c:otherwise>
+                                <span style="background:#f1f5f9; color:#475569; padding:2px 8px; border-radius:12px; font-size:11px; font-weight:600;">
+                                    MODERATE FIT
+                                </span>
+                            </c:otherwise>
+                        </c:choose>
+                    </div>
+                    <p style="margin:4px 0 6px 0; color:#4a5568;">
+                        <b>${r.department}</b> · Year ${r.studyYear} · ${r.experience} Level · ${r.availability}
+                    </p>
+                    <c:if test="${not empty r.archetypeDescription}">
+                        <p style="margin:0; font-size:12px; color:#64748b; font-style:italic;">
+                            "${r.archetypeDescription}"
+                        </p>
+                    </c:if>
                 </div>
 
                 <div class="score">
                     <b>${r.matchScore}%</b>
-                    <small>AI Match</small>
+                    <small>Overall AI Match</small>
                 </div>
 
                 <div>
-                    <div class="mini">Skill Match: ${r.skillMatch}%</div>
-                    <div class="mini">ML Score: ${r.mlScore}%</div>
+                    <div class="mini"><b>Skill Match:</b> ${r.skillMatch}%</div>
+                    <div class="mini"><b>ML Compatibility:</b> ${r.compatibilityScore}%</div>
+                    <div class="mini"><b>Teamwork / Comm:</b> ${r.communicationScore}%</div>
+                    <div class="mini"><b>Reliability:</b> ${r.reliabilityScore}%</div>
 
                     <c:if test="${not empty myProjects}">
-                        <form method="post" action="/projects/${myProjects[0].id}/invite" style="margin-top: 8px;">
+                        <form method="post" action="/projects/${myProjects[0].id}/invite" style="margin-top: 10px;">
                             <input type="hidden" name="candidateId" value="${r.studentId}">
                             <div class="form-group" style="margin-bottom: 4px;">
                                 <label for="invite-proj-${r.studentId}" style="font-size:11px; margin:0;">Invite to Project:</label>
@@ -88,12 +124,21 @@
                                     </c:forEach>
                                 </select>
                             </div>
-                            <button type="submit" class="btn btn-sm btn-success">Send Invite</button>
+                            <button type="submit" class="btn btn-sm btn-success" style="width:100%;">Send Invite</button>
                         </form>
                     </c:if>
                 </div>
             </div>
         </c:forEach>
+    </c:if>
+
+    <c:if test="${empty results and not empty requiredSkills}">
+        <div class="card" style="margin-top:24px; text-align:center; padding:32px; border-left:4px solid #f59e0b;">
+            <h3 style="color:#b45309; margin-top:0;">No Matching Candidates Found</h3>
+            <p style="color:#64748b; margin-bottom:0;">
+                No candidate profiles currently match your search criteria. Try broadening required skills or adjusting availability.
+            </p>
+        </div>
     </c:if>
 </div>
 </body>

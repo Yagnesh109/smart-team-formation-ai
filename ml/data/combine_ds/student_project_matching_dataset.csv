@@ -1,0 +1,501 @@
+student_id,year,cgpa,skills,interest_areas,preferred_project_type,availability_hours,past_project_scores,learning_style,personality_score,project_id,domain,required_skills,difficulty_level,project_type,weekly_commitment,team_size,mentor_id,expected_duration,innovation_index,match_date,engagement_score,satisfaction_rating,project_success_score,final_outcome,reward_value
+S106,2,6.23,"Blockchain,ML,Cloud","AI,Sustainability",Simulation,19,5.28,Auditory,0.79,P024,AI,"CAD,Embedded Systems,IoT,Cloud",5,Survey,8,4,M10,10,0.63,2024-10-29,0.5,7.34,9.72,Completed,0.712
+S177,3,8.73,"Blockchain,CAD,IoT,Python",Sustainability,Simulation,5,5.58,Kinesthetic,0.58,P041,AI,"Embedded Systems,Python,CAD",3,Simulation,6,2,M02,8,0.61,2025-04-14,0.6,7.24,8.35,Completed,0.708
+S024,1,8.25,"Python,Data Analysis","Healthcare,Sustainability,Robotics",Research,19,6.28,Kinesthetic,0.23,P031,Finance,"Blockchain,Python,CAD,IoT",3,Simulation,10,3,M10,7,0.7,2024-10-02,0.54,6.03,8.19,Completed,0.643
+S200,2,9.08,"Blockchain,Data Analysis,ML","Robotics,Finance",Simulation,19,8.03,Kinesthetic,0.54,P031,Finance,"Blockchain,Python,CAD,IoT",3,Simulation,10,3,M10,7,0.7,2024-09-27,0.7,6.33,5.75,Dropped,0.642
+S063,4,7.18,"IoT,Cloud,ML","Robotics,AI,IoT",Prototype,9,5.95,Visual,0.41,P011,IoT,"Blockchain,IoT,Data Analysis,Embedded Systems",5,Prototype,11,4,M19,9,0.52,2024-11-19,0.84,6.18,6.86,Completed,0.727
+S160,3,7.29,"IoT,ML",Healthcare,Simulation,11,5.45,Visual,0.63,P017,Healthcare,"Cloud,IoT",4,Survey,6,4,M08,4,0.73,2025-03-29,0.74,7.64,8.6,Completed,0.783
+S165,3,9.95,"IoT,Python,Embedded Systems","AI,Healthcare,Sustainability",Simulation,9,9.67,Auditory,0.21,P036,Robotics,"IoT,CAD",3,Survey,5,4,M04,6,0.55,2024-10-26,0.58,8.59,9.77,Completed,0.783
+S132,4,6.3,"IoT,ML,Embedded Systems,Blockchain","AI,Robotics,Healthcare",Prototype,16,9.06,Kinesthetic,1.0,P013,IoT,"Python,CAD",1,Simulation,7,4,M18,5,0.72,2025-01-29,0.67,8.01,7.96,Extended,0.747
+S131,1,6.25,"Python,ML",Sustainability,Survey,13,7.07,Kinesthetic,0.42,P031,Finance,"Blockchain,Python,CAD,IoT",3,Simulation,10,3,M10,7,0.7,2025-05-07,0.84,8.24,8.98,Completed,0.853
+S023,3,7.89,"Cloud,Data Analysis,CAD","AI,Sustainability",Simulation,9,9.86,Auditory,0.88,P049,Healthcare,"Data Analysis,Blockchain,Embedded Systems",2,Simulation,9,3,M07,9,0.47,2024-08-20,0.64,9.6,9.97,Completed,0.843
+S005,4,8.45,"ML,Embedded Systems,Cloud,Data Analysis","Robotics,Sustainability,IoT",Simulation,17,7.16,Visual,0.43,P015,AI,"IoT,Cloud",1,Research,12,2,M07,6,0.62,2025-05-14,0.57,6.53,6.76,Completed,0.627
+S101,4,7.56,"Data Analysis,Embedded Systems,IoT,Python",Sustainability,Prototype,17,9.48,Auditory,0.51,P006,IoT,"Blockchain,Cloud",2,Research,6,4,M17,11,0.53,2024-11-10,0.58,9.57,9.76,Completed,0.812
+S050,4,9.55,"IoT,Python,Cloud,CAD",Finance,Research,12,9.44,Visual,0.88,P041,AI,"Embedded Systems,Python,CAD",3,Simulation,6,2,M02,8,0.61,2025-03-15,0.56,5.17,9.4,Extended,0.661
+S188,3,7.34,"Blockchain,Python,Embedded Systems,Cloud","IoT,AI,Robotics",Prototype,8,8.97,Auditory,0.7,P033,Sustainability,"CAD,Cloud,IoT",5,Research,14,3,M06,6,0.76,2025-03-12,0.62,5.98,7.45,Completed,0.651
+S007,2,9.14,"Blockchain,IoT","Sustainability,Healthcare,AI",Prototype,7,6.91,Auditory,0.99,P011,IoT,"Blockchain,IoT,Data Analysis,Embedded Systems",5,Prototype,11,4,M19,9,0.52,2024-12-23,0.69,5.58,8.41,Completed,0.696
+S080,3,7.0,"IoT,Cloud,Blockchain","Robotics,IoT,Sustainability",Simulation,18,5.47,Auditory,0.35,P028,Finance,"Python,Embedded Systems,CAD,IoT",1,Simulation,6,4,M17,9,0.85,2025-07-05,0.98,5.68,6.16,Completed,0.747
+S129,1,9.11,"Python,Cloud,Data Analysis","Healthcare,Finance",Prototype,6,9.94,Visual,0.32,P003,Sustainability,"Python,Embedded Systems",1,Research,5,4,M19,11,0.76,2024-10-25,0.81,8.4,9.73,Extended,0.868
+S049,3,7.36,"Cloud,Python","Sustainability,Healthcare",Research,7,8.5,Auditory,0.88,P022,AI,"Blockchain,ML,Python,Data Analysis",2,Simulation,11,3,M07,4,0.52,2025-07-14,0.52,8.39,6.62,Completed,0.658
+S075,3,6.34,"ML,Cloud",IoT,Prototype,17,5.97,Auditory,0.53,P041,AI,"Embedded Systems,Python,CAD",3,Simulation,6,2,M02,8,0.61,2025-07-15,0.66,6.59,9.56,Completed,0.748
+S022,2,7.3,"ML,Blockchain,Python,Embedded Systems","Sustainability,IoT",Prototype,7,7.96,Kinesthetic,0.42,P024,AI,"CAD,Embedded Systems,IoT,Cloud",5,Survey,8,4,M10,10,0.63,2025-03-08,0.43,6.28,7.64,Completed,0.59
+S156,2,9.04,"Embedded Systems,Cloud",Finance,Research,18,7.31,Auditory,0.8,P034,AI,"Cloud,Python,Blockchain",4,Prototype,13,2,M07,5,0.95,2024-07-20,0.6,6.57,8.18,Extended,0.682
+S164,1,7.45,"Cloud,IoT","Sustainability,Healthcare,Finance",Prototype,14,8.04,Auditory,0.4,P004,IoT,"Python,IoT",1,Survey,9,2,M10,7,0.87,2025-03-14,0.5,8.54,8.56,Completed,0.713
+S017,4,8.17,"Embedded Systems,CAD",Sustainability,Simulation,13,6.48,Kinesthetic,0.33,P015,AI,"IoT,Cloud",1,Research,12,2,M07,6,0.62,2025-04-18,0.84,5.32,6.94,Completed,0.704
+S119,4,6.3,"Python,Embedded Systems","IoT,Finance",Research,7,8.48,Visual,0.26,P048,Sustainability,"Data Analysis,CAD,Cloud",1,Research,14,4,M10,11,0.96,2025-04-16,0.53,7.52,6.3,Completed,0.627
+S134,2,7.51,"CAD,Cloud","Robotics,Finance,IoT",Prototype,9,7.25,Kinesthetic,0.3,P045,IoT,"Data Analysis,Cloud,CAD",5,Simulation,5,3,M17,10,0.45,2025-03-14,1.0,5.37,6.12,Dropped,0.745
+S138,2,9.87,"IoT,Python","Robotics,Sustainability,AI",Simulation,18,9.38,Kinesthetic,0.52,P003,Sustainability,"Python,Embedded Systems",1,Research,5,4,M19,11,0.76,2024-07-31,0.66,7.55,5.7,Completed,0.661
+S151,1,8.14,"Blockchain,CAD","Healthcare,Sustainability,Finance",Simulation,16,6.03,Kinesthetic,0.49,P004,IoT,"Python,IoT",1,Survey,9,2,M10,7,0.87,2025-04-16,0.64,9.63,8.55,Extended,0.801
+S108,2,8.47,"CAD,Embedded Systems,IoT,Python","IoT,Healthcare,AI",Survey,17,9.19,Visual,0.54,P023,Sustainability,"Blockchain,Cloud,Embedded Systems",3,Survey,7,5,M18,5,0.95,2025-05-09,0.8,6.19,7.45,Completed,0.729
+S198,1,7.02,"IoT,Blockchain,Data Analysis,ML","Robotics,IoT,AI",Research,12,9.36,Auditory,0.95,P029,Healthcare,"IoT,Cloud,Blockchain",2,Survey,13,4,M09,9,0.79,2025-02-10,0.79,6.28,6.82,Completed,0.709
+S094,4,7.54,"Python,CAD,IoT,ML",Healthcare,Survey,14,5.12,Visual,0.85,P040,IoT,"Cloud,Python,Blockchain,IoT",3,Simulation,8,4,M17,9,0.97,2025-07-15,0.89,5.28,7.69,Completed,0.745
+S147,3,8.34,"ML,Data Analysis,CAD",Robotics,Prototype,15,5.69,Auditory,0.71,P009,Sustainability,"CAD,ML,Python",2,Prototype,9,2,M07,4,0.98,2025-02-08,0.6,9.53,7.94,Completed,0.764
+S090,4,8.71,"CAD,ML,Data Analysis,Blockchain",Finance,Prototype,7,8.22,Kinesthetic,0.57,P030,Finance,"Blockchain,CAD,Data Analysis",4,Simulation,14,3,M13,5,0.56,2024-12-22,0.68,7.17,9.0,Completed,0.757
+S064,3,6.68,"Data Analysis,Cloud","Finance,Robotics",Prototype,13,6.97,Visual,0.88,P045,IoT,"Data Analysis,Cloud,CAD",5,Simulation,5,3,M17,10,0.45,2025-02-04,0.61,5.66,8.36,Completed,0.665
+S097,2,7.69,"CAD,IoT,Blockchain,ML","Sustainability,Robotics,Finance",Prototype,12,9.03,Visual,0.99,P043,Healthcare,"ML,IoT,CAD",3,Survey,7,3,M05,7,0.82,2024-07-25,0.71,6.59,8.65,Extended,0.741
+S020,3,6.3,"Data Analysis,CAD","IoT,Finance",Survey,11,8.26,Kinesthetic,0.93,P008,Sustainability,"Data Analysis,Python,CAD",1,Prototype,5,2,M11,9,0.53,2024-12-28,0.61,7.12,5.64,Completed,0.627
+S094,4,7.54,"Python,CAD,IoT,ML",Healthcare,Survey,14,5.12,Visual,0.85,P035,AI,"IoT,Blockchain",2,Survey,9,5,M14,11,0.61,2025-04-09,0.9,9.98,5.11,Dropped,0.813
+S171,2,8.23,"CAD,Python","Robotics,Finance",Research,12,7.38,Kinesthetic,0.87,P012,IoT,"Python,IoT",5,Prototype,5,2,M16,11,0.75,2024-07-31,0.77,8.59,7.85,Completed,0.801
+S098,4,6.51,"Data Analysis,Blockchain,IoT,Python","IoT,Sustainability,Robotics",Simulation,5,8.88,Visual,0.47,P026,Robotics,"Data Analysis,ML",1,Simulation,6,2,M12,6,0.97,2024-10-07,0.62,5.91,7.15,Extended,0.64
+S189,4,8.97,"ML,Blockchain,IoT",Robotics,Survey,15,8.94,Visual,0.32,P027,Healthcare,"ML,Python",4,Simulation,12,2,M10,9,0.69,2025-02-15,0.93,5.51,8.72,Completed,0.799
+S053,2,8.19,"Data Analysis,Python,CAD",Healthcare,Survey,10,7.24,Visual,1.0,P009,Sustainability,"CAD,ML,Python",2,Prototype,9,2,M07,4,0.98,2025-04-24,0.88,5.82,6.25,Extended,0.714
+S175,3,6.21,"Blockchain,Python,CAD","IoT,Healthcare",Research,6,7.27,Visual,0.64,P003,Sustainability,"Python,Embedded Systems",1,Research,5,4,M19,11,0.76,2025-04-17,0.9,9.25,7.12,Dropped,0.851
+S002,3,7.78,"Blockchain,Data Analysis,CAD",Healthcare,Simulation,11,5.29,Auditory,0.89,P025,AI,"Data Analysis,Python,ML",4,Survey,8,2,M05,9,0.86,2025-04-03,0.72,6.74,7.6,Completed,0.718
+S113,3,7.7,"Data Analysis,CAD,ML,Cloud","Sustainability,Healthcare",Simulation,14,6.65,Auditory,0.55,P034,AI,"Cloud,Python,Blockchain",4,Prototype,13,2,M07,5,0.95,2024-10-18,0.55,7.95,5.35,Completed,0.619
+S081,1,7.12,"ML,Blockchain,Python,CAD",Finance,Survey,17,8.69,Kinesthetic,0.64,P026,Robotics,"Data Analysis,ML",1,Simulation,6,2,M12,6,0.97,2024-12-29,0.73,6.39,6.99,Extended,0.693
+S167,2,7.14,"IoT,Python,Data Analysis","Robotics,Sustainability,Finance",Research,19,5.28,Auditory,0.87,P030,Finance,"Blockchain,CAD,Data Analysis",4,Simulation,14,3,M13,5,0.56,2024-09-13,0.93,9.8,9.47,Completed,0.95
+S016,1,7.09,"CAD,Cloud,Python,IoT",IoT,Survey,9,7.93,Auditory,0.97,P046,IoT,"IoT,CAD",3,Research,12,4,M17,10,0.83,2025-06-12,0.64,6.34,6.74,Completed,0.648
+S037,4,6.15,"Data Analysis,CAD,Cloud","Finance,Robotics,Sustainability",Survey,5,9.88,Auditory,0.53,P015,AI,"IoT,Cloud",1,Research,12,2,M07,6,0.62,2024-09-04,0.77,5.03,5.93,Dropped,0.637
+S160,3,7.29,"IoT,ML",Healthcare,Simulation,11,5.45,Visual,0.63,P004,IoT,"Python,IoT",1,Survey,9,2,M10,7,0.87,2025-01-16,0.42,6.53,8.72,Dropped,0.625
+S190,1,8.83,"Python,Embedded Systems,CAD","Sustainability,IoT",Simulation,15,8.72,Auditory,0.23,P009,Sustainability,"CAD,ML,Python",2,Prototype,9,2,M07,4,0.98,2024-10-10,0.99,6.47,8.55,Completed,0.847
+S044,3,7.39,"Data Analysis,Cloud,Blockchain,CAD","Sustainability,Robotics,IoT",Simulation,11,5.87,Kinesthetic,0.75,P035,AI,"IoT,Blockchain",2,Survey,9,5,M14,11,0.61,2025-04-25,0.8,5.03,9.92,Completed,0.769
+S142,3,8.91,"Python,Cloud,ML,Data Analysis",Robotics,Simulation,13,7.57,Auditory,0.83,P041,AI,"Embedded Systems,Python,CAD",3,Simulation,6,2,M02,8,0.61,2025-02-27,0.6,5.59,7.85,Completed,0.643
+S183,2,8.09,"Python,Embedded Systems",AI,Prototype,8,6.58,Kinesthetic,0.67,P023,Sustainability,"Blockchain,Cloud,Embedded Systems",3,Survey,7,5,M18,5,0.95,2025-02-15,0.52,5.65,9.88,Completed,0.674
+S111,2,9.25,"Cloud,ML,Python","Finance,Sustainability,Healthcare",Research,19,9.54,Visual,0.67,P046,IoT,"IoT,CAD",3,Research,12,4,M17,10,0.83,2025-02-02,0.48,9.12,7.05,Dropped,0.677
+S051,1,6.65,"IoT,CAD,Python","Healthcare,Finance",Prototype,10,8.34,Auditory,0.66,P003,Sustainability,"Python,Embedded Systems",1,Research,5,4,M19,11,0.76,2025-02-19,0.7,5.23,5.93,Completed,0.615
+S089,3,9.78,"ML,Cloud,Data Analysis",Robotics,Prototype,16,7.93,Kinesthetic,0.95,P034,AI,"Cloud,Python,Blockchain",4,Prototype,13,2,M07,5,0.95,2024-10-20,0.55,5.16,6.48,Completed,0.569
+S126,4,7.08,"CAD,IoT,Data Analysis","Healthcare,IoT",Prototype,17,9.55,Visual,0.86,P046,IoT,"IoT,CAD",3,Research,12,4,M17,10,0.83,2024-09-24,0.78,6.05,5.15,Completed,0.648
+S163,3,8.98,"ML,Embedded Systems","Healthcare,Sustainability",Research,5,7.82,Visual,0.5,P024,AI,"CAD,Embedded Systems,IoT,Cloud",5,Survey,8,4,M10,10,0.63,2025-01-13,0.77,6.13,9.52,Completed,0.778
+S074,1,8.09,"Embedded Systems,CAD,Cloud","Healthcare,AI",Research,9,6.36,Kinesthetic,0.97,P012,IoT,"Python,IoT",5,Prototype,5,2,M16,11,0.75,2025-04-14,0.49,7.78,6.6,Completed,0.627
+S152,2,7.32,"Data Analysis,Python",Finance,Simulation,15,5.2,Visual,0.84,P005,AI,"IoT,Embedded Systems,Blockchain,Cloud",2,Survey,13,4,M11,9,0.61,2024-11-18,0.72,8.39,6.43,Dropped,0.733
+S073,1,6.15,"Blockchain,Python","Finance,Sustainability,IoT",Survey,10,6.52,Visual,0.63,P021,Healthcare,"Python,Cloud,Data Analysis,IoT",3,Research,8,5,M05,9,0.52,2024-10-05,0.66,8.95,9.09,Completed,0.805
+S104,1,6.37,"Cloud,Blockchain,Python","Finance,IoT,Robotics",Research,16,6.64,Kinesthetic,0.74,P018,AI,"Blockchain,Python,Embedded Systems",3,Survey,12,4,M08,9,0.6,2024-11-08,0.72,9.46,8.4,Completed,0.824
+S108,2,8.47,"CAD,Embedded Systems,IoT,Python","IoT,Healthcare,AI",Survey,17,9.19,Visual,0.54,P011,IoT,"Blockchain,IoT,Data Analysis,Embedded Systems",5,Prototype,11,4,M19,9,0.52,2024-07-21,0.65,6.96,7.57,Completed,0.696
+S146,3,8.32,"CAD,Data Analysis","IoT,Healthcare,Finance",Research,15,5.38,Kinesthetic,0.3,P015,AI,"IoT,Cloud",1,Research,12,2,M07,6,0.62,2024-10-21,0.64,7.42,8.95,Dropped,0.747
+S102,4,9.83,"CAD,IoT,Embedded Systems,Cloud","Finance,IoT,Robotics",Simulation,7,5.46,Kinesthetic,0.46,P022,AI,"Blockchain,ML,Python,Data Analysis",2,Simulation,11,3,M07,4,0.52,2025-03-12,0.58,7.35,5.1,Completed,0.605
+S049,3,7.36,"Cloud,Python","Sustainability,Healthcare",Research,7,8.5,Auditory,0.88,P031,Finance,"Blockchain,Python,CAD,IoT",3,Simulation,10,3,M10,7,0.7,2024-10-01,0.53,6.64,8.14,Dropped,0.655
+S062,1,7.71,"Cloud,Blockchain,Data Analysis,IoT","Robotics,AI,Finance",Simulation,9,7.86,Visual,0.98,P026,Robotics,"Data Analysis,ML",1,Simulation,6,2,M12,6,0.97,2024-09-12,0.75,8.35,6.63,Completed,0.749
+S050,4,9.55,"IoT,Python,Cloud,CAD",Finance,Research,12,9.44,Visual,0.88,P012,IoT,"Python,IoT",5,Prototype,5,2,M16,11,0.75,2025-03-30,0.99,9.31,9.05,Extended,0.947
+S074,1,8.09,"Embedded Systems,CAD,Cloud","Healthcare,AI",Research,9,6.36,Kinesthetic,0.97,P003,Sustainability,"Python,Embedded Systems",1,Research,5,4,M19,11,0.76,2024-11-11,0.52,5.92,6.44,Completed,0.579
+S068,2,9.24,"IoT,ML,CAD,Embedded Systems","IoT,AI",Research,7,6.28,Kinesthetic,0.69,P008,Sustainability,"Data Analysis,Python,CAD",1,Prototype,5,2,M11,9,0.53,2025-01-30,0.63,9.8,6.68,Completed,0.746
+S040,3,7.48,"Data Analysis,Blockchain,Embedded Systems","AI,Finance",Survey,5,8.64,Auditory,0.49,P025,AI,"Data Analysis,Python,ML",4,Survey,8,2,M05,9,0.86,2024-09-30,1.0,7.67,9.13,Completed,0.904
+S094,4,7.54,"Python,CAD,IoT,ML",Healthcare,Survey,14,5.12,Visual,0.85,P047,Healthcare,"Embedded Systems,Cloud,Python",1,Research,6,2,M12,10,0.82,2024-08-30,0.48,8.07,6.0,Completed,0.614
+S108,2,8.47,"CAD,Embedded Systems,IoT,Python","IoT,Healthcare,AI",Survey,17,9.19,Visual,0.54,P045,IoT,"Data Analysis,Cloud,CAD",5,Simulation,5,3,M17,10,0.45,2025-06-19,0.52,8.0,6.66,Completed,0.648
+S086,2,8.6,"ML,Embedded Systems,CAD,Data Analysis",Finance,Prototype,14,8.08,Visual,0.71,P001,Finance,"Embedded Systems,ML",5,Simulation,12,2,M11,10,0.47,2024-09-03,0.49,8.2,9.36,Completed,0.723
+S016,1,7.09,"CAD,Cloud,Python,IoT",IoT,Survey,9,7.93,Auditory,0.97,P034,AI,"Cloud,Python,Blockchain",4,Prototype,13,2,M07,5,0.95,2024-08-18,0.47,6.2,6.53,Completed,0.57
+S127,2,7.67,"IoT,Python,Embedded Systems,Cloud","Robotics,Sustainability,Finance",Simulation,9,8.07,Visual,0.53,P013,IoT,"Python,CAD",1,Simulation,7,4,M18,5,0.72,2024-07-18,0.7,7.36,9.78,Completed,0.794
+S020,3,6.3,"Data Analysis,CAD","IoT,Finance",Survey,11,8.26,Kinesthetic,0.93,P013,IoT,"Python,CAD",1,Simulation,7,4,M18,5,0.72,2025-05-10,0.74,9.57,7.53,Completed,0.809
+S015,2,6.78,"ML,Blockchain",Healthcare,Survey,13,9.81,Visual,0.88,P015,AI,"IoT,Cloud",1,Research,12,2,M07,6,0.62,2024-11-08,0.84,7.98,6.72,Completed,0.777
+S190,1,8.83,"Python,Embedded Systems,CAD","Sustainability,IoT",Simulation,15,8.72,Auditory,0.23,P018,AI,"Blockchain,Python,Embedded Systems",3,Survey,12,4,M08,9,0.6,2024-11-25,0.48,8.35,6.18,Completed,0.628
+S145,4,6.18,"Cloud,Embedded Systems","Healthcare,Robotics,Finance",Prototype,10,7.46,Auditory,0.46,P049,Healthcare,"Data Analysis,Blockchain,Embedded Systems",2,Simulation,9,3,M07,9,0.47,2025-06-03,0.97,5.78,5.95,Completed,0.74
+S061,2,9.66,"Cloud,CAD,Embedded Systems,ML","Sustainability,Healthcare",Prototype,7,8.74,Auditory,0.96,P013,IoT,"Python,CAD",1,Simulation,7,4,M18,5,0.72,2025-04-18,0.68,5.2,9.4,Dropped,0.71
+S026,4,8.55,"Cloud,Embedded Systems,ML","IoT,Sustainability,Finance",Research,8,7.82,Kinesthetic,0.76,P020,AI,"IoT,Embedded Systems,Python,Data Analysis",2,Survey,7,5,M14,11,0.91,2025-01-09,0.47,5.42,5.22,Completed,0.507
+S050,4,9.55,"IoT,Python,Cloud,CAD",Finance,Research,12,9.44,Visual,0.88,P005,AI,"IoT,Embedded Systems,Blockchain,Cloud",2,Survey,13,4,M11,9,0.61,2024-11-05,0.73,6.25,6.86,Dropped,0.685
+S057,2,9.89,"Blockchain,CAD,IoT,Cloud","AI,Sustainability",Prototype,17,7.43,Visual,0.92,P014,IoT,"Embedded Systems,Cloud,Python,Data Analysis",1,Research,6,3,M06,6,0.49,2025-02-06,0.97,5.58,6.67,Extended,0.756
+S090,4,8.71,"CAD,ML,Data Analysis,Blockchain",Finance,Prototype,7,8.22,Kinesthetic,0.57,P038,Finance,"Embedded Systems,Python,CAD",3,Research,10,3,M15,11,0.96,2025-01-21,0.52,5.8,8.26,Completed,0.63
+S193,4,8.01,"ML,Data Analysis,Blockchain","Healthcare,IoT",Survey,12,5.75,Kinesthetic,0.38,P008,Sustainability,"Data Analysis,Python,CAD",1,Prototype,5,2,M11,9,0.53,2025-03-20,0.49,6.84,7.08,Completed,0.614
+S164,1,7.45,"Cloud,IoT","Sustainability,Healthcare,Finance",Prototype,14,8.04,Auditory,0.4,P023,Sustainability,"Blockchain,Cloud,Embedded Systems",3,Survey,7,5,M18,5,0.95,2025-03-26,0.6,7.12,7.71,Completed,0.685
+S040,3,7.48,"Data Analysis,Blockchain,Embedded Systems","AI,Finance",Survey,5,8.64,Auditory,0.49,P006,IoT,"Blockchain,Cloud",2,Research,6,4,M17,11,0.53,2025-06-20,0.71,5.15,8.82,Completed,0.703
+S132,4,6.3,"IoT,ML,Embedded Systems,Blockchain","AI,Robotics,Healthcare",Prototype,16,9.06,Kinesthetic,1.0,P001,Finance,"Embedded Systems,ML",5,Simulation,12,2,M11,10,0.47,2025-03-22,0.81,9.03,8.31,Extended,0.844
+S025,3,7.71,"Python,Cloud","Sustainability,Healthcare,Robotics",Research,14,7.2,Visual,0.36,P047,Healthcare,"Embedded Systems,Cloud,Python",1,Research,6,2,M12,10,0.82,2024-10-08,0.88,8.05,5.9,Completed,0.77
+S088,1,8.16,"Embedded Systems,IoT,Cloud","IoT,AI,Healthcare",Prototype,17,5.81,Kinesthetic,0.26,P030,Finance,"Blockchain,CAD,Data Analysis",4,Simulation,14,3,M13,5,0.56,2024-09-01,0.73,8.15,9.79,Completed,0.83
+S119,4,6.3,"Python,Embedded Systems","IoT,Finance",Research,7,8.48,Visual,0.26,P049,Healthcare,"Data Analysis,Blockchain,Embedded Systems",2,Simulation,9,3,M07,9,0.47,2024-08-01,0.86,8.11,7.38,Completed,0.809
+S099,2,8.25,"Python,Blockchain","Robotics,Finance",Prototype,16,7.14,Kinesthetic,0.8,P024,AI,"CAD,Embedded Systems,IoT,Cloud",5,Survey,8,4,M10,10,0.63,2024-09-11,0.49,9.39,5.2,Extended,0.634
+S047,4,6.7,"CAD,Embedded Systems,Data Analysis","Healthcare,IoT,Robotics",Prototype,13,7.58,Auditory,0.41,P032,Robotics,"ML,Blockchain,Cloud,IoT",2,Simulation,5,2,M06,5,0.83,2025-03-28,0.41,8.34,9.23,Completed,0.691
+S139,4,7.92,"Blockchain,Data Analysis,Python,CAD","AI,Robotics",Prototype,11,8.78,Auditory,0.7,P020,AI,"IoT,Embedded Systems,Python,Data Analysis",2,Survey,7,5,M14,11,0.91,2024-08-16,0.43,9.7,7.8,Extended,0.697
+S089,3,9.78,"ML,Cloud,Data Analysis",Robotics,Prototype,16,7.93,Kinesthetic,0.95,P010,AI,"IoT,Blockchain,Embedded Systems",1,Survey,8,3,M08,4,0.58,2025-07-13,0.45,5.23,7.6,Completed,0.565
+S115,4,6.47,"CAD,Blockchain",IoT,Research,13,8.72,Auditory,0.74,P030,Finance,"Blockchain,CAD,Data Analysis",4,Simulation,14,3,M13,5,0.56,2025-07-13,0.72,6.76,6.21,Extended,0.677
+S107,1,7.4,"ML,Data Analysis","Sustainability,Robotics,Healthcare",Prototype,6,9.84,Visual,0.75,P041,AI,"Embedded Systems,Python,CAD",3,Simulation,6,2,M02,8,0.61,2025-01-22,0.78,7.34,7.34,Dropped,0.752
+S176,2,9.96,"ML,Blockchain",Finance,Research,17,8.42,Visual,0.27,P021,Healthcare,"Python,Cloud,Data Analysis,IoT",3,Research,8,5,M05,9,0.52,2024-08-08,0.87,8.12,9.2,Completed,0.868
+S066,3,6.56,"IoT,Blockchain,CAD,Cloud","Healthcare,AI",Research,15,6.48,Auditory,0.46,P038,Finance,"Embedded Systems,Python,CAD",3,Research,10,3,M15,11,0.96,2024-07-26,0.44,5.94,6.79,Completed,0.558
+S059,1,6.78,"Blockchain,ML",Finance,Simulation,17,7.5,Visual,0.66,P006,IoT,"Blockchain,Cloud",2,Research,6,4,M17,11,0.53,2025-03-16,0.8,9.72,7.25,Completed,0.829
+S064,3,6.68,"Data Analysis,Cloud","Finance,Robotics",Prototype,13,6.97,Visual,0.88,P001,Finance,"Embedded Systems,ML",5,Simulation,12,2,M11,10,0.47,2024-09-21,0.82,7.25,9.06,Dropped,0.817
+S012,2,8.65,"Cloud,ML","Robotics,Sustainability,IoT",Survey,6,7.13,Visual,0.37,P020,AI,"IoT,Embedded Systems,Python,Data Analysis",2,Survey,7,5,M14,11,0.91,2025-01-25,0.93,7.22,7.54,Completed,0.815
+S144,4,7.84,"Cloud,IoT,Data Analysis,Embedded Systems","AI,Sustainability,IoT",Survey,5,7.46,Auditory,0.41,P014,IoT,"Embedded Systems,Cloud,Python,Data Analysis",1,Research,6,3,M06,6,0.49,2024-11-04,0.98,9.31,6.02,Completed,0.852
+S021,1,8.49,"Embedded Systems,Blockchain,Data Analysis,Cloud",IoT,Simulation,6,5.48,Auditory,0.5,P038,Finance,"Embedded Systems,Python,CAD",3,Research,10,3,M15,11,0.96,2025-01-07,0.6,5.46,7.93,Completed,0.642
+S043,4,7.3,"Cloud,Embedded Systems,CAD,Data Analysis","IoT,Robotics,AI",Prototype,8,5.08,Visual,0.61,P030,Finance,"Blockchain,CAD,Data Analysis",4,Simulation,14,3,M13,5,0.56,2024-08-15,0.97,6.35,8.77,Completed,0.842
+S139,4,7.92,"Blockchain,Data Analysis,Python,CAD","AI,Robotics",Prototype,11,8.78,Auditory,0.7,P047,Healthcare,"Embedded Systems,Cloud,Python",1,Research,6,2,M12,10,0.82,2024-11-19,0.78,5.66,9.41,Completed,0.764
+S088,1,8.16,"Embedded Systems,IoT,Cloud","IoT,AI,Healthcare",Prototype,17,5.81,Kinesthetic,0.26,P046,IoT,"IoT,CAD",3,Research,12,4,M17,10,0.83,2024-12-10,0.99,7.24,9.58,Extended,0.901
+S007,2,9.14,"Blockchain,IoT","Sustainability,Healthcare,AI",Prototype,7,6.91,Auditory,0.99,P046,IoT,"IoT,CAD",3,Research,12,4,M17,10,0.83,2025-05-16,0.63,6.17,5.5,Completed,0.602
+S098,4,6.51,"Data Analysis,Blockchain,IoT,Python","IoT,Sustainability,Robotics",Simulation,5,8.88,Visual,0.47,P036,Robotics,"IoT,CAD",3,Survey,5,4,M04,6,0.55,2025-02-03,0.68,8.12,6.88,Completed,0.722
+S176,2,9.96,"ML,Blockchain",Finance,Research,17,8.42,Visual,0.27,P016,Sustainability,"Blockchain,CAD",2,Prototype,7,3,M02,7,0.88,2025-06-07,0.42,9.85,9.59,Completed,0.751
+S141,2,8.43,"Data Analysis,Cloud,Blockchain,Python","Sustainability,IoT",Research,6,6.96,Kinesthetic,0.55,P022,AI,"Blockchain,ML,Python,Data Analysis",2,Simulation,11,3,M07,4,0.52,2024-12-03,0.61,9.18,5.64,Dropped,0.689
+S118,1,6.17,"ML,CAD","Sustainability,Healthcare,Finance",Survey,9,5.22,Auditory,0.94,P001,Finance,"Embedded Systems,ML",5,Simulation,12,2,M11,10,0.47,2025-05-24,0.92,8.79,8.61,Completed,0.89
+S038,3,7.11,"Blockchain,Python,IoT,Cloud",Finance,Research,5,8.17,Auditory,0.74,P017,Healthcare,"Cloud,IoT",4,Survey,6,4,M08,4,0.73,2025-03-10,0.85,5.42,7.83,Completed,0.738
+S189,4,8.97,"ML,Blockchain,IoT",Robotics,Survey,15,8.94,Visual,0.32,P011,IoT,"Blockchain,IoT,Data Analysis,Embedded Systems",5,Prototype,11,4,M19,9,0.52,2025-02-01,0.48,5.09,8.15,Completed,0.589
+S107,1,7.4,"ML,Data Analysis","Sustainability,Robotics,Healthcare",Prototype,6,9.84,Visual,0.75,P012,IoT,"Python,IoT",5,Prototype,5,2,M16,11,0.75,2025-04-13,0.54,6.55,7.72,Completed,0.644
+S165,3,9.95,"IoT,Python,Embedded Systems","AI,Healthcare,Sustainability",Simulation,9,9.67,Auditory,0.21,P044,IoT,"Python,Cloud,IoT",2,Research,7,2,M12,6,0.95,2024-10-28,0.89,8.86,6.73,Completed,0.824
+S184,2,9.27,"Embedded Systems,Blockchain,IoT,Python","Finance,Sustainability,Robotics",Prototype,11,8.57,Auditory,0.92,P019,Sustainability,"Blockchain,Cloud",5,Survey,7,4,M01,7,0.54,2024-12-26,0.97,8.89,8.84,Completed,0.92
+S160,3,7.29,"IoT,ML",Healthcare,Simulation,11,5.45,Visual,0.63,P034,AI,"Cloud,Python,Blockchain",4,Prototype,13,2,M07,5,0.95,2025-06-30,0.63,6.74,9.21,Completed,0.731
+S040,3,7.48,"Data Analysis,Blockchain,Embedded Systems","AI,Finance",Survey,5,8.64,Auditory,0.49,P031,Finance,"Blockchain,Python,CAD,IoT",3,Simulation,10,3,M10,7,0.7,2025-05-23,0.88,6.34,6.7,Dropped,0.743
+S081,1,7.12,"ML,Blockchain,Python,CAD",Finance,Survey,17,8.69,Kinesthetic,0.64,P009,Sustainability,"CAD,ML,Python",2,Prototype,9,2,M07,4,0.98,2025-04-22,0.86,5.03,8.69,Dropped,0.756
+S157,2,6.59,"ML,Cloud,Blockchain,IoT","Sustainability,AI,Finance",Prototype,7,8.57,Visual,0.92,P019,Sustainability,"Blockchain,Cloud",5,Survey,7,4,M01,7,0.54,2024-10-07,0.57,8.04,6.79,Extended,0.673
+S127,2,7.67,"IoT,Python,Embedded Systems,Cloud","Robotics,Sustainability,Finance",Simulation,9,8.07,Visual,0.53,P034,AI,"Cloud,Python,Blockchain",4,Prototype,13,2,M07,5,0.95,2025-03-01,1.0,8.43,7.86,Completed,0.889
+S154,1,6.01,"Data Analysis,CAD","Robotics,Finance",Prototype,8,9.03,Visual,0.8,P026,Robotics,"Data Analysis,ML",1,Simulation,6,2,M12,6,0.97,2025-04-12,0.4,5.77,7.89,Completed,0.57
+S084,1,7.25,"Data Analysis,Embedded Systems,CAD","Healthcare,AI,Sustainability",Survey,18,8.52,Auditory,0.58,P020,AI,"IoT,Embedded Systems,Python,Data Analysis",2,Survey,7,5,M14,11,0.91,2025-05-16,0.99,5.1,6.97,Extended,0.758
+S007,2,9.14,"Blockchain,IoT","Sustainability,Healthcare,AI",Prototype,7,6.91,Auditory,0.99,P024,AI,"CAD,Embedded Systems,IoT,Cloud",5,Survey,8,4,M10,10,0.63,2024-10-24,0.56,6.01,6.49,Completed,0.599
+S184,2,9.27,"Embedded Systems,Blockchain,IoT,Python","Finance,Sustainability,Robotics",Prototype,11,8.57,Auditory,0.92,P036,Robotics,"IoT,CAD",3,Survey,5,4,M04,6,0.55,2025-05-07,0.79,9.12,6.87,Completed,0.796
+S017,4,8.17,"Embedded Systems,CAD",Sustainability,Simulation,13,6.48,Kinesthetic,0.33,P043,Healthcare,"ML,IoT,CAD",3,Survey,7,3,M05,7,0.82,2025-01-13,0.83,8.81,9.15,Extended,0.871
+S056,4,6.37,"ML,CAD,Cloud",Finance,Prototype,7,8.18,Auditory,0.4,P034,AI,"Cloud,Python,Blockchain",4,Prototype,13,2,M07,5,0.95,2025-07-04,0.76,6.73,6.86,Completed,0.712
+S076,3,8.55,"Python,Data Analysis,ML","Robotics,Healthcare,AI",Research,8,5.66,Visual,0.98,P025,AI,"Data Analysis,Python,ML",4,Survey,8,2,M05,9,0.86,2024-09-02,0.65,7.82,6.87,Completed,0.701
+S028,1,6.31,"CAD,Python",Robotics,Survey,15,8.47,Auditory,0.9,P039,AI,"Embedded Systems,CAD,Python,IoT",5,Simulation,12,2,M04,10,0.56,2024-12-17,0.82,9.05,8.51,Completed,0.855
+S038,3,7.11,"Blockchain,Python,IoT,Cloud",Finance,Research,5,8.17,Auditory,0.74,P036,Robotics,"IoT,CAD",3,Survey,5,4,M04,6,0.55,2025-01-24,0.51,9.95,7.11,Extended,0.716
+S029,2,9.23,"CAD,Blockchain,Cloud,Embedded Systems","Finance,IoT,Robotics",Prototype,13,5.53,Auditory,0.57,P029,Healthcare,"IoT,Cloud,Blockchain",2,Survey,13,4,M09,9,0.79,2024-12-22,0.82,5.7,8.29,Extended,0.748
+S129,1,9.11,"Python,Cloud,Data Analysis","Healthcare,Finance",Prototype,6,9.94,Visual,0.32,P048,Sustainability,"Data Analysis,CAD,Cloud",1,Research,14,4,M10,11,0.96,2025-06-06,0.93,7.64,9.39,Completed,0.883
+S146,3,8.32,"CAD,Data Analysis","IoT,Healthcare,Finance",Research,15,5.38,Kinesthetic,0.3,P040,IoT,"Cloud,Python,Blockchain,IoT",3,Simulation,8,4,M17,9,0.97,2024-08-06,0.73,9.21,8.75,Completed,0.831
+S010,2,6.39,"Cloud,IoT,ML","AI,IoT",Survey,8,6.21,Kinesthetic,0.75,P045,IoT,"Data Analysis,Cloud,CAD",5,Simulation,5,3,M17,10,0.45,2024-10-03,1.0,6.28,8.52,Completed,0.844
+S133,2,9.65,"ML,IoT,Cloud",Finance,Simulation,11,8.84,Auditory,0.96,P005,AI,"IoT,Embedded Systems,Blockchain,Cloud",2,Survey,13,4,M11,9,0.61,2024-09-28,0.45,6.45,9.93,Completed,0.671
+S141,2,8.43,"Data Analysis,Cloud,Blockchain,Python","Sustainability,IoT",Research,6,6.96,Kinesthetic,0.55,P016,Sustainability,"Blockchain,CAD",2,Prototype,7,3,M02,7,0.88,2024-09-23,0.45,9.56,6.94,Completed,0.675
+S178,2,7.65,"Python,CAD","Robotics,AI,Healthcare",Prototype,18,5.53,Visual,0.88,P004,IoT,"Python,IoT",1,Survey,9,2,M10,7,0.87,2024-11-14,0.85,7.92,5.88,Extended,0.754
+S189,4,8.97,"ML,Blockchain,IoT",Robotics,Survey,15,8.94,Visual,0.32,P002,Sustainability,"Cloud,CAD,Embedded Systems,IoT",5,Research,9,3,M14,7,0.47,2024-07-19,0.86,7.99,5.11,Completed,0.737
+S009,2,9.8,"Data Analysis,Embedded Systems,Blockchain","Sustainability,AI",Research,16,7.82,Visual,0.51,P013,IoT,"Python,CAD",1,Simulation,7,4,M18,5,0.72,2024-12-20,0.51,7.97,8.7,Completed,0.704
+S161,1,9.56,"Embedded Systems,Data Analysis","IoT,Robotics,Sustainability",Simulation,8,7.37,Auditory,0.48,P038,Finance,"Embedded Systems,Python,CAD",3,Research,10,3,M15,11,0.96,2024-08-08,0.84,7.05,7.51,Completed,0.773
+S072,2,8.17,"IoT,Embedded Systems,Data Analysis,Blockchain","Healthcare,IoT,Robotics",Survey,17,9.19,Visual,0.89,P023,Sustainability,"Blockchain,Cloud,Embedded Systems",3,Survey,7,5,M18,5,0.95,2025-05-26,0.52,5.04,5.95,Extended,0.538
+S097,2,7.69,"CAD,IoT,Blockchain,ML","Sustainability,Robotics,Finance",Prototype,12,9.03,Visual,0.99,P041,AI,"Embedded Systems,Python,CAD",3,Simulation,6,2,M02,8,0.61,2024-08-13,0.68,6.48,5.62,Extended,0.635
+S127,2,7.67,"IoT,Python,Embedded Systems,Cloud","Robotics,Sustainability,Finance",Simulation,9,8.07,Visual,0.53,P043,Healthcare,"ML,IoT,CAD",3,Survey,7,3,M05,7,0.82,2024-10-23,0.52,6.72,5.94,Completed,0.588
+S040,3,7.48,"Data Analysis,Blockchain,Embedded Systems","AI,Finance",Survey,5,8.64,Auditory,0.49,P004,IoT,"Python,IoT",1,Survey,9,2,M10,7,0.87,2025-01-03,0.6,7.58,9.83,Extended,0.762
+S109,4,6.29,"Python,Embedded Systems,IoT,Blockchain","Healthcare,IoT",Survey,6,9.46,Visual,0.32,P030,Finance,"Blockchain,CAD,Data Analysis",4,Simulation,14,3,M13,5,0.56,2025-03-04,0.73,9.44,8.18,Completed,0.821
+S110,1,6.34,"Data Analysis,IoT,ML,Cloud","Sustainability,AI",Research,7,7.91,Auditory,0.89,P012,IoT,"Python,IoT",5,Prototype,5,2,M16,11,0.75,2025-04-04,0.93,7.62,5.18,Completed,0.756
+S130,1,9.0,"Embedded Systems,IoT,Data Analysis","Sustainability,AI",Research,13,9.85,Visual,0.87,P021,Healthcare,"Python,Cloud,Data Analysis,IoT",3,Research,8,5,M05,9,0.52,2024-10-20,0.48,9.07,9.65,Dropped,0.754
+S193,4,8.01,"ML,Data Analysis,Blockchain","Healthcare,IoT",Survey,12,5.75,Kinesthetic,0.38,P001,Finance,"Embedded Systems,ML",5,Simulation,12,2,M11,10,0.47,2024-09-17,0.91,6.52,9.05,Extended,0.831
+S021,1,8.49,"Embedded Systems,Blockchain,Data Analysis,Cloud",IoT,Simulation,6,5.48,Auditory,0.5,P033,Sustainability,"CAD,Cloud,IoT",5,Research,14,3,M06,6,0.76,2024-11-08,0.58,8.63,6.89,Completed,0.698
+S102,4,9.83,"CAD,IoT,Embedded Systems,Cloud","Finance,IoT,Robotics",Simulation,7,5.46,Kinesthetic,0.46,P025,AI,"Data Analysis,Python,ML",4,Survey,8,2,M05,9,0.86,2025-04-16,0.61,7.46,5.46,Dropped,0.632
+S197,2,8.46,"ML,Cloud,Embedded Systems","IoT,Robotics",Survey,14,7.93,Auditory,0.6,P034,AI,"Cloud,Python,Blockchain",4,Prototype,13,2,M07,5,0.95,2025-02-17,0.93,6.16,7.92,Completed,0.794
+S170,2,7.03,"Cloud,Python","Healthcare,Finance,Robotics",Research,12,8.61,Kinesthetic,0.86,P006,IoT,"Blockchain,Cloud",2,Research,6,4,M17,11,0.53,2024-12-02,0.98,7.67,7.63,Completed,0.851
+S143,4,7.19,"CAD,Blockchain","Finance,IoT",Research,14,9.31,Visual,0.96,P010,AI,"IoT,Blockchain,Embedded Systems",1,Survey,8,3,M08,4,0.58,2025-05-17,0.89,7.6,5.18,Completed,0.739
+S013,4,6.74,"IoT,Embedded Systems,Data Analysis,CAD","Healthcare,AI,IoT",Research,19,9.21,Auditory,0.56,P041,AI,"Embedded Systems,Python,CAD",3,Simulation,6,2,M02,8,0.61,2025-06-16,0.89,9.83,6.13,Dropped,0.835
+S058,3,9.18,"Cloud,CAD,ML",Healthcare,Prototype,18,8.23,Kinesthetic,0.74,P034,AI,"Cloud,Python,Blockchain",4,Prototype,13,2,M07,5,0.95,2025-03-05,0.78,5.72,8.17,Extended,0.729
+S163,3,8.98,"ML,Embedded Systems","Healthcare,Sustainability",Research,5,7.82,Visual,0.5,P025,AI,"Data Analysis,Python,ML",4,Survey,8,2,M05,9,0.86,2024-12-23,0.56,8.14,5.21,Completed,0.625
+S079,3,8.78,"IoT,Embedded Systems,ML,Data Analysis","Healthcare,Robotics,AI",Survey,9,5.29,Auditory,0.93,P020,AI,"IoT,Embedded Systems,Python,Data Analysis",2,Survey,7,5,M14,11,0.91,2025-05-16,0.53,7.72,5.74,Completed,0.616
+S059,1,6.78,"Blockchain,ML",Finance,Simulation,17,7.5,Visual,0.66,P021,Healthcare,"Python,Cloud,Data Analysis,IoT",3,Research,8,5,M05,9,0.52,2024-10-25,0.48,8.37,8.23,Completed,0.69
+S099,2,8.25,"Python,Blockchain","Robotics,Finance",Prototype,16,7.14,Kinesthetic,0.8,P044,IoT,"Python,Cloud,IoT",2,Research,7,2,M12,6,0.95,2024-12-08,0.51,8.34,7.9,Extended,0.691
+S097,2,7.69,"CAD,IoT,Blockchain,ML","Sustainability,Robotics,Finance",Prototype,12,9.03,Visual,0.99,P033,Sustainability,"CAD,Cloud,IoT",5,Research,14,3,M06,6,0.76,2024-09-07,0.5,5.22,5.95,Extended,0.535
+S095,1,7.98,"Python,CAD,ML",IoT,Research,14,8.48,Visual,0.7,P030,Finance,"Blockchain,CAD,Data Analysis",4,Simulation,14,3,M13,5,0.56,2025-05-22,0.99,7.01,9.09,Completed,0.879
+S008,1,6.19,"Cloud,Data Analysis","Finance,AI",Survey,7,8.4,Kinesthetic,0.56,P045,IoT,"Data Analysis,Cloud,CAD",5,Simulation,5,3,M17,10,0.45,2025-03-22,0.44,9.25,9.15,Completed,0.728
+S010,2,6.39,"Cloud,IoT,ML","AI,IoT",Survey,8,6.21,Kinesthetic,0.75,P024,AI,"CAD,Embedded Systems,IoT,Cloud",5,Survey,8,4,M10,10,0.63,2025-03-11,0.46,5.37,5.44,Extended,0.508
+S012,2,8.65,"Cloud,ML","Robotics,Sustainability,IoT",Survey,6,7.13,Visual,0.37,P006,IoT,"Blockchain,Cloud",2,Research,6,4,M17,11,0.53,2025-05-20,0.83,7.03,5.7,Completed,0.714
+S085,2,9.05,"Data Analysis,CAD,ML",Sustainability,Prototype,9,7.37,Visual,0.34,P023,Sustainability,"Blockchain,Cloud,Embedded Systems",3,Survey,7,5,M18,5,0.95,2024-07-18,0.58,6.38,7.88,Completed,0.66
+S064,3,6.68,"Data Analysis,Cloud","Finance,Robotics",Prototype,13,6.97,Visual,0.88,P027,Healthcare,"ML,Python",4,Simulation,12,2,M10,9,0.69,2024-09-05,0.91,6.33,9.36,Dropped,0.835
+S101,4,7.56,"Data Analysis,Embedded Systems,IoT,Python",Sustainability,Prototype,17,9.48,Auditory,0.51,P048,Sustainability,"Data Analysis,CAD,Cloud",1,Research,14,4,M10,11,0.96,2024-08-23,0.8,9.8,8.49,Completed,0.869
+S123,4,6.68,"Blockchain,Data Analysis","Sustainability,IoT",Research,8,7.32,Kinesthetic,0.48,P032,Robotics,"ML,Blockchain,Cloud,IoT",2,Simulation,5,2,M06,5,0.83,2025-02-08,0.97,5.05,7.94,Dropped,0.778
+S193,4,8.01,"ML,Data Analysis,Blockchain","Healthcare,IoT",Survey,12,5.75,Kinesthetic,0.38,P034,AI,"Cloud,Python,Blockchain",4,Prototype,13,2,M07,5,0.95,2024-12-25,0.63,9.07,5.05,Extended,0.676
+S115,4,6.47,"CAD,Blockchain",IoT,Research,13,8.72,Auditory,0.74,P009,Sustainability,"CAD,ML,Python",2,Prototype,9,2,M07,4,0.98,2024-09-20,0.64,5.3,6.55,Completed,0.611
+S038,3,7.11,"Blockchain,Python,IoT,Cloud",Finance,Research,5,8.17,Auditory,0.74,P019,Sustainability,"Blockchain,Cloud",5,Survey,7,4,M01,7,0.54,2024-09-30,0.68,9.23,5.45,Completed,0.712
+S076,3,8.55,"Python,Data Analysis,ML","Robotics,Healthcare,AI",Research,8,5.66,Visual,0.98,P016,Sustainability,"Blockchain,CAD",2,Prototype,7,3,M02,7,0.88,2024-11-21,0.77,6.94,8.57,Completed,0.773
+S183,2,8.09,"Python,Embedded Systems",AI,Prototype,8,6.58,Kinesthetic,0.67,P033,Sustainability,"CAD,Cloud,IoT",5,Research,14,3,M06,6,0.76,2025-03-29,0.42,8.85,7.67,Completed,0.664
+S040,3,7.48,"Data Analysis,Blockchain,Embedded Systems","AI,Finance",Survey,5,8.64,Auditory,0.49,P045,IoT,"Data Analysis,Cloud,CAD",5,Simulation,5,3,M17,10,0.45,2024-10-30,0.44,9.41,6.38,Completed,0.65
+S148,4,8.79,"IoT,Blockchain,CAD",IoT,Simulation,13,9.48,Auditory,0.58,P040,IoT,"Cloud,Python,Blockchain,IoT",3,Simulation,8,4,M17,9,0.97,2025-05-22,0.59,5.18,6.15,Completed,0.576
+S018,1,9.95,"Cloud,IoT","Healthcare,Sustainability",Prototype,12,6.97,Auditory,0.43,P039,AI,"Embedded Systems,CAD,Python,IoT",5,Simulation,12,2,M04,10,0.56,2025-05-05,0.55,8.24,8.81,Completed,0.732
+S019,3,9.26,"Data Analysis,Cloud","Robotics,Finance,IoT",Research,5,8.56,Kinesthetic,0.83,P035,AI,"IoT,Blockchain",2,Survey,9,5,M14,11,0.61,2025-01-05,0.62,5.21,6.81,Completed,0.609
+S049,3,7.36,"Cloud,Python","Sustainability,Healthcare",Research,7,8.5,Auditory,0.88,P046,IoT,"IoT,CAD",3,Research,12,4,M17,10,0.83,2024-07-23,0.74,7.68,6.75,Extended,0.729
+S086,2,8.6,"ML,Embedded Systems,CAD,Data Analysis",Finance,Prototype,14,8.08,Visual,0.71,P035,AI,"IoT,Blockchain",2,Survey,9,5,M14,11,0.61,2024-08-09,0.56,6.22,8.67,Dropped,0.671
+S052,4,6.41,"IoT,ML","Finance,Sustainability,Healthcare",Research,7,9.87,Kinesthetic,0.43,P045,IoT,"Data Analysis,Cloud,CAD",5,Simulation,5,3,M17,10,0.45,2024-11-12,0.8,9.58,6.99,Completed,0.817
+S001,3,9.19,"Python,Blockchain,ML","Healthcare,Finance",Simulation,19,8.66,Kinesthetic,0.68,P042,Robotics,"Python,IoT,Blockchain",1,Survey,5,2,M11,11,0.66,2025-01-14,0.5,9.02,6.26,Completed,0.658
+S119,4,6.3,"Python,Embedded Systems","IoT,Finance",Research,7,8.48,Visual,0.26,P024,AI,"CAD,Embedded Systems,IoT,Cloud",5,Survey,8,4,M10,10,0.63,2025-06-25,0.98,5.72,8.4,Completed,0.816
+S185,1,7.21,"Python,Embedded Systems,Blockchain","Finance,Healthcare,IoT",Prototype,11,7.19,Kinesthetic,0.66,P041,AI,"Embedded Systems,Python,CAD",3,Simulation,6,2,M02,8,0.61,2024-10-27,0.51,8.38,5.39,Completed,0.617
+S161,1,9.56,"Embedded Systems,Data Analysis","IoT,Robotics,Sustainability",Simulation,8,7.37,Auditory,0.48,P047,Healthcare,"Embedded Systems,Cloud,Python",1,Research,6,2,M12,10,0.82,2024-08-09,0.76,5.31,8.09,Extended,0.706
+S140,2,9.22,"Python,Data Analysis,Cloud,Embedded Systems","AI,Finance",Research,11,5.68,Kinesthetic,0.21,P040,IoT,"Cloud,Python,Blockchain,IoT",3,Simulation,8,4,M17,9,0.97,2025-04-13,0.86,9.22,8.72,Completed,0.882
+S119,4,6.3,"Python,Embedded Systems","IoT,Finance",Research,7,8.48,Visual,0.26,P014,IoT,"Embedded Systems,Cloud,Python,Data Analysis",1,Research,6,3,M06,6,0.49,2024-12-20,0.74,7.74,7.55,Completed,0.755
+S048,1,6.37,"Cloud,Data Analysis,Blockchain,CAD","AI,Sustainability,Finance",Research,16,7.79,Auditory,0.91,P020,AI,"IoT,Embedded Systems,Python,Data Analysis",2,Survey,7,5,M14,11,0.91,2024-12-18,0.64,9.03,5.28,Completed,0.685
+S012,2,8.65,"Cloud,ML","Robotics,Sustainability,IoT",Survey,6,7.13,Visual,0.37,P016,Sustainability,"Blockchain,CAD",2,Prototype,7,3,M02,7,0.88,2025-01-22,0.56,9.97,8.29,Completed,0.772
+S067,4,8.79,"IoT,Embedded Systems,Python",Finance,Prototype,15,8.54,Auditory,0.64,P014,IoT,"Embedded Systems,Cloud,Python,Data Analysis",1,Research,6,3,M06,6,0.49,2024-11-22,0.43,9.01,5.68,Completed,0.613
+S127,2,7.67,"IoT,Python,Embedded Systems,Cloud","Robotics,Sustainability,Finance",Simulation,9,8.07,Visual,0.53,P030,Finance,"Blockchain,CAD,Data Analysis",4,Simulation,14,3,M13,5,0.56,2025-02-14,0.56,9.29,9.06,Completed,0.774
+S127,2,7.67,"IoT,Python,Embedded Systems,Cloud","Robotics,Sustainability,Finance",Simulation,9,8.07,Visual,0.53,P039,AI,"Embedded Systems,CAD,Python,IoT",5,Simulation,12,2,M04,10,0.56,2024-07-25,0.58,5.21,8.56,Dropped,0.645
+S028,1,6.31,"CAD,Python",Robotics,Survey,15,8.47,Auditory,0.9,P043,Healthcare,"ML,IoT,CAD",3,Survey,7,3,M05,7,0.82,2025-01-25,0.42,8.73,9.9,Dropped,0.727
+S079,3,8.78,"IoT,Embedded Systems,ML,Data Analysis","Healthcare,Robotics,AI",Survey,9,5.29,Auditory,0.93,P045,IoT,"Data Analysis,Cloud,CAD",5,Simulation,5,3,M17,10,0.45,2025-02-15,0.99,9.94,5.39,Completed,0.856
+S064,3,6.68,"Data Analysis,Cloud","Finance,Robotics",Prototype,13,6.97,Visual,0.88,P041,AI,"Embedded Systems,Python,CAD",3,Simulation,6,2,M02,8,0.61,2024-07-16,0.49,6.24,9.65,Completed,0.673
+S057,2,9.89,"Blockchain,CAD,IoT,Cloud","AI,Sustainability",Prototype,17,7.43,Visual,0.92,P020,AI,"IoT,Embedded Systems,Python,Data Analysis",2,Survey,7,5,M14,11,0.91,2025-03-27,0.42,6.2,7.12,Completed,0.568
+S084,1,7.25,"Data Analysis,Embedded Systems,CAD","Healthcare,AI,Sustainability",Survey,18,8.52,Auditory,0.58,P042,Robotics,"Python,IoT,Blockchain",1,Survey,5,2,M11,11,0.66,2024-10-22,0.85,9.04,8.98,Completed,0.881
+S011,4,7.98,"Data Analysis,ML","IoT,Robotics,Finance",Research,19,5.87,Kinesthetic,0.51,P048,Sustainability,"Data Analysis,CAD,Cloud",1,Research,14,4,M10,11,0.96,2025-01-05,0.43,9.9,8.33,Extended,0.719
+S063,4,7.18,"IoT,Cloud,ML","Robotics,AI,IoT",Prototype,9,5.95,Visual,0.41,P023,Sustainability,"Blockchain,Cloud,Embedded Systems",3,Survey,7,5,M18,5,0.95,2025-02-19,0.54,9.9,7.0,Extended,0.723
+S006,3,7.6,"Cloud,Embedded Systems,ML,Data Analysis","Healthcare,IoT",Prototype,16,9.87,Kinesthetic,0.39,P024,AI,"CAD,Embedded Systems,IoT,Cloud",5,Survey,8,4,M10,10,0.63,2024-07-20,0.75,9.09,7.56,Completed,0.799
+S019,3,9.26,"Data Analysis,Cloud","Robotics,Finance,IoT",Research,5,8.56,Kinesthetic,0.83,P029,Healthcare,"IoT,Cloud,Blockchain",2,Survey,13,4,M09,9,0.79,2025-07-02,0.42,5.16,8.49,Completed,0.578
+S156,2,9.04,"Embedded Systems,Cloud",Finance,Research,18,7.31,Auditory,0.8,P041,AI,"Embedded Systems,Python,CAD",3,Simulation,6,2,M02,8,0.61,2024-08-05,0.44,7.06,8.08,Completed,0.63
+S099,2,8.25,"Python,Blockchain","Robotics,Finance",Prototype,16,7.14,Kinesthetic,0.8,P023,Sustainability,"Blockchain,Cloud,Embedded Systems",3,Survey,7,5,M18,5,0.95,2024-07-21,0.72,9.32,8.99,Completed,0.837
+S039,1,7.96,"Data Analysis,Cloud","Healthcare,Sustainability,AI",Prototype,10,6.21,Auditory,0.74,P047,Healthcare,"Embedded Systems,Cloud,Python",1,Research,6,2,M12,10,0.82,2024-11-22,0.43,9.95,6.04,Extended,0.652
+S103,2,8.71,"Python,IoT,ML,Blockchain","Healthcare,AI,IoT",Survey,8,7.87,Kinesthetic,0.71,P018,AI,"Blockchain,Python,Embedded Systems",3,Survey,12,4,M08,9,0.6,2024-10-03,0.85,7.49,5.93,Completed,0.743
+S041,4,9.93,"Data Analysis,Embedded Systems",Finance,Simulation,10,7.68,Auditory,0.27,P028,Finance,"Python,Embedded Systems,CAD,IoT",1,Simulation,6,4,M17,9,0.85,2025-04-23,0.53,6.69,6.75,Extended,0.615
+S106,2,6.23,"Blockchain,ML,Cloud","AI,Sustainability",Simulation,19,5.28,Auditory,0.79,P045,IoT,"Data Analysis,Cloud,CAD",5,Simulation,5,3,M17,10,0.45,2025-01-22,0.68,9.24,6.98,Extended,0.759
+S075,3,6.34,"ML,Cloud",IoT,Prototype,17,5.97,Auditory,0.53,P006,IoT,"Blockchain,Cloud",2,Research,6,4,M17,11,0.53,2024-10-19,0.46,7.66,6.58,Dropped,0.611
+S137,2,7.9,"Python,ML,Data Analysis,Cloud","AI,IoT",Research,7,7.6,Kinesthetic,0.88,P019,Sustainability,"Blockchain,Cloud",5,Survey,7,4,M01,7,0.54,2024-08-24,0.97,9.34,6.72,Completed,0.87
+S112,4,7.51,"Blockchain,ML",Finance,Prototype,19,7.41,Kinesthetic,0.5,P039,AI,"Embedded Systems,CAD,Python,IoT",5,Simulation,12,2,M04,10,0.56,2024-10-12,0.61,6.77,6.55,Completed,0.644
+S192,2,8.15,"Python,IoT","AI,Healthcare",Research,19,9.23,Kinesthetic,0.3,P021,Healthcare,"Python,Cloud,Data Analysis,IoT",3,Research,8,5,M05,9,0.52,2024-11-27,0.9,6.25,5.26,Extended,0.705
+S133,2,9.65,"ML,IoT,Cloud",Finance,Simulation,11,8.84,Auditory,0.96,P003,Sustainability,"Python,Embedded Systems",1,Research,5,4,M19,11,0.76,2025-04-29,0.61,8.62,5.08,Dropped,0.655
+S163,3,8.98,"ML,Embedded Systems","Healthcare,Sustainability",Research,5,7.82,Visual,0.5,P026,Robotics,"Data Analysis,ML",1,Simulation,6,2,M12,6,0.97,2025-06-14,0.82,5.93,8.77,Dropped,0.769
+S003,4,6.57,"Embedded Systems,ML,Python","AI,Robotics",Survey,7,5.1,Kinesthetic,0.98,P021,Healthcare,"Python,Cloud,Data Analysis,IoT",3,Research,8,5,M05,9,0.52,2025-05-08,0.69,6.72,7.89,Completed,0.714
+S130,1,9.0,"Embedded Systems,IoT,Data Analysis","Sustainability,AI",Research,13,9.85,Visual,0.87,P016,Sustainability,"Blockchain,CAD",2,Prototype,7,3,M02,7,0.88,2025-05-01,0.86,7.55,9.7,Dropped,0.861
+S170,2,7.03,"Cloud,Python","Healthcare,Finance,Robotics",Research,12,8.61,Kinesthetic,0.86,P011,IoT,"Blockchain,IoT,Data Analysis,Embedded Systems",5,Prototype,11,4,M19,9,0.52,2025-06-29,0.97,6.31,8.19,Completed,0.823
+S196,2,7.37,"Data Analysis,Python,CAD,Cloud","Finance,IoT",Simulation,10,7.0,Kinesthetic,0.57,P049,Healthcare,"Data Analysis,Blockchain,Embedded Systems",2,Simulation,9,3,M07,9,0.47,2024-12-03,0.41,7.14,6.37,Completed,0.569
+S047,4,6.7,"CAD,Embedded Systems,Data Analysis","Healthcare,IoT,Robotics",Prototype,13,7.58,Auditory,0.41,P008,Sustainability,"Data Analysis,Python,CAD",1,Prototype,5,2,M11,9,0.53,2024-07-23,0.56,8.7,9.03,Completed,0.756
+S138,2,9.87,"IoT,Python","Robotics,Sustainability,AI",Simulation,18,9.38,Kinesthetic,0.52,P044,IoT,"Python,Cloud,IoT",2,Research,7,2,M12,6,0.95,2025-01-12,0.43,7.12,8.79,Extended,0.649
+S007,2,9.14,"Blockchain,IoT","Sustainability,Healthcare,AI",Prototype,7,6.91,Auditory,0.99,P034,AI,"Cloud,Python,Blockchain",4,Prototype,13,2,M07,5,0.95,2025-03-12,0.76,5.76,7.06,Completed,0.689
+S159,3,7.59,"ML,IoT","AI,IoT,Healthcare",Simulation,13,8.69,Kinesthetic,0.35,P017,Healthcare,"Cloud,IoT",4,Survey,6,4,M08,4,0.73,2025-06-05,0.58,8.34,7.75,Completed,0.715
+S176,2,9.96,"ML,Blockchain",Finance,Research,17,8.42,Visual,0.27,P010,AI,"IoT,Blockchain,Embedded Systems",1,Survey,8,3,M08,4,0.58,2024-10-20,0.98,7.14,6.97,Completed,0.815
+S070,4,8.81,"IoT,Cloud","Sustainability,Robotics",Simulation,18,9.45,Visual,0.47,P014,IoT,"Embedded Systems,Cloud,Python,Data Analysis",1,Research,6,3,M06,6,0.49,2024-08-17,0.91,7.48,7.5,Extended,0.813
+S006,3,7.6,"Cloud,Embedded Systems,ML,Data Analysis","Healthcare,IoT",Prototype,16,9.87,Kinesthetic,0.39,P016,Sustainability,"Blockchain,CAD",2,Prototype,7,3,M02,7,0.88,2025-02-01,0.76,5.52,9.27,Dropped,0.748
+S177,3,8.73,"Blockchain,CAD,IoT,Python",Sustainability,Simulation,5,5.58,Kinesthetic,0.58,P017,Healthcare,"Cloud,IoT",4,Survey,6,4,M08,4,0.73,2025-05-22,0.59,6.41,9.69,Completed,0.719
+S006,3,7.6,"Cloud,Embedded Systems,ML,Data Analysis","Healthcare,IoT",Prototype,16,9.87,Kinesthetic,0.39,P042,Robotics,"Python,IoT,Blockchain",1,Survey,5,2,M11,11,0.66,2025-06-12,0.57,7.12,9.29,Completed,0.72
+S071,4,8.32,"CAD,Blockchain,ML,Cloud","Healthcare,Finance",Prototype,11,8.36,Kinesthetic,0.46,P024,AI,"CAD,Embedded Systems,IoT,Cloud",5,Survey,8,4,M10,10,0.63,2025-06-27,0.81,5.68,5.58,Extended,0.662
+S076,3,8.55,"Python,Data Analysis,ML","Robotics,Healthcare,AI",Research,8,5.66,Visual,0.98,P041,AI,"Embedded Systems,Python,CAD",3,Simulation,6,2,M02,8,0.61,2025-01-17,0.82,9.94,8.45,Dropped,0.88
+S053,2,8.19,"Data Analysis,Python,CAD",Healthcare,Survey,10,7.24,Visual,1.0,P023,Sustainability,"Blockchain,Cloud,Embedded Systems",3,Survey,7,5,M18,5,0.95,2025-03-17,0.91,7.8,9.44,Completed,0.881
+S028,1,6.31,"CAD,Python",Robotics,Survey,15,8.47,Auditory,0.9,P037,Robotics,"Embedded Systems,Data Analysis",5,Survey,12,4,M04,4,0.83,2024-09-12,0.82,5.86,8.76,Completed,0.767
+S168,3,8.1,"CAD,Blockchain,Python,IoT",Sustainability,Survey,12,8.48,Auditory,1.0,P027,Healthcare,"ML,Python",4,Simulation,12,2,M10,9,0.69,2024-08-28,0.86,9.07,8.13,Extended,0.86
+S057,2,9.89,"Blockchain,CAD,IoT,Cloud","AI,Sustainability",Prototype,17,7.43,Visual,0.92,P012,IoT,"Python,IoT",5,Prototype,5,2,M16,11,0.75,2024-10-15,0.78,6.0,5.15,Completed,0.647
+S091,3,9.28,"ML,IoT",Healthcare,Simulation,16,6.93,Auditory,0.97,P014,IoT,"Embedded Systems,Cloud,Python,Data Analysis",1,Research,6,3,M06,6,0.49,2025-07-01,0.7,8.63,6.35,Completed,0.729
+S047,4,6.7,"CAD,Embedded Systems,Data Analysis","Healthcare,IoT,Robotics",Prototype,13,7.58,Auditory,0.41,P041,AI,"Embedded Systems,Python,CAD",3,Simulation,6,2,M02,8,0.61,2025-06-04,0.98,9.79,5.4,Completed,0.848
+S086,2,8.6,"ML,Embedded Systems,CAD,Data Analysis",Finance,Prototype,14,8.08,Visual,0.71,P020,AI,"IoT,Embedded Systems,Python,Data Analysis",2,Survey,7,5,M14,11,0.91,2025-02-09,0.64,8.25,9.68,Completed,0.794
+S011,4,7.98,"Data Analysis,ML","IoT,Robotics,Finance",Research,19,5.87,Kinesthetic,0.51,P039,AI,"Embedded Systems,CAD,Python,IoT",5,Simulation,12,2,M04,10,0.56,2024-08-19,0.43,5.89,9.08,Completed,0.621
+S070,4,8.81,"IoT,Cloud","Sustainability,Robotics",Simulation,18,9.45,Visual,0.47,P028,Finance,"Python,Embedded Systems,CAD,IoT",1,Simulation,6,4,M17,9,0.85,2025-05-16,0.52,8.47,5.22,Extended,0.619
+S116,4,9.85,"CAD,ML,Embedded Systems,Cloud","Finance,IoT",Simulation,19,7.39,Kinesthetic,0.27,P001,Finance,"Embedded Systems,ML",5,Simulation,12,2,M11,10,0.47,2024-11-26,0.87,6.92,6.11,Extended,0.739
+S081,1,7.12,"ML,Blockchain,Python,CAD",Finance,Survey,17,8.69,Kinesthetic,0.64,P014,IoT,"Embedded Systems,Cloud,Python,Data Analysis",1,Research,6,3,M06,6,0.49,2024-10-10,0.46,9.28,6.01,Extended,0.643
+S096,1,6.16,"Blockchain,IoT","Healthcare,IoT",Survey,13,9.02,Visual,0.43,P015,AI,"IoT,Cloud",1,Research,12,2,M07,6,0.62,2024-08-31,0.73,6.45,6.98,Completed,0.695
+S181,4,9.37,"Blockchain,Cloud,IoT",Sustainability,Simulation,12,9.14,Kinesthetic,0.8,P002,Sustainability,"Cloud,CAD,Embedded Systems,IoT",5,Research,9,3,M14,7,0.47,2024-10-23,0.7,9.58,5.51,Completed,0.733
+S122,4,6.23,"IoT,Cloud","AI,IoT,Healthcare",Simulation,10,7.28,Auditory,0.7,P043,Healthcare,"ML,IoT,CAD",3,Survey,7,3,M05,7,0.82,2024-07-28,0.62,5.59,8.59,Extended,0.673
+S052,4,6.41,"IoT,ML","Finance,Sustainability,Healthcare",Research,7,9.87,Kinesthetic,0.43,P015,AI,"IoT,Cloud",1,Research,12,2,M07,6,0.62,2025-06-13,0.62,5.57,8.74,Extended,0.677
+S085,2,9.05,"Data Analysis,CAD,ML",Sustainability,Prototype,9,7.37,Visual,0.34,P040,IoT,"Cloud,Python,Blockchain,IoT",3,Simulation,8,4,M17,9,0.97,2024-11-13,0.48,8.44,5.29,Completed,0.604
+S134,2,7.51,"CAD,Cloud","Robotics,Finance,IoT",Prototype,9,7.25,Kinesthetic,0.3,P017,Healthcare,"Cloud,IoT",4,Survey,6,4,M08,4,0.73,2024-12-07,0.99,9.49,9.93,Completed,0.979
+S178,2,7.65,"Python,CAD","Robotics,AI,Healthcare",Prototype,18,5.53,Visual,0.88,P038,Finance,"Embedded Systems,Python,CAD",3,Research,10,3,M15,11,0.96,2024-10-15,0.8,8.21,7.7,Completed,0.797
+S057,2,9.89,"Blockchain,CAD,IoT,Cloud","AI,Sustainability",Prototype,17,7.43,Visual,0.92,P038,Finance,"Embedded Systems,Python,CAD",3,Research,10,3,M15,11,0.96,2025-07-06,0.65,8.91,7.36,Completed,0.748
+S098,4,6.51,"Data Analysis,Blockchain,IoT,Python","IoT,Sustainability,Robotics",Simulation,5,8.88,Visual,0.47,P004,IoT,"Python,IoT",1,Survey,9,2,M10,7,0.87,2024-11-13,0.51,6.24,5.43,Extended,0.554
+S060,4,8.58,"ML,Data Analysis,Blockchain",Healthcare,Survey,5,9.97,Kinesthetic,0.58,P049,Healthcare,"Data Analysis,Blockchain,Embedded Systems",2,Simulation,9,3,M07,9,0.47,2025-05-07,0.89,9.56,9.85,Completed,0.938
+S027,1,7.0,"Data Analysis,Embedded Systems,Blockchain,IoT","IoT,AI,Sustainability",Survey,17,7.7,Kinesthetic,0.36,P011,IoT,"Blockchain,IoT,Data Analysis,Embedded Systems",5,Prototype,11,4,M19,9,0.52,2025-04-28,0.68,9.99,9.04,Extended,0.843
+S143,4,7.19,"CAD,Blockchain","Finance,IoT",Research,14,9.31,Visual,0.96,P042,Robotics,"Python,IoT,Blockchain",1,Survey,5,2,M11,11,0.66,2024-12-22,0.89,7.81,5.71,Completed,0.762
+S009,2,9.8,"Data Analysis,Embedded Systems,Blockchain","Sustainability,AI",Research,16,7.82,Visual,0.51,P006,IoT,"Blockchain,Cloud",2,Research,6,4,M17,11,0.53,2025-02-09,0.8,5.93,9.62,Extended,0.786
+S122,4,6.23,"IoT,Cloud","AI,IoT,Healthcare",Simulation,10,7.28,Auditory,0.7,P030,Finance,"Blockchain,CAD,Data Analysis",4,Simulation,14,3,M13,5,0.56,2024-10-02,0.68,9.91,9.44,Completed,0.853
+S029,2,9.23,"CAD,Blockchain,Cloud,Embedded Systems","Finance,IoT,Robotics",Prototype,13,5.53,Auditory,0.57,P049,Healthcare,"Data Analysis,Blockchain,Embedded Systems",2,Simulation,9,3,M07,9,0.47,2024-11-18,0.59,8.16,5.26,Completed,0.639
+S050,4,9.55,"IoT,Python,Cloud,CAD",Finance,Research,12,9.44,Visual,0.88,P015,AI,"IoT,Cloud",1,Research,12,2,M07,6,0.62,2025-07-04,0.69,7.88,9.51,Extended,0.798
+S114,1,6.05,"Data Analysis,ML","AI,Healthcare,Robotics",Simulation,16,7.86,Auditory,0.79,P003,Sustainability,"Python,Embedded Systems",1,Research,5,4,M19,11,0.76,2025-01-22,0.73,9.94,6.63,Completed,0.789
+S010,2,6.39,"Cloud,IoT,ML","AI,IoT",Survey,8,6.21,Kinesthetic,0.75,P028,Finance,"Python,Embedded Systems,CAD,IoT",1,Simulation,6,4,M17,9,0.85,2025-05-07,0.96,5.45,9.43,Completed,0.83
+S104,1,6.37,"Cloud,Blockchain,Python","Finance,IoT,Robotics",Research,16,6.64,Kinesthetic,0.74,P010,AI,"IoT,Blockchain,Embedded Systems",1,Survey,8,3,M08,4,0.58,2024-08-11,0.4,6.69,5.23,Extended,0.518
+S162,1,7.99,"CAD,Embedded Systems,IoT,Python",Sustainability,Simulation,19,7.92,Kinesthetic,0.79,P021,Healthcare,"Python,Cloud,Data Analysis,IoT",3,Research,8,5,M05,9,0.52,2025-04-06,0.41,7.72,6.21,Completed,0.582
+S198,1,7.02,"IoT,Blockchain,Data Analysis,ML","Robotics,IoT,AI",Research,12,9.36,Auditory,0.95,P007,Healthcare,"IoT,Embedded Systems,Blockchain,ML",4,Prototype,7,3,M07,7,0.65,2025-06-12,0.91,9.48,8.14,Extended,0.893
+S192,2,8.15,"Python,IoT","AI,Healthcare",Research,19,9.23,Kinesthetic,0.3,P026,Robotics,"Data Analysis,ML",1,Simulation,6,2,M12,6,0.97,2024-10-13,0.68,7.4,8.23,Extended,0.741
+S102,4,9.83,"CAD,IoT,Embedded Systems,Cloud","Finance,IoT,Robotics",Simulation,7,5.46,Kinesthetic,0.46,P003,Sustainability,"Python,Embedded Systems",1,Research,5,4,M19,11,0.76,2025-07-11,0.89,7.6,7.58,Completed,0.811
+S162,1,7.99,"CAD,Embedded Systems,IoT,Python",Sustainability,Simulation,19,7.92,Kinesthetic,0.79,P017,Healthcare,"Cloud,IoT",4,Survey,6,4,M08,4,0.73,2025-06-05,0.56,9.92,5.54,Completed,0.688
+S112,4,7.51,"Blockchain,ML",Finance,Prototype,19,7.41,Kinesthetic,0.5,P038,Finance,"Embedded Systems,Python,CAD",3,Research,10,3,M15,11,0.96,2025-05-26,0.43,9.79,8.47,Extended,0.72
+S119,4,6.3,"Python,Embedded Systems","IoT,Finance",Research,7,8.48,Visual,0.26,P050,Robotics,"IoT,Embedded Systems,Python",1,Simulation,7,5,M08,5,0.65,2025-07-01,0.91,7.91,8.08,Dropped,0.844
+S107,1,7.4,"ML,Data Analysis","Sustainability,Robotics,Healthcare",Prototype,6,9.84,Visual,0.75,P049,Healthcare,"Data Analysis,Blockchain,Embedded Systems",2,Simulation,9,3,M07,9,0.47,2024-09-05,0.88,8.05,5.41,Completed,0.756
+S107,1,7.4,"ML,Data Analysis","Sustainability,Robotics,Healthcare",Prototype,6,9.84,Visual,0.75,P030,Finance,"Blockchain,CAD,Data Analysis",4,Simulation,14,3,M13,5,0.56,2025-01-04,0.91,7.5,9.2,Completed,0.865
+S032,3,7.71,"Python,Data Analysis,Cloud,IoT",Sustainability,Simulation,8,6.76,Kinesthetic,0.44,P050,Robotics,"IoT,Embedded Systems,Python",1,Simulation,7,5,M08,5,0.65,2025-04-27,1.0,6.73,7.84,Completed,0.837
+S032,3,7.71,"Python,Data Analysis,Cloud,IoT",Sustainability,Simulation,8,6.76,Kinesthetic,0.44,P008,Sustainability,"Data Analysis,Python,CAD",1,Prototype,5,2,M11,9,0.53,2025-02-11,0.61,5.51,8.8,Completed,0.673
+S002,3,7.78,"Blockchain,Data Analysis,CAD",Healthcare,Simulation,11,5.29,Auditory,0.89,P002,Sustainability,"Cloud,CAD,Embedded Systems,IoT",5,Research,9,3,M14,7,0.47,2024-09-13,0.58,9.64,7.67,Extended,0.751
+S142,3,8.91,"Python,Cloud,ML,Data Analysis",Robotics,Simulation,13,7.57,Auditory,0.83,P022,AI,"Blockchain,ML,Python,Data Analysis",2,Simulation,11,3,M07,4,0.52,2025-01-07,0.61,8.93,8.26,Completed,0.76
+S054,4,8.85,"Blockchain,Data Analysis,Cloud,CAD",Finance,Survey,5,7.47,Kinesthetic,0.34,P021,Healthcare,"Python,Cloud,Data Analysis,IoT",3,Research,8,5,M05,9,0.52,2025-05-03,0.63,5.07,5.11,Completed,0.557
+S146,3,8.32,"CAD,Data Analysis","IoT,Healthcare,Finance",Research,15,5.38,Kinesthetic,0.3,P043,Healthcare,"ML,IoT,CAD",3,Survey,7,3,M05,7,0.82,2024-11-26,0.68,7.92,9.42,Extended,0.792
+S139,4,7.92,"Blockchain,Data Analysis,Python,CAD","AI,Robotics",Prototype,11,8.78,Auditory,0.7,P048,Sustainability,"Data Analysis,CAD,Cloud",1,Research,14,4,M10,11,0.96,2025-02-23,0.91,7.31,6.62,Completed,0.782
+S190,1,8.83,"Python,Embedded Systems,CAD","Sustainability,IoT",Simulation,15,8.72,Auditory,0.23,P006,IoT,"Blockchain,Cloud",2,Research,6,4,M17,11,0.53,2025-04-27,0.88,7.97,6.17,Extended,0.776
+S107,1,7.4,"ML,Data Analysis","Sustainability,Robotics,Healthcare",Prototype,6,9.84,Visual,0.75,P012,IoT,"Python,IoT",5,Prototype,5,2,M16,11,0.75,2025-02-28,0.71,7.83,7.9,Completed,0.756
+S152,2,7.32,"Data Analysis,Python",Finance,Simulation,15,5.2,Visual,0.84,P026,Robotics,"Data Analysis,ML",1,Simulation,6,2,M12,6,0.97,2025-01-20,0.4,7.25,7.45,Completed,0.601
+S173,4,6.97,"Cloud,IoT,Embedded Systems","Finance,Robotics,AI",Simulation,19,8.54,Visual,0.81,P017,Healthcare,"Cloud,IoT",4,Survey,6,4,M08,4,0.73,2024-12-25,0.78,6.35,8.26,Completed,0.75
+S180,2,6.72,"Cloud,IoT","Robotics,Healthcare,IoT",Simulation,7,9.63,Auditory,0.78,P006,IoT,"Blockchain,Cloud",2,Research,6,4,M17,11,0.53,2025-04-22,0.84,8.67,6.09,Completed,0.779
+S136,4,6.19,"IoT,Cloud,Python","AI,Healthcare",Prototype,19,5.57,Visual,0.74,P049,Healthcare,"Data Analysis,Blockchain,Embedded Systems",2,Simulation,9,3,M07,9,0.47,2024-11-28,0.96,7.04,6.54,Extended,0.791
+S128,4,9.51,"CAD,Python,Data Analysis,ML","Healthcare,Sustainability",Survey,15,5.23,Visual,0.22,P035,AI,"IoT,Blockchain",2,Survey,9,5,M14,11,0.61,2024-10-25,0.81,7.58,5.74,Completed,0.724
+S022,2,7.3,"ML,Blockchain,Python,Embedded Systems","Sustainability,IoT",Prototype,7,7.96,Kinesthetic,0.42,P010,AI,"IoT,Blockchain,Embedded Systems",1,Survey,8,3,M08,4,0.58,2024-07-20,0.94,5.9,9.61,Completed,0.841
+S115,4,6.47,"CAD,Blockchain",IoT,Research,13,8.72,Auditory,0.74,P005,AI,"IoT,Embedded Systems,Blockchain,Cloud",2,Survey,13,4,M11,9,0.61,2024-12-02,0.63,5.28,6.03,Completed,0.591
+S074,1,8.09,"Embedded Systems,CAD,Cloud","Healthcare,AI",Research,9,6.36,Kinesthetic,0.97,P001,Finance,"Embedded Systems,ML",5,Simulation,12,2,M11,10,0.47,2024-08-01,0.82,8.57,9.91,Completed,0.882
+S164,1,7.45,"Cloud,IoT","Sustainability,Healthcare,Finance",Prototype,14,8.04,Auditory,0.4,P042,Robotics,"Python,IoT,Blockchain",1,Survey,5,2,M11,11,0.66,2025-02-08,0.51,5.15,5.37,Completed,0.52
+S121,2,8.34,"Python,Cloud,CAD,IoT","Healthcare,Finance,AI",Prototype,11,5.23,Auditory,0.42,P003,Sustainability,"Python,Embedded Systems",1,Research,5,4,M19,11,0.76,2024-11-27,0.42,9.26,5.53,Completed,0.612
+S186,1,9.6,"CAD,ML,Blockchain","Healthcare,Finance",Prototype,11,7.66,Visual,0.25,P041,AI,"Embedded Systems,Python,CAD",3,Simulation,6,2,M02,8,0.61,2025-05-19,0.73,5.12,7.05,Completed,0.657
+S193,4,8.01,"ML,Data Analysis,Blockchain","Healthcare,IoT",Survey,12,5.75,Kinesthetic,0.38,P043,Healthcare,"ML,IoT,CAD",3,Survey,7,3,M05,7,0.82,2024-10-01,0.8,5.67,9.53,Extended,0.776
+S153,1,8.75,"ML,CAD,Embedded Systems,Blockchain","Finance,Healthcare",Research,12,9.37,Auditory,0.94,P039,AI,"Embedded Systems,CAD,Python,IoT",5,Simulation,12,2,M04,10,0.56,2025-06-18,0.7,5.25,7.83,Completed,0.672
+S071,4,8.32,"CAD,Blockchain,ML,Cloud","Healthcare,Finance",Prototype,11,8.36,Kinesthetic,0.46,P003,Sustainability,"Python,Embedded Systems",1,Research,5,4,M19,11,0.76,2024-12-24,0.46,7.8,9.23,Extended,0.695
+S105,4,9.78,"Python,Blockchain","Finance,Sustainability",Prototype,13,5.57,Visual,0.94,P029,Healthcare,"IoT,Cloud,Blockchain",2,Survey,13,4,M09,9,0.79,2025-03-13,0.47,5.78,6.83,Completed,0.566
+S174,2,8.32,"Embedded Systems,ML,IoT,Python","Healthcare,Finance",Prototype,15,9.66,Auditory,0.46,P043,Healthcare,"ML,IoT,CAD",3,Survey,7,3,M05,7,0.82,2025-05-09,0.76,6.82,6.13,Dropped,0.693
+S125,2,6.13,"Blockchain,ML,Python,Embedded Systems","IoT,Finance",Research,13,6.55,Kinesthetic,0.85,P046,IoT,"IoT,CAD",3,Research,12,4,M17,10,0.83,2025-03-19,0.57,8.01,6.23,Completed,0.655
+S140,2,9.22,"Python,Data Analysis,Cloud,Embedded Systems","AI,Finance",Research,11,5.68,Kinesthetic,0.21,P026,Robotics,"Data Analysis,ML",1,Simulation,6,2,M12,6,0.97,2025-05-12,0.66,6.3,7.58,Completed,0.68
+S154,1,6.01,"Data Analysis,CAD","Robotics,Finance",Prototype,8,9.03,Visual,0.8,P011,IoT,"Blockchain,IoT,Data Analysis,Embedded Systems",5,Prototype,11,4,M19,9,0.52,2024-10-13,0.43,5.52,7.86,Dropped,0.573
+S196,2,7.37,"Data Analysis,Python,CAD,Cloud","Finance,IoT",Simulation,10,7.0,Kinesthetic,0.57,P046,IoT,"IoT,CAD",3,Research,12,4,M17,10,0.83,2025-04-01,0.81,5.33,7.23,Completed,0.701
+S149,1,9.89,"Cloud,Python,Embedded Systems,ML",Finance,Research,17,5.96,Visual,0.23,P044,IoT,"Python,Cloud,IoT",2,Research,7,2,M12,6,0.95,2024-12-03,0.73,5.83,9.78,Completed,0.76
+S119,4,6.3,"Python,Embedded Systems","IoT,Finance",Research,7,8.48,Visual,0.26,P044,IoT,"Python,Cloud,IoT",2,Research,7,2,M12,6,0.95,2024-12-12,0.68,9.21,7.15,Completed,0.763
+S082,2,8.92,"Cloud,CAD","AI,Healthcare",Survey,7,6.24,Visual,0.48,P037,Robotics,"Embedded Systems,Data Analysis",5,Survey,12,4,M04,4,0.83,2025-01-09,0.41,7.62,8.88,Completed,0.659
+S157,2,6.59,"ML,Cloud,Blockchain,IoT","Sustainability,AI,Finance",Prototype,7,8.57,Visual,0.92,P042,Robotics,"Python,IoT,Blockchain",1,Survey,5,2,M11,11,0.66,2024-10-06,0.51,9.91,8.96,Extended,0.77
+S160,3,7.29,"IoT,ML",Healthcare,Simulation,11,5.45,Visual,0.63,P023,Sustainability,"Blockchain,Cloud,Embedded Systems",3,Survey,7,5,M18,5,0.95,2025-06-08,0.64,8.85,5.95,Completed,0.7
+S126,4,7.08,"CAD,IoT,Data Analysis","Healthcare,IoT",Prototype,17,9.55,Visual,0.86,P036,Robotics,"IoT,CAD",3,Survey,5,4,M04,6,0.55,2025-03-20,0.79,5.82,7.32,Completed,0.71
+S040,3,7.48,"Data Analysis,Blockchain,Embedded Systems","AI,Finance",Survey,5,8.64,Auditory,0.49,P044,IoT,"Python,Cloud,IoT",2,Research,7,2,M12,6,0.95,2025-05-23,0.82,5.51,6.9,Extended,0.7
+S187,4,8.5,"Embedded Systems,IoT,Python","Finance,Sustainability,AI",Research,7,7.16,Kinesthetic,0.47,P048,Sustainability,"Data Analysis,CAD,Cloud",1,Research,14,4,M10,11,0.96,2024-10-24,0.91,7.28,8.31,Extended,0.832
+S117,1,6.89,"Data Analysis,Cloud,IoT,CAD",Robotics,Simulation,10,9.01,Kinesthetic,0.98,P020,AI,"IoT,Embedded Systems,Python,Data Analysis",2,Survey,7,5,M14,11,0.91,2024-09-19,0.58,5.91,8.52,Completed,0.665
+S040,3,7.48,"Data Analysis,Blockchain,Embedded Systems","AI,Finance",Survey,5,8.64,Auditory,0.49,P020,AI,"IoT,Embedded Systems,Python,Data Analysis",2,Survey,7,5,M14,11,0.91,2025-05-10,0.99,5.66,9.06,Completed,0.838
+S170,2,7.03,"Cloud,Python","Healthcare,Finance,Robotics",Research,12,8.61,Kinesthetic,0.86,P046,IoT,"IoT,CAD",3,Research,12,4,M17,10,0.83,2024-07-24,0.61,7.15,8.72,Dropped,0.72
+S188,3,7.34,"Blockchain,Python,Embedded Systems,Cloud","IoT,AI,Robotics",Prototype,8,8.97,Auditory,0.7,P018,AI,"Blockchain,Python,Embedded Systems",3,Survey,12,4,M08,9,0.6,2025-04-15,0.73,7.66,8.28,Completed,0.77
+S183,2,8.09,"Python,Embedded Systems",AI,Prototype,8,6.58,Kinesthetic,0.67,P047,Healthcare,"Embedded Systems,Cloud,Python",1,Research,6,2,M12,10,0.82,2024-12-23,0.93,8.9,9.3,Completed,0.918
+S049,3,7.36,"Cloud,Python","Sustainability,Healthcare",Research,7,8.5,Auditory,0.88,P007,Healthcare,"IoT,Embedded Systems,Blockchain,ML",4,Prototype,7,3,M07,7,0.65,2024-12-07,0.66,7.64,6.25,Completed,0.681
+S187,4,8.5,"Embedded Systems,IoT,Python","Finance,Sustainability,AI",Research,7,7.16,Kinesthetic,0.47,P017,Healthcare,"Cloud,IoT",4,Survey,6,4,M08,4,0.73,2025-05-05,0.97,8.81,9.04,Completed,0.924
+S019,3,9.26,"Data Analysis,Cloud","Robotics,Finance,IoT",Research,5,8.56,Kinesthetic,0.83,P030,Finance,"Blockchain,CAD,Data Analysis",4,Simulation,14,3,M13,5,0.56,2025-07-08,0.86,7.1,8.71,Completed,0.818
+S031,3,9.58,"Blockchain,IoT,Cloud,Data Analysis","Sustainability,Finance",Research,11,9.53,Visual,0.42,P012,IoT,"Python,IoT",5,Prototype,5,2,M16,11,0.75,2025-04-27,0.92,5.25,6.59,Completed,0.723
+S174,2,8.32,"Embedded Systems,ML,IoT,Python","Healthcare,Finance",Prototype,15,9.66,Auditory,0.46,P041,AI,"Embedded Systems,Python,CAD",3,Simulation,6,2,M02,8,0.61,2025-03-31,0.68,6.39,6.08,Dropped,0.646
+S089,3,9.78,"ML,Cloud,Data Analysis",Robotics,Prototype,16,7.93,Kinesthetic,0.95,P031,Finance,"Blockchain,Python,CAD,IoT",3,Simulation,10,3,M10,7,0.7,2024-09-24,0.65,9.83,5.0,Completed,0.705
+S044,3,7.39,"Data Analysis,Cloud,Blockchain,CAD","Sustainability,Robotics,IoT",Simulation,11,5.87,Kinesthetic,0.75,P036,Robotics,"IoT,CAD",3,Survey,5,4,M04,6,0.55,2024-07-31,0.89,9.35,7.02,Completed,0.847
+S107,1,7.4,"ML,Data Analysis","Sustainability,Robotics,Healthcare",Prototype,6,9.84,Visual,0.75,P022,AI,"Blockchain,ML,Python,Data Analysis",2,Simulation,11,3,M07,4,0.52,2024-10-25,0.81,9.55,5.78,Completed,0.784
+S106,2,6.23,"Blockchain,ML,Cloud","AI,Sustainability",Simulation,19,5.28,Auditory,0.79,P003,Sustainability,"Python,Embedded Systems",1,Research,5,4,M19,11,0.76,2024-11-30,0.66,8.97,9.17,Completed,0.808
+S124,2,7.06,"Blockchain,ML",Healthcare,Research,9,9.87,Visual,0.99,P018,AI,"Blockchain,Python,Embedded Systems",3,Survey,12,4,M08,9,0.6,2024-12-04,0.41,7.38,9.02,Completed,0.656
+S099,2,8.25,"Python,Blockchain","Robotics,Finance",Prototype,16,7.14,Kinesthetic,0.8,P013,IoT,"Python,CAD",1,Simulation,7,4,M18,5,0.72,2025-03-28,0.67,8.68,5.18,Dropped,0.684
+S198,1,7.02,"IoT,Blockchain,Data Analysis,ML","Robotics,IoT,AI",Research,12,9.36,Auditory,0.95,P006,IoT,"Blockchain,Cloud",2,Research,6,4,M17,11,0.53,2025-02-20,0.76,6.19,9.26,Completed,0.768
+S128,4,9.51,"CAD,Python,Data Analysis,ML","Healthcare,Sustainability",Survey,15,5.23,Visual,0.22,P025,AI,"Data Analysis,Python,ML",4,Survey,8,2,M05,9,0.86,2025-05-11,0.44,8.93,6.38,Extended,0.635
+S024,1,8.25,"Python,Data Analysis","Healthcare,Sustainability,Robotics",Research,19,6.28,Kinesthetic,0.23,P025,AI,"Data Analysis,Python,ML",4,Survey,8,2,M05,9,0.86,2024-08-11,0.75,5.24,9.6,Completed,0.745
+S139,4,7.92,"Blockchain,Data Analysis,Python,CAD","AI,Robotics",Prototype,11,8.78,Auditory,0.7,P016,Sustainability,"Blockchain,CAD",2,Prototype,7,3,M02,7,0.88,2024-11-04,0.55,8.16,6.05,Dropped,0.646
+S046,1,6.84,"Data Analysis,CAD","Robotics,Sustainability",Prototype,19,9.39,Auditory,0.41,P032,Robotics,"ML,Blockchain,Cloud,IoT",2,Simulation,5,2,M06,5,0.83,2025-06-15,0.46,8.46,9.54,Completed,0.724
+S072,2,8.17,"IoT,Embedded Systems,Data Analysis,Blockchain","Healthcare,IoT,Robotics",Survey,17,9.19,Visual,0.89,P004,IoT,"Python,IoT",1,Survey,9,2,M10,7,0.87,2024-11-07,0.65,6.18,8.48,Completed,0.7
+S013,4,6.74,"IoT,Embedded Systems,Data Analysis,CAD","Healthcare,AI,IoT",Research,19,9.21,Auditory,0.56,P002,Sustainability,"Cloud,CAD,Embedded Systems,IoT",5,Research,9,3,M14,7,0.47,2024-11-17,0.69,7.29,5.31,Completed,0.654
+S101,4,7.56,"Data Analysis,Embedded Systems,IoT,Python",Sustainability,Prototype,17,9.48,Auditory,0.51,P033,Sustainability,"CAD,Cloud,IoT",5,Research,14,3,M06,6,0.76,2025-01-11,0.82,5.83,7.3,Completed,0.722
+S095,1,7.98,"Python,CAD,ML",IoT,Research,14,8.48,Visual,0.7,P045,IoT,"Data Analysis,Cloud,CAD",5,Simulation,5,3,M17,10,0.45,2025-02-21,0.77,9.4,5.32,Completed,0.75
+S137,2,7.9,"Python,ML,Data Analysis,Cloud","AI,IoT",Research,7,7.6,Kinesthetic,0.88,P001,Finance,"Embedded Systems,ML",5,Simulation,12,2,M11,10,0.47,2025-03-19,0.44,5.98,7.03,Completed,0.566
+S071,4,8.32,"CAD,Blockchain,ML,Cloud","Healthcare,Finance",Prototype,11,8.36,Kinesthetic,0.46,P012,IoT,"Python,IoT",5,Prototype,5,2,M16,11,0.75,2025-03-11,0.61,7.15,7.01,Completed,0.669
+S137,2,7.9,"Python,ML,Data Analysis,Cloud","AI,IoT",Research,7,7.6,Kinesthetic,0.88,P035,AI,"IoT,Blockchain",2,Survey,9,5,M14,11,0.61,2024-12-08,0.84,9.52,9.47,Extended,0.906
+S175,3,6.21,"Blockchain,Python,CAD","IoT,Healthcare",Research,6,7.27,Visual,0.64,P048,Sustainability,"Data Analysis,CAD,Cloud",1,Research,14,4,M10,11,0.96,2025-05-04,0.86,8.86,9.85,Completed,0.905
+S124,2,7.06,"Blockchain,ML",Healthcare,Research,9,9.87,Visual,0.99,P036,Robotics,"IoT,CAD",3,Survey,5,4,M04,6,0.55,2024-10-06,0.44,6.0,8.6,Completed,0.614
+S017,4,8.17,"Embedded Systems,CAD",Sustainability,Simulation,13,6.48,Kinesthetic,0.33,P021,Healthcare,"Python,Cloud,Data Analysis,IoT",3,Research,8,5,M05,9,0.52,2025-02-26,0.44,8.74,7.24,Completed,0.655
+S005,4,8.45,"ML,Embedded Systems,Cloud,Data Analysis","Robotics,Sustainability,IoT",Simulation,17,7.16,Visual,0.43,P024,AI,"CAD,Embedded Systems,IoT,Cloud",5,Survey,8,4,M10,10,0.63,2024-09-08,0.83,8.56,6.59,Completed,0.786
+S108,2,8.47,"CAD,Embedded Systems,IoT,Python","IoT,Healthcare,AI",Survey,17,9.19,Visual,0.54,P042,Robotics,"Python,IoT,Blockchain",1,Survey,5,2,M11,11,0.66,2025-05-08,0.97,8.73,6.25,Completed,0.837
+S007,2,9.14,"Blockchain,IoT","Sustainability,Healthcare,AI",Prototype,7,6.91,Auditory,0.99,P015,AI,"IoT,Cloud",1,Research,12,2,M07,6,0.62,2025-03-11,0.78,5.31,9.39,Extended,0.753
+S159,3,7.59,"ML,IoT","AI,IoT,Healthcare",Simulation,13,8.69,Kinesthetic,0.35,P003,Sustainability,"Python,Embedded Systems",1,Research,5,4,M19,11,0.76,2025-03-17,0.41,5.66,9.69,Extended,0.624
+S186,1,9.6,"CAD,ML,Blockchain","Healthcare,Finance",Prototype,11,7.66,Visual,0.25,P048,Sustainability,"Data Analysis,CAD,Cloud",1,Research,14,4,M10,11,0.96,2024-10-09,0.91,9.25,9.03,Completed,0.912
+S076,3,8.55,"Python,Data Analysis,ML","Robotics,Healthcare,AI",Research,8,5.66,Visual,0.98,P036,Robotics,"IoT,CAD",3,Survey,5,4,M04,6,0.55,2024-12-11,0.41,6.67,9.76,Dropped,0.657
+S145,4,6.18,"Cloud,Embedded Systems","Healthcare,Robotics,Finance",Prototype,10,7.46,Auditory,0.46,P032,Robotics,"ML,Blockchain,Cloud,IoT",2,Simulation,5,2,M06,5,0.83,2025-07-07,0.65,9.88,7.4,Completed,0.778
+S082,2,8.92,"Cloud,CAD","AI,Healthcare",Survey,7,6.24,Visual,0.48,P044,IoT,"Python,Cloud,IoT",2,Research,7,2,M12,6,0.95,2025-02-18,0.89,5.29,7.43,Completed,0.738
+S186,1,9.6,"CAD,ML,Blockchain","Healthcare,Finance",Prototype,11,7.66,Visual,0.25,P018,AI,"Blockchain,Python,Embedded Systems",3,Survey,12,4,M08,9,0.6,2024-11-19,0.52,9.25,7.98,Completed,0.725
+S119,4,6.3,"Python,Embedded Systems","IoT,Finance",Research,7,8.48,Visual,0.26,P021,Healthcare,"Python,Cloud,Data Analysis,IoT",3,Research,8,5,M05,9,0.52,2024-12-15,0.59,8.9,7.05,Completed,0.714
+S175,3,6.21,"Blockchain,Python,CAD","IoT,Healthcare",Research,6,7.27,Visual,0.64,P038,Finance,"Embedded Systems,Python,CAD",3,Research,10,3,M15,11,0.96,2024-12-18,0.59,7.76,7.7,Completed,0.7
+S125,2,6.13,"Blockchain,ML,Python,Embedded Systems","IoT,Finance",Research,13,6.55,Kinesthetic,0.85,P003,Sustainability,"Python,Embedded Systems",1,Research,5,4,M19,11,0.76,2025-04-05,0.91,8.76,8.38,Dropped,0.878
+S100,1,6.95,"Python,IoT","Sustainability,AI",Prototype,18,9.51,Visual,0.6,P026,Robotics,"Data Analysis,ML",1,Simulation,6,2,M12,6,0.97,2025-05-20,0.74,5.68,8.38,Completed,0.718
+S066,3,6.56,"IoT,Blockchain,CAD,Cloud","Healthcare,AI",Research,15,6.48,Auditory,0.46,P048,Sustainability,"Data Analysis,CAD,Cloud",1,Research,14,4,M10,11,0.96,2025-04-24,0.71,6.54,7.11,Dropped,0.694
+S089,3,9.78,"ML,Cloud,Data Analysis",Robotics,Prototype,16,7.93,Kinesthetic,0.95,P023,Sustainability,"Blockchain,Cloud,Embedded Systems",3,Survey,7,5,M18,5,0.95,2025-04-30,0.89,5.06,9.33,Dropped,0.788
+S047,4,6.7,"CAD,Embedded Systems,Data Analysis","Healthcare,IoT,Robotics",Prototype,13,7.58,Auditory,0.41,P050,Robotics,"IoT,Embedded Systems,Python",1,Simulation,7,5,M08,5,0.65,2024-11-17,0.69,9.89,7.2,Completed,0.789
+S087,2,7.04,"Cloud,Python,Blockchain,Data Analysis",Finance,Prototype,14,8.13,Visual,0.6,P018,AI,"Blockchain,Python,Embedded Systems",3,Survey,12,4,M08,9,0.6,2025-07-04,0.79,7.61,7.54,Extended,0.77
+S163,3,8.98,"ML,Embedded Systems","Healthcare,Sustainability",Research,5,7.82,Visual,0.5,P009,Sustainability,"CAD,ML,Python",2,Prototype,9,2,M07,4,0.98,2024-11-25,0.43,7.86,7.38,Completed,0.629
+S034,2,7.35,"CAD,Blockchain,IoT","Healthcare,IoT,Robotics",Survey,19,5.84,Kinesthetic,0.38,P023,Sustainability,"Blockchain,Cloud,Embedded Systems",3,Survey,7,5,M18,5,0.95,2025-04-15,0.67,7.4,8.43,Extended,0.743
+S097,2,7.69,"CAD,IoT,Blockchain,ML","Sustainability,Robotics,Finance",Prototype,12,9.03,Visual,0.99,P041,AI,"Embedded Systems,Python,CAD",3,Simulation,6,2,M02,8,0.61,2025-02-06,0.73,6.58,7.11,Completed,0.703
+S022,2,7.3,"ML,Blockchain,Python,Embedded Systems","Sustainability,IoT",Prototype,7,7.96,Kinesthetic,0.42,P015,AI,"IoT,Cloud",1,Research,12,2,M07,6,0.62,2024-09-18,0.96,5.59,9.5,Extended,0.837
+S099,2,8.25,"Python,Blockchain","Robotics,Finance",Prototype,16,7.14,Kinesthetic,0.8,P039,AI,"Embedded Systems,CAD,Python,IoT",5,Simulation,12,2,M04,10,0.56,2025-03-20,0.9,7.82,8.77,Completed,0.858
+S174,2,8.32,"Embedded Systems,ML,IoT,Python","Healthcare,Finance",Prototype,15,9.66,Auditory,0.46,P027,Healthcare,"ML,Python",4,Simulation,12,2,M10,9,0.69,2024-10-11,0.47,6.45,5.55,Extended,0.548
+S193,4,8.01,"ML,Data Analysis,Blockchain","Healthcare,IoT",Survey,12,5.75,Kinesthetic,0.38,P010,AI,"IoT,Blockchain,Embedded Systems",1,Survey,8,3,M08,4,0.58,2024-10-27,0.62,7.21,6.71,Completed,0.666
+S012,2,8.65,"Cloud,ML","Robotics,Sustainability,IoT",Survey,6,7.13,Visual,0.37,P002,Sustainability,"Cloud,CAD,Embedded Systems,IoT",5,Research,9,3,M14,7,0.47,2025-02-13,0.8,6.58,9.27,Completed,0.796
+S128,4,9.51,"CAD,Python,Data Analysis,ML","Healthcare,Sustainability",Survey,15,5.23,Visual,0.22,P031,Finance,"Blockchain,Python,CAD,IoT",3,Simulation,10,3,M10,7,0.7,2025-03-27,0.84,9.59,6.45,Completed,0.817
+S150,1,7.38,"Python,Cloud,ML,IoT","Healthcare,Finance",Prototype,14,5.89,Kinesthetic,0.27,P022,AI,"Blockchain,ML,Python,Data Analysis",2,Simulation,11,3,M07,4,0.52,2024-08-31,0.87,7.14,7.71,Completed,0.793
+S194,4,9.09,"Data Analysis,IoT,Cloud,Python","Healthcare,Finance",Survey,15,8.21,Kinesthetic,0.76,P028,Finance,"Python,Embedded Systems,CAD,IoT",1,Simulation,6,4,M17,9,0.85,2025-01-11,0.66,8.62,6.83,Completed,0.727
+S042,1,6.6,"CAD,Blockchain,Data Analysis,ML","Finance,AI,Healthcare",Survey,15,5.93,Kinesthetic,0.23,P046,IoT,"IoT,CAD",3,Research,12,4,M17,10,0.83,2025-04-07,0.4,7.21,7.46,Completed,0.6
+S144,4,7.84,"Cloud,IoT,Data Analysis,Embedded Systems","AI,Sustainability,IoT",Survey,5,7.46,Auditory,0.41,P012,IoT,"Python,IoT",5,Prototype,5,2,M16,11,0.75,2024-10-23,0.63,6.51,7.68,Completed,0.678
+S004,4,9.75,"Cloud,Embedded Systems","IoT,Healthcare,AI",Simulation,6,5.91,Kinesthetic,0.35,P020,AI,"IoT,Embedded Systems,Python,Data Analysis",2,Survey,7,5,M14,11,0.91,2024-10-20,0.77,8.27,9.31,Completed,0.835
+S145,4,6.18,"Cloud,Embedded Systems","Healthcare,Robotics,Finance",Prototype,10,7.46,Auditory,0.46,P002,Sustainability,"Cloud,CAD,Embedded Systems,IoT",5,Research,9,3,M14,7,0.47,2025-07-10,0.58,8.3,7.86,Completed,0.717
+S172,1,6.75,"Embedded Systems,Python,ML",AI,Prototype,10,8.55,Auditory,0.36,P017,Healthcare,"Cloud,IoT",4,Survey,6,4,M08,4,0.73,2025-04-15,0.77,5.79,8.13,Completed,0.726
+S008,1,6.19,"Cloud,Data Analysis","Finance,AI",Survey,7,8.4,Kinesthetic,0.56,P050,Robotics,"IoT,Embedded Systems,Python",1,Simulation,7,5,M08,5,0.65,2024-10-17,0.4,6.09,5.91,Completed,0.52
+S118,1,6.17,"ML,CAD","Sustainability,Healthcare,Finance",Survey,9,5.22,Auditory,0.94,P023,Sustainability,"Blockchain,Cloud,Embedded Systems",3,Survey,7,5,M18,5,0.95,2024-08-29,0.68,8.35,8.53,Extended,0.778
+S174,2,8.32,"Embedded Systems,ML,IoT,Python","Healthcare,Finance",Prototype,15,9.66,Auditory,0.46,P050,Robotics,"IoT,Embedded Systems,Python",1,Simulation,7,5,M08,5,0.65,2024-08-14,0.63,8.26,8.48,Completed,0.754
+S193,4,8.01,"ML,Data Analysis,Blockchain","Healthcare,IoT",Survey,12,5.75,Kinesthetic,0.38,P027,Healthcare,"ML,Python",4,Simulation,12,2,M10,9,0.69,2025-02-18,0.75,9.59,7.65,Completed,0.817
+S169,2,7.59,"Embedded Systems,CAD,Data Analysis,Cloud",Robotics,Research,16,9.59,Visual,0.2,P030,Finance,"Blockchain,CAD,Data Analysis",4,Simulation,14,3,M13,5,0.56,2024-12-19,0.53,5.08,8.58,Completed,0.622
+S140,2,9.22,"Python,Data Analysis,Cloud,Embedded Systems","AI,Finance",Research,11,5.68,Kinesthetic,0.21,P019,Sustainability,"Blockchain,Cloud",5,Survey,7,4,M01,7,0.54,2025-02-04,0.67,9.72,8.64,Completed,0.819
+S040,3,7.48,"Data Analysis,Blockchain,Embedded Systems","AI,Finance",Survey,5,8.64,Auditory,0.49,P004,IoT,"Python,IoT",1,Survey,9,2,M10,7,0.87,2024-08-20,0.65,6.69,8.48,Extended,0.715
+S053,2,8.19,"Data Analysis,Python,CAD",Healthcare,Survey,10,7.24,Visual,1.0,P038,Finance,"Embedded Systems,Python,CAD",3,Research,10,3,M15,11,0.96,2025-05-01,0.42,9.2,8.78,Completed,0.707
+S111,2,9.25,"Cloud,ML,Python","Finance,Sustainability,Healthcare",Research,19,9.54,Visual,0.67,P025,AI,"Data Analysis,Python,ML",4,Survey,8,2,M05,9,0.86,2024-07-27,0.45,8.16,5.27,Completed,0.583
+S075,3,6.34,"ML,Cloud",IoT,Prototype,17,5.97,Auditory,0.53,P008,Sustainability,"Data Analysis,Python,CAD",1,Prototype,5,2,M11,9,0.53,2025-02-12,0.91,7.96,9.89,Completed,0.899
+S173,4,6.97,"Cloud,IoT,Embedded Systems","Finance,Robotics,AI",Simulation,19,8.54,Visual,0.81,P050,Robotics,"IoT,Embedded Systems,Python",1,Simulation,7,5,M08,5,0.65,2025-06-10,0.8,8.54,5.96,Completed,0.755
+S111,2,9.25,"Cloud,ML,Python","Finance,Sustainability,Healthcare",Research,19,9.54,Visual,0.67,P034,AI,"Cloud,Python,Blockchain",4,Prototype,13,2,M07,5,0.95,2024-09-11,0.54,9.17,7.16,Extended,0.706
+S197,2,8.46,"ML,Cloud,Embedded Systems","IoT,Robotics",Survey,14,7.93,Auditory,0.6,P019,Sustainability,"Blockchain,Cloud",5,Survey,7,4,M01,7,0.54,2025-02-03,0.45,5.57,5.16,Extended,0.502
+S022,2,7.3,"ML,Blockchain,Python,Embedded Systems","Sustainability,IoT",Prototype,7,7.96,Kinesthetic,0.42,P037,Robotics,"Embedded Systems,Data Analysis",5,Survey,12,4,M04,4,0.83,2025-03-13,0.46,6.39,5.69,Extended,0.546
+S173,4,6.97,"Cloud,IoT,Embedded Systems","Finance,Robotics,AI",Simulation,19,8.54,Visual,0.81,P027,Healthcare,"ML,Python",4,Simulation,12,2,M10,9,0.69,2024-11-12,0.54,8.43,6.74,Completed,0.671
+S142,3,8.91,"Python,Cloud,ML,Data Analysis",Robotics,Simulation,13,7.57,Auditory,0.83,P015,AI,"IoT,Cloud",1,Research,12,2,M07,6,0.62,2025-05-25,0.49,8.32,6.4,Completed,0.638
+S023,3,7.89,"Cloud,Data Analysis,CAD","AI,Sustainability",Simulation,9,9.86,Auditory,0.88,P005,AI,"IoT,Embedded Systems,Blockchain,Cloud",2,Survey,13,4,M11,9,0.61,2025-06-30,0.6,9.99,7.32,Extended,0.759
+S052,4,6.41,"IoT,ML","Finance,Sustainability,Healthcare",Research,7,9.87,Kinesthetic,0.43,P022,AI,"Blockchain,ML,Python,Data Analysis",2,Simulation,11,3,M07,4,0.52,2024-12-17,0.99,5.15,6.87,Completed,0.757
+S025,3,7.71,"Python,Cloud","Sustainability,Healthcare,Robotics",Research,14,7.2,Visual,0.36,P013,IoT,"Python,CAD",1,Simulation,7,4,M18,5,0.72,2024-08-19,0.48,9.36,6.73,Completed,0.675
+S080,3,7.0,"IoT,Cloud,Blockchain","Robotics,IoT,Sustainability",Simulation,18,5.47,Auditory,0.35,P036,Robotics,"IoT,CAD",3,Survey,5,4,M04,6,0.55,2025-02-24,0.52,8.85,7.49,Completed,0.698
+S184,2,9.27,"Embedded Systems,Blockchain,IoT,Python","Finance,Sustainability,Robotics",Prototype,11,8.57,Auditory,0.92,P008,Sustainability,"Data Analysis,Python,CAD",1,Prototype,5,2,M11,9,0.53,2025-03-14,0.45,8.76,5.21,Completed,0.599
+S145,4,6.18,"Cloud,Embedded Systems","Healthcare,Robotics,Finance",Prototype,10,7.46,Auditory,0.46,P043,Healthcare,"ML,IoT,CAD",3,Survey,7,3,M05,7,0.82,2024-08-26,0.41,5.78,8.29,Completed,0.586
+S025,3,7.71,"Python,Cloud","Sustainability,Healthcare,Robotics",Research,14,7.2,Visual,0.36,P010,AI,"IoT,Blockchain,Embedded Systems",1,Survey,8,3,M08,4,0.58,2025-02-28,0.98,7.77,7.65,Completed,0.855
+S002,3,7.78,"Blockchain,Data Analysis,CAD",Healthcare,Simulation,11,5.29,Auditory,0.89,P009,Sustainability,"CAD,ML,Python",2,Prototype,9,2,M07,4,0.98,2024-10-18,0.6,9.25,7.88,Dropped,0.754
+S173,4,6.97,"Cloud,IoT,Embedded Systems","Finance,Robotics,AI",Simulation,19,8.54,Visual,0.81,P014,IoT,"Embedded Systems,Cloud,Python,Data Analysis",1,Research,6,3,M06,6,0.49,2024-11-14,0.67,8.47,9.18,Completed,0.797
+S119,4,6.3,"Python,Embedded Systems","IoT,Finance",Research,7,8.48,Visual,0.26,P011,IoT,"Blockchain,IoT,Data Analysis,Embedded Systems",5,Prototype,11,4,M19,9,0.52,2024-08-19,0.86,6.31,6.4,Completed,0.725
+S198,1,7.02,"IoT,Blockchain,Data Analysis,ML","Robotics,IoT,AI",Research,12,9.36,Auditory,0.95,P008,Sustainability,"Data Analysis,Python,CAD",1,Prototype,5,2,M11,9,0.53,2025-03-16,0.86,5.22,9.18,Extended,0.776
+S187,4,8.5,"Embedded Systems,IoT,Python","Finance,Sustainability,AI",Research,7,7.16,Kinesthetic,0.47,P040,IoT,"Cloud,Python,Blockchain,IoT",3,Simulation,8,4,M17,9,0.97,2025-04-16,0.86,6.69,8.27,Completed,0.793
+S034,2,7.35,"CAD,Blockchain,IoT","Healthcare,IoT,Robotics",Survey,19,5.84,Kinesthetic,0.38,P009,Sustainability,"CAD,ML,Python",2,Prototype,9,2,M07,4,0.98,2024-12-04,0.61,8.28,5.57,Completed,0.659
+S063,4,7.18,"IoT,Cloud,ML","Robotics,AI,IoT",Prototype,9,5.95,Visual,0.41,P050,Robotics,"IoT,Embedded Systems,Python",1,Simulation,7,5,M08,5,0.65,2024-10-26,0.96,5.33,9.4,Completed,0.826
+S052,4,6.41,"IoT,ML","Finance,Sustainability,Healthcare",Research,7,9.87,Kinesthetic,0.43,P030,Finance,"Blockchain,CAD,Data Analysis",4,Simulation,14,3,M13,5,0.56,2025-06-19,0.43,7.74,9.26,Completed,0.682
+S138,2,9.87,"IoT,Python","Robotics,Sustainability,AI",Simulation,18,9.38,Kinesthetic,0.52,P028,Finance,"Python,Embedded Systems,CAD,IoT",1,Simulation,6,4,M17,9,0.85,2025-06-03,0.94,8.2,9.09,Dropped,0.895
+S051,1,6.65,"IoT,CAD,Python","Healthcare,Finance",Prototype,10,8.34,Auditory,0.66,P016,Sustainability,"Blockchain,CAD",2,Prototype,7,3,M02,7,0.88,2025-07-15,0.92,7.96,7.89,Extended,0.844
+S071,4,8.32,"CAD,Blockchain,ML,Cloud","Healthcare,Finance",Prototype,11,8.36,Kinesthetic,0.46,P006,IoT,"Blockchain,Cloud",2,Research,6,4,M17,11,0.53,2024-09-04,0.69,6.88,9.4,Completed,0.764
+S083,1,6.48,"ML,Embedded Systems,Python","Sustainability,AI",Simulation,17,5.58,Kinesthetic,0.24,P036,Robotics,"IoT,CAD",3,Survey,5,4,M04,6,0.55,2024-11-14,0.79,5.59,6.82,Completed,0.688
+S190,1,8.83,"Python,Embedded Systems,CAD","Sustainability,IoT",Simulation,15,8.72,Auditory,0.23,P001,Finance,"Embedded Systems,ML",5,Simulation,12,2,M11,10,0.47,2025-03-26,0.57,7.31,8.92,Completed,0.715
+S065,3,8.28,"IoT,CAD,ML",IoT,Simulation,12,6.04,Kinesthetic,0.74,P047,Healthcare,"Embedded Systems,Cloud,Python",1,Research,6,2,M12,10,0.82,2024-09-22,0.54,9.27,7.06,Dropped,0.706
+S186,1,9.6,"CAD,ML,Blockchain","Healthcare,Finance",Prototype,11,7.66,Visual,0.25,P047,Healthcare,"Embedded Systems,Cloud,Python",1,Research,6,2,M12,10,0.82,2024-09-14,0.47,5.09,8.52,Dropped,0.596
+S079,3,8.78,"IoT,Embedded Systems,ML,Data Analysis","Healthcare,Robotics,AI",Survey,9,5.29,Auditory,0.93,P018,AI,"Blockchain,Python,Embedded Systems",3,Survey,12,4,M08,9,0.6,2025-03-27,0.67,9.24,7.05,Completed,0.757
+S079,3,8.78,"IoT,Embedded Systems,ML,Data Analysis","Healthcare,Robotics,AI",Survey,9,5.29,Auditory,0.93,P030,Finance,"Blockchain,CAD,Data Analysis",4,Simulation,14,3,M13,5,0.56,2025-02-25,0.96,9.49,7.37,Completed,0.89
+S056,4,6.37,"ML,CAD,Cloud",Finance,Prototype,7,8.18,Auditory,0.4,P010,AI,"IoT,Blockchain,Embedded Systems",1,Survey,8,3,M08,4,0.58,2024-08-11,0.96,9.33,8.3,Extended,0.913
+S189,4,8.97,"ML,Blockchain,IoT",Robotics,Survey,15,8.94,Visual,0.32,P047,Healthcare,"Embedded Systems,Cloud,Python",1,Research,6,2,M12,10,0.82,2024-12-10,0.41,7.82,8.58,Completed,0.656
+S038,3,7.11,"Blockchain,Python,IoT,Cloud",Finance,Research,5,8.17,Auditory,0.74,P006,IoT,"Blockchain,Cloud",2,Research,6,4,M17,11,0.53,2025-01-27,0.86,5.75,7.23,Completed,0.733
+S036,4,7.01,"CAD,Embedded Systems",AI,Research,6,8.56,Kinesthetic,0.32,P023,Sustainability,"Blockchain,Cloud,Embedded Systems",3,Survey,7,5,M18,5,0.95,2025-01-10,0.68,9.32,5.26,Completed,0.709
+S124,2,7.06,"Blockchain,ML",Healthcare,Research,9,9.87,Visual,0.99,P033,Sustainability,"CAD,Cloud,IoT",5,Research,14,3,M06,6,0.76,2025-06-15,1.0,9.93,5.62,Completed,0.866
+S075,3,6.34,"ML,Cloud",IoT,Prototype,17,5.97,Auditory,0.53,P040,IoT,"Cloud,Python,Blockchain,IoT",3,Simulation,8,4,M17,9,0.97,2024-12-20,0.81,5.33,6.63,Completed,0.683
+S200,2,9.08,"Blockchain,Data Analysis,ML","Robotics,Finance",Simulation,19,8.03,Kinesthetic,0.54,P012,IoT,"Python,IoT",5,Prototype,5,2,M16,11,0.75,2025-03-26,0.67,8.09,8.43,Completed,0.764
+S134,2,7.51,"CAD,Cloud","Robotics,Finance,IoT",Prototype,9,7.25,Kinesthetic,0.3,P001,Finance,"Embedded Systems,ML",5,Simulation,12,2,M11,10,0.47,2025-03-16,0.99,9.73,6.09,Dropped,0.871
+S105,4,9.78,"Python,Blockchain","Finance,Sustainability",Prototype,13,5.57,Visual,0.94,P013,IoT,"Python,CAD",1,Simulation,7,4,M18,5,0.72,2024-07-26,0.88,9.32,5.23,Dropped,0.788
+S073,1,6.15,"Blockchain,Python","Finance,Sustainability,IoT",Survey,10,6.52,Visual,0.63,P021,Healthcare,"Python,Cloud,Data Analysis,IoT",3,Research,8,5,M05,9,0.52,2024-10-24,0.66,9.25,6.85,Completed,0.747
+S167,2,7.14,"IoT,Python,Data Analysis","Robotics,Sustainability,Finance",Research,19,5.28,Auditory,0.87,P024,AI,"CAD,Embedded Systems,IoT,Cloud",5,Survey,8,4,M10,10,0.63,2024-11-20,0.78,7.67,7.91,Extended,0.779
+S113,3,7.7,"Data Analysis,CAD,ML,Cloud","Sustainability,Healthcare",Simulation,14,6.65,Auditory,0.55,P041,AI,"Embedded Systems,Python,CAD",3,Simulation,6,2,M02,8,0.61,2024-10-03,0.72,9.59,5.91,Completed,0.753
+S077,2,7.29,"Python,Blockchain,Data Analysis","IoT,Finance,Robotics",Survey,5,6.99,Auditory,0.55,P048,Sustainability,"Data Analysis,CAD,Cloud",1,Research,14,4,M10,11,0.96,2025-03-04,0.54,6.65,6.54,Completed,0.612
+S108,2,8.47,"CAD,Embedded Systems,IoT,Python","IoT,Healthcare,AI",Survey,17,9.19,Visual,0.54,P039,AI,"Embedded Systems,CAD,Python,IoT",5,Simulation,12,2,M04,10,0.56,2024-07-24,0.6,6.22,6.27,Completed,0.615
+S054,4,8.85,"Blockchain,Data Analysis,Cloud,CAD",Finance,Survey,5,7.47,Kinesthetic,0.34,P035,AI,"IoT,Blockchain",2,Survey,9,5,M14,11,0.61,2025-06-19,0.64,5.52,8.29,Extended,0.67
+S130,1,9.0,"Embedded Systems,IoT,Data Analysis","Sustainability,AI",Research,13,9.85,Visual,0.87,P029,Healthcare,"IoT,Cloud,Blockchain",2,Survey,13,4,M09,9,0.79,2024-08-11,0.83,7.73,7.67,Extended,0.794
+S021,1,8.49,"Embedded Systems,Blockchain,Data Analysis,Cloud",IoT,Simulation,6,5.48,Auditory,0.5,P031,Finance,"Blockchain,Python,CAD,IoT",3,Simulation,10,3,M10,7,0.7,2024-11-23,0.68,7.73,9.01,Completed,0.774
+S025,3,7.71,"Python,Cloud","Sustainability,Healthcare,Robotics",Research,14,7.2,Visual,0.36,P009,Sustainability,"CAD,ML,Python",2,Prototype,9,2,M07,4,0.98,2025-03-08,0.77,5.78,8.92,Completed,0.749
+S018,1,9.95,"Cloud,IoT","Healthcare,Sustainability",Prototype,12,6.97,Auditory,0.43,P002,Sustainability,"Cloud,CAD,Embedded Systems,IoT",5,Research,9,3,M14,7,0.47,2025-01-27,0.57,5.43,7.78,Dropped,0.624
+S175,3,6.21,"Blockchain,Python,CAD","IoT,Healthcare",Research,6,7.27,Visual,0.64,P025,AI,"Data Analysis,Python,ML",4,Survey,8,2,M05,9,0.86,2025-04-12,0.96,5.53,9.23,Completed,0.827
+S198,1,7.02,"IoT,Blockchain,Data Analysis,ML","Robotics,IoT,AI",Research,12,9.36,Auditory,0.95,P028,Finance,"Python,Embedded Systems,CAD,IoT",1,Simulation,6,4,M17,9,0.85,2024-11-10,0.84,7.62,7.19,Completed,0.78
+S089,3,9.78,"ML,Cloud,Data Analysis",Robotics,Prototype,16,7.93,Kinesthetic,0.95,P020,AI,"IoT,Embedded Systems,Python,Data Analysis",2,Survey,7,5,M14,11,0.91,2025-02-10,0.98,7.12,7.0,Completed,0.816
+S069,4,8.05,"Embedded Systems,ML,Python",AI,Survey,13,8.14,Auditory,0.36,P002,Sustainability,"Cloud,CAD,Embedded Systems,IoT",5,Research,9,3,M14,7,0.47,2024-09-08,0.67,9.06,5.69,Completed,0.711
+S162,1,7.99,"CAD,Embedded Systems,IoT,Python",Sustainability,Simulation,19,7.92,Kinesthetic,0.79,P047,Healthcare,"Embedded Systems,Cloud,Python",1,Research,6,2,M12,10,0.82,2024-11-03,0.45,6.54,9.37,Extended,0.657
+S021,1,8.49,"Embedded Systems,Blockchain,Data Analysis,Cloud",IoT,Simulation,6,5.48,Auditory,0.5,P005,AI,"IoT,Embedded Systems,Blockchain,Cloud",2,Survey,13,4,M11,9,0.61,2024-11-13,0.46,6.14,9.01,Dropped,0.638
+S009,2,9.8,"Data Analysis,Embedded Systems,Blockchain","Sustainability,AI",Research,16,7.82,Visual,0.51,P048,Sustainability,"Data Analysis,CAD,Cloud",1,Research,14,4,M10,11,0.96,2024-09-09,0.52,5.51,7.14,Completed,0.587
+S020,3,6.3,"Data Analysis,CAD","IoT,Finance",Survey,11,8.26,Kinesthetic,0.93,P015,AI,"IoT,Cloud",1,Research,12,2,M07,6,0.62,2025-06-09,0.55,9.25,8.43,Extended,0.75
+S191,2,8.86,"Data Analysis,IoT,Python","Sustainability,Healthcare",Prototype,9,9.38,Auditory,0.47,P016,Sustainability,"Blockchain,CAD",2,Prototype,7,3,M02,7,0.88,2025-07-07,0.61,7.79,9.96,Dropped,0.776
+S017,4,8.17,"Embedded Systems,CAD",Sustainability,Simulation,13,6.48,Kinesthetic,0.33,P029,Healthcare,"IoT,Cloud,Blockchain",2,Survey,13,4,M09,9,0.79,2025-03-20,0.52,9.07,8.15,Completed,0.725
+S033,2,8.04,"Data Analysis,Embedded Systems,Cloud,Blockchain","Robotics,Finance,Sustainability",Simulation,13,7.42,Kinesthetic,0.75,P014,IoT,"Embedded Systems,Cloud,Python,Data Analysis",1,Research,6,3,M06,6,0.49,2024-11-09,0.92,5.58,8.52,Extended,0.791
+S164,1,7.45,"Cloud,IoT","Sustainability,Healthcare,Finance",Prototype,14,8.04,Auditory,0.4,P036,Robotics,"IoT,CAD",3,Survey,5,4,M04,6,0.55,2025-02-21,0.5,9.58,6.09,Completed,0.67
+S052,4,6.41,"IoT,ML","Finance,Sustainability,Healthcare",Research,7,9.87,Kinesthetic,0.43,P007,Healthcare,"IoT,Embedded Systems,Blockchain,ML",4,Prototype,7,3,M07,7,0.65,2025-02-21,0.76,8.13,5.3,Completed,0.707
+S090,4,8.71,"CAD,ML,Data Analysis,Blockchain",Finance,Prototype,7,8.22,Kinesthetic,0.57,P001,Finance,"Embedded Systems,ML",5,Simulation,12,2,M11,10,0.47,2024-09-25,1.0,5.99,6.18,Completed,0.765
+S125,2,6.13,"Blockchain,ML,Python,Embedded Systems","IoT,Finance",Research,13,6.55,Kinesthetic,0.85,P010,AI,"IoT,Blockchain,Embedded Systems",1,Survey,8,3,M08,4,0.58,2024-07-24,0.57,5.26,6.03,Completed,0.567
+S025,3,7.71,"Python,Cloud","Sustainability,Healthcare,Robotics",Research,14,7.2,Visual,0.36,P041,AI,"Embedded Systems,Python,CAD",3,Simulation,6,2,M02,8,0.61,2024-07-29,0.6,6.2,9.8,Completed,0.72
+S163,3,8.98,"ML,Embedded Systems","Healthcare,Sustainability",Research,5,7.82,Visual,0.5,P039,AI,"Embedded Systems,CAD,Python,IoT",5,Simulation,12,2,M04,10,0.56,2025-01-13,0.62,6.11,9.07,Completed,0.703
+S067,4,8.79,"IoT,Embedded Systems,Python",Finance,Prototype,15,8.54,Auditory,0.64,P018,AI,"Blockchain,Python,Embedded Systems",3,Survey,12,4,M08,9,0.6,2024-12-12,0.71,7.17,8.92,Completed,0.767
+S115,4,6.47,"CAD,Blockchain",IoT,Research,13,8.72,Auditory,0.74,P036,Robotics,"IoT,CAD",3,Survey,5,4,M04,6,0.55,2024-12-11,0.97,6.58,8.24,Extended,0.833
+S044,3,7.39,"Data Analysis,Cloud,Blockchain,CAD","Sustainability,Robotics,IoT",Simulation,11,5.87,Kinesthetic,0.75,P038,Finance,"Embedded Systems,Python,CAD",3,Research,10,3,M15,11,0.96,2025-01-19,0.69,8.28,6.24,Completed,0.712
+S135,3,7.1,"Embedded Systems,Data Analysis,CAD,Python",Healthcare,Prototype,8,6.14,Kinesthetic,0.74,P016,Sustainability,"Blockchain,CAD",2,Prototype,7,3,M02,7,0.88,2025-06-06,0.99,6.6,9.64,Completed,0.883
+S100,1,6.95,"Python,IoT","Sustainability,AI",Prototype,18,9.51,Visual,0.6,P032,Robotics,"ML,Blockchain,Cloud,IoT",2,Simulation,5,2,M06,5,0.83,2025-03-18,0.57,7.95,7.32,Completed,0.686
+S143,4,7.19,"CAD,Blockchain","Finance,IoT",Research,14,9.31,Visual,0.96,P022,AI,"Blockchain,ML,Python,Data Analysis",2,Simulation,11,3,M07,4,0.52,2024-11-24,0.93,6.33,8.63,Extended,0.821
+S177,3,8.73,"Blockchain,CAD,IoT,Python",Sustainability,Simulation,5,5.58,Kinesthetic,0.58,P048,Sustainability,"Data Analysis,CAD,Cloud",1,Research,14,4,M10,11,0.96,2025-06-23,0.43,9.36,5.24,Completed,0.61
+S139,4,7.92,"Blockchain,Data Analysis,Python,CAD","AI,Robotics",Prototype,11,8.78,Auditory,0.7,P042,Robotics,"Python,IoT,Blockchain",1,Survey,5,2,M11,11,0.66,2024-09-29,0.44,7.75,6.52,Completed,0.604
+S154,1,6.01,"Data Analysis,CAD","Robotics,Finance",Prototype,8,9.03,Visual,0.8,P049,Healthcare,"Data Analysis,Blockchain,Embedded Systems",2,Simulation,9,3,M07,9,0.47,2024-08-14,0.4,7.19,8.85,Extended,0.641
+S002,3,7.78,"Blockchain,Data Analysis,CAD",Healthcare,Simulation,11,5.29,Auditory,0.89,P049,Healthcare,"Data Analysis,Blockchain,Embedded Systems",2,Simulation,9,3,M07,9,0.47,2025-02-01,0.8,8.73,8.04,Completed,0.823
+S104,1,6.37,"Cloud,Blockchain,Python","Finance,IoT,Robotics",Research,16,6.64,Kinesthetic,0.74,P036,Robotics,"IoT,CAD",3,Survey,5,4,M04,6,0.55,2024-12-31,0.56,5.84,6.52,Extended,0.595
+S011,4,7.98,"Data Analysis,ML","IoT,Robotics,Finance",Research,19,5.87,Kinesthetic,0.51,P011,IoT,"Blockchain,IoT,Data Analysis,Embedded Systems",5,Prototype,11,4,M19,9,0.52,2025-04-29,0.9,8.5,7.14,Dropped,0.829
+S177,3,8.73,"Blockchain,CAD,IoT,Python",Sustainability,Simulation,5,5.58,Kinesthetic,0.58,P048,Sustainability,"Data Analysis,CAD,Cloud",1,Research,14,4,M10,11,0.96,2024-10-25,0.81,7.2,9.51,Completed,0.825
+S172,1,6.75,"Embedded Systems,Python,ML",AI,Prototype,10,8.55,Auditory,0.36,P050,Robotics,"IoT,Embedded Systems,Python",1,Simulation,7,5,M08,5,0.65,2025-06-04,0.47,8.42,7.96,Completed,0.679
+S103,2,8.71,"Python,IoT,ML,Blockchain","Healthcare,AI,IoT",Survey,8,7.87,Kinesthetic,0.71,P022,AI,"Blockchain,ML,Python,Data Analysis",2,Simulation,11,3,M07,4,0.52,2024-11-16,0.86,8.84,8.0,Extended,0.849
+S023,3,7.89,"Cloud,Data Analysis,CAD","AI,Sustainability",Simulation,9,9.86,Auditory,0.88,P020,AI,"IoT,Embedded Systems,Python,Data Analysis",2,Survey,7,5,M14,11,0.91,2025-04-16,0.41,7.67,6.47,Completed,0.588
+S006,3,7.6,"Cloud,Embedded Systems,ML,Data Analysis","Healthcare,IoT",Prototype,16,9.87,Kinesthetic,0.39,P040,IoT,"Cloud,Python,Blockchain,IoT",3,Simulation,8,4,M17,9,0.97,2024-12-16,0.73,8.77,9.69,Completed,0.846
+S136,4,6.19,"IoT,Cloud,Python","AI,Healthcare",Prototype,19,5.57,Visual,0.74,P005,AI,"IoT,Embedded Systems,Blockchain,Cloud",2,Survey,13,4,M11,9,0.61,2024-12-14,0.64,5.78,6.91,Completed,0.637
+S143,4,7.19,"CAD,Blockchain","Finance,IoT",Research,14,9.31,Visual,0.96,P034,AI,"Cloud,Python,Blockchain",4,Prototype,13,2,M07,5,0.95,2024-10-26,0.63,5.91,5.39,Dropped,0.591
+S112,4,7.51,"Blockchain,ML",Finance,Prototype,19,7.41,Kinesthetic,0.5,P014,IoT,"Embedded Systems,Cloud,Python,Data Analysis",1,Research,6,3,M06,6,0.49,2025-04-20,0.63,8.3,8.51,Completed,0.756
+S120,3,8.52,"Cloud,ML,Data Analysis,IoT",Finance,Simulation,18,6.47,Visual,1.0,P049,Healthcare,"Data Analysis,Blockchain,Embedded Systems",2,Simulation,9,3,M07,9,0.47,2024-08-20,0.92,9.62,6.37,Extended,0.848
+S042,1,6.6,"CAD,Blockchain,Data Analysis,ML","Finance,AI,Healthcare",Survey,15,5.93,Kinesthetic,0.23,P014,IoT,"Embedded Systems,Cloud,Python,Data Analysis",1,Research,6,3,M06,6,0.49,2025-06-28,0.59,5.34,6.01,Completed,0.577
+S018,1,9.95,"Cloud,IoT","Healthcare,Sustainability",Prototype,12,6.97,Auditory,0.43,P020,AI,"IoT,Embedded Systems,Python,Data Analysis",2,Survey,7,5,M14,11,0.91,2024-07-21,0.89,9.93,6.9,Completed,0.861
+S025,3,7.71,"Python,Cloud","Sustainability,Healthcare,Robotics",Research,14,7.2,Visual,0.36,P022,AI,"Blockchain,ML,Python,Data Analysis",2,Simulation,11,3,M07,4,0.52,2025-01-18,0.72,7.45,9.08,Completed,0.784
+S200,2,9.08,"Blockchain,Data Analysis,ML","Robotics,Finance",Simulation,19,8.03,Kinesthetic,0.54,P018,AI,"Blockchain,Python,Embedded Systems",3,Survey,12,4,M08,9,0.6,2024-11-17,0.71,5.3,7.26,Extended,0.661
+S105,4,9.78,"Python,Blockchain","Finance,Sustainability",Prototype,13,5.57,Visual,0.94,P013,IoT,"Python,CAD",1,Simulation,7,4,M18,5,0.72,2024-08-17,0.92,5.75,5.87,Completed,0.717
+S014,2,9.58,"ML,Python,Blockchain",Finance,Prototype,18,8.64,Auditory,0.46,P036,Robotics,"IoT,CAD",3,Survey,5,4,M04,6,0.55,2024-08-23,0.76,7.15,8.34,Completed,0.769
+S033,2,8.04,"Data Analysis,Embedded Systems,Cloud,Blockchain","Robotics,Finance,Sustainability",Simulation,13,7.42,Kinesthetic,0.75,P030,Finance,"Blockchain,CAD,Data Analysis",4,Simulation,14,3,M13,5,0.56,2024-07-18,0.65,8.63,6.42,Completed,0.712
+S037,4,6.15,"Data Analysis,CAD,Cloud","Finance,Robotics,Sustainability",Survey,5,9.88,Auditory,0.53,P030,Finance,"Blockchain,CAD,Data Analysis",4,Simulation,14,3,M13,5,0.56,2024-11-20,0.67,5.07,9.76,Completed,0.713
+S128,4,9.51,"CAD,Python,Data Analysis,ML","Healthcare,Sustainability",Survey,15,5.23,Visual,0.22,P031,Finance,"Blockchain,Python,CAD,IoT",3,Simulation,10,3,M10,7,0.7,2024-11-19,0.49,6.92,7.84,Completed,0.639
+S055,4,8.6,"Blockchain,Embedded Systems,ML",IoT,Prototype,11,8.6,Visual,0.45,P038,Finance,"Embedded Systems,Python,CAD",3,Research,10,3,M15,11,0.96,2024-12-05,0.86,6.22,8.75,Completed,0.793
+S106,2,6.23,"Blockchain,ML,Cloud","AI,Sustainability",Simulation,19,5.28,Auditory,0.79,P003,Sustainability,"Python,Embedded Systems",1,Research,5,4,M19,11,0.76,2024-08-28,0.92,7.03,9.38,Completed,0.86
+S170,2,7.03,"Cloud,Python","Healthcare,Finance,Robotics",Research,12,8.61,Kinesthetic,0.86,P046,IoT,"IoT,CAD",3,Research,12,4,M17,10,0.83,2024-10-08,0.43,9.15,6.69,Completed,0.647
+S136,4,6.19,"IoT,Cloud,Python","AI,Healthcare",Prototype,19,5.57,Visual,0.74,P015,AI,"IoT,Cloud",1,Research,12,2,M07,6,0.62,2025-04-06,0.83,8.81,9.32,Completed,0.876
+S170,2,7.03,"Cloud,Python","Healthcare,Finance,Robotics",Research,12,8.61,Kinesthetic,0.86,P017,Healthcare,"Cloud,IoT",4,Survey,6,4,M08,4,0.73,2025-01-16,0.75,5.5,7.09,Extended,0.678
+S200,2,9.08,"Blockchain,Data Analysis,ML","Robotics,Finance",Simulation,19,8.03,Kinesthetic,0.54,P016,Sustainability,"Blockchain,CAD",2,Prototype,7,3,M02,7,0.88,2025-06-15,0.68,8.32,9.71,Completed,0.813
+S029,2,9.23,"CAD,Blockchain,Cloud,Embedded Systems","Finance,IoT,Robotics",Prototype,13,5.53,Auditory,0.57,P049,Healthcare,"Data Analysis,Blockchain,Embedded Systems",2,Simulation,9,3,M07,9,0.47,2024-12-07,0.57,7.54,7.74,Completed,0.686
+S013,4,6.74,"IoT,Embedded Systems,Data Analysis,CAD","Healthcare,AI,IoT",Research,19,9.21,Auditory,0.56,P026,Robotics,"Data Analysis,ML",1,Simulation,6,2,M12,6,0.97,2024-11-21,0.93,8.86,9.67,Completed,0.928
+S169,2,7.59,"Embedded Systems,CAD,Data Analysis,Cloud",Robotics,Research,16,9.59,Visual,0.2,P013,IoT,"Python,CAD",1,Simulation,7,4,M18,5,0.72,2025-02-28,0.95,9.25,7.84,Completed,0.893
+S117,1,6.89,"Data Analysis,Cloud,IoT,CAD",Robotics,Simulation,10,9.01,Kinesthetic,0.98,P001,Finance,"Embedded Systems,ML",5,Simulation,12,2,M11,10,0.47,2025-06-09,0.62,5.5,8.39,Completed,0.665
+S067,4,8.79,"IoT,Embedded Systems,Python",Finance,Prototype,15,8.54,Auditory,0.64,P040,IoT,"Cloud,Python,Blockchain,IoT",3,Simulation,8,4,M17,9,0.97,2025-03-10,0.75,8.82,5.96,Extended,0.743
+S140,2,9.22,"Python,Data Analysis,Cloud,Embedded Systems","AI,Finance",Research,11,5.68,Kinesthetic,0.21,P002,Sustainability,"Cloud,CAD,Embedded Systems,IoT",5,Research,9,3,M14,7,0.47,2024-08-27,0.75,8.62,5.54,Completed,0.725
+S002,3,7.78,"Blockchain,Data Analysis,CAD",Healthcare,Simulation,11,5.29,Auditory,0.89,P028,Finance,"Python,Embedded Systems,CAD,IoT",1,Simulation,6,4,M17,9,0.85,2025-06-28,0.79,6.36,5.35,Completed,0.667
+S175,3,6.21,"Blockchain,Python,CAD","IoT,Healthcare",Research,6,7.27,Visual,0.64,P046,IoT,"IoT,CAD",3,Research,12,4,M17,10,0.83,2024-11-20,0.93,8.15,7.63,Extended,0.845
+S141,2,8.43,"Data Analysis,Cloud,Blockchain,Python","Sustainability,IoT",Research,6,6.96,Kinesthetic,0.55,P012,IoT,"Python,IoT",5,Prototype,5,2,M16,11,0.75,2024-10-22,0.54,9.98,5.58,Completed,0.683
+S030,4,6.75,"Cloud,Blockchain,Embedded Systems","IoT,Finance,Sustainability",Survey,18,9.42,Kinesthetic,0.46,P034,AI,"Cloud,Python,Blockchain",4,Prototype,13,2,M07,5,0.95,2025-05-19,0.72,8.19,7.0,Completed,0.744
+S025,3,7.71,"Python,Cloud","Sustainability,Healthcare,Robotics",Research,14,7.2,Visual,0.36,P013,IoT,"Python,CAD",1,Simulation,7,4,M18,5,0.72,2024-09-04,0.92,9.23,9.57,Completed,0.932
+S118,1,6.17,"ML,CAD","Sustainability,Healthcare,Finance",Survey,9,5.22,Auditory,0.94,P040,IoT,"Cloud,Python,Blockchain,IoT",3,Simulation,8,4,M17,9,0.97,2025-07-12,0.51,9.41,6.16,Completed,0.671
+S135,3,7.1,"Embedded Systems,Data Analysis,CAD,Python",Healthcare,Prototype,8,6.14,Kinesthetic,0.74,P003,Sustainability,"Python,Embedded Systems",1,Research,5,4,M19,11,0.76,2024-07-22,0.42,9.11,5.12,Completed,0.595
+S061,2,9.66,"Cloud,CAD,Embedded Systems,ML","Sustainability,Healthcare",Prototype,7,8.74,Auditory,0.96,P005,AI,"IoT,Embedded Systems,Blockchain,Cloud",2,Survey,13,4,M11,9,0.61,2024-08-05,0.89,9.53,5.55,Dropped,0.808
+S077,2,7.29,"Python,Blockchain,Data Analysis","IoT,Finance,Robotics",Survey,5,6.99,Auditory,0.55,P034,AI,"Cloud,Python,Blockchain",4,Prototype,13,2,M07,5,0.95,2025-01-20,0.92,6.64,5.6,Completed,0.735
+S048,1,6.37,"Cloud,Data Analysis,Blockchain,CAD","AI,Sustainability,Finance",Research,16,7.79,Auditory,0.91,P044,IoT,"Python,Cloud,IoT",2,Research,7,2,M12,6,0.95,2025-01-17,0.99,6.56,9.87,Completed,0.889
+S058,3,9.18,"Cloud,CAD,ML",Healthcare,Prototype,18,8.23,Kinesthetic,0.74,P046,IoT,"IoT,CAD",3,Research,12,4,M17,10,0.83,2025-03-14,0.88,5.54,5.5,Extended,0.683
+S091,3,9.28,"ML,IoT",Healthcare,Simulation,16,6.93,Auditory,0.97,P046,IoT,"IoT,CAD",3,Research,12,4,M17,10,0.83,2024-07-20,0.43,9.21,8.6,Completed,0.706
+S148,4,8.79,"IoT,Blockchain,CAD",IoT,Simulation,13,9.48,Auditory,0.58,P036,Robotics,"IoT,CAD",3,Survey,5,4,M04,6,0.55,2025-01-16,0.48,5.66,6.3,Completed,0.551
+S177,3,8.73,"Blockchain,CAD,IoT,Python",Sustainability,Simulation,5,5.58,Kinesthetic,0.58,P042,Robotics,"Python,IoT,Blockchain",1,Survey,5,2,M11,11,0.66,2025-05-17,0.48,5.07,5.41,Completed,0.506

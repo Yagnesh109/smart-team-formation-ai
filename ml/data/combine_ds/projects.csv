@@ -1,0 +1,51 @@
+project_id,title,domain,required_skills,difficulty_level,project_type,weekly_commitment,team_size,mentor_id,expected_duration,innovation_index
+P001,Multi-lateral asymmetric flexibility,Healthcare,"['Embedded Systems', 'IoT']",5,Survey,12,2,M11,10,0.47
+P002,Customizable impactful website,AI,"['Blockchain', 'Python']",5,Simulation,9,3,M14,7,0.47
+P003,Stand-alone multi-tasking artificial intelligence,Healthcare,"['Data Analysis', 'Blockchain', 'Cloud']",1,Prototype,5,4,M19,11,0.76
+P004,Grass-roots background moderator,Sustainability,"['Cloud', 'ML']",1,Simulation,9,2,M10,7,0.87
+P005,Progressive contextually-based orchestration,IoT,"['Blockchain', 'CAD', 'Data Analysis']",2,Prototype,13,4,M11,9,0.61
+P006,Implemented stable capability,Robotics,"['ML', 'Cloud']",2,Survey,6,4,M17,11,0.53
+P007,Synergistic fresh-thinking customer loyalty,Finance,"['Embedded Systems', 'Cloud', 'ML']",4,Research,7,3,M07,7,0.65
+P008,Face-to-face upward-trending infrastructure,Healthcare,"['Cloud', 'ML', 'Python']",1,Research,5,2,M11,9,0.53
+P009,Team-oriented background flexibility,IoT,"['Cloud', 'Embedded Systems']",2,Prototype,9,2,M07,4,0.98
+P010,Diverse object-oriented framework,AI,"['Blockchain', 'Python']",1,Simulation,8,3,M08,4,0.58
+P011,User-friendly asynchronous projection,Sustainability,"['Python', 'Data Analysis', 'IoT']",5,Survey,11,4,M19,9,0.52
+P012,Fully-configurable actuating policy,Sustainability,"['Cloud', 'Embedded Systems']",5,Prototype,5,2,M16,11,0.75
+P013,Multi-tiered explicit matrix,Healthcare,"['Cloud', 'Blockchain']",1,Prototype,7,4,M18,5,0.72
+P014,Reduced fault-tolerant algorithm,Sustainability,"['Data Analysis', 'Embedded Systems', 'Cloud']",1,Survey,6,3,M06,6,0.49
+P015,Mandatory well-modulated capacity,Healthcare,"['CAD', 'IoT', 'Data Analysis']",1,Prototype,12,2,M07,6,0.62
+P016,Upgradable bottom-line Graphic Interface,IoT,"['Blockchain', 'Data Analysis']",2,Prototype,7,3,M02,7,0.88
+P017,Down-sized solution-oriented complexity,IoT,"['Blockchain', 'ML', 'Data Analysis', 'Python']",4,Simulation,6,4,M08,4,0.73
+P018,Reduced optimal firmware,Healthcare,"['CAD', 'Python']",3,Simulation,12,4,M08,9,0.6
+P019,Virtual discrete strategy,AI,"['Blockchain', 'IoT', 'ML']",5,Prototype,7,4,M01,7,0.54
+P020,Distributed full-range groupware,IoT,"['Data Analysis', 'Embedded Systems']",2,Survey,7,5,M14,11,0.91
+P021,Cloned regional hierarchy,Finance,"['CAD', 'IoT', 'Embedded Systems', 'Cloud']",3,Prototype,8,5,M05,9,0.52
+P022,Progressive fresh-thinking intranet,Robotics,"['CAD', 'ML', 'Blockchain']",2,Simulation,11,3,M07,4,0.52
+P023,Total solution-oriented intranet,AI,"['Cloud', 'Python', 'CAD', 'Blockchain']",3,Simulation,7,5,M18,5,0.95
+P024,Cross-group context-sensitive groupware,Healthcare,"['Data Analysis', 'ML', 'Blockchain']",5,Simulation,8,4,M10,10,0.63
+P025,Synchronized grid-enabled initiative,Sustainability,"['Embedded Systems', 'CAD']",4,Prototype,8,2,M05,9,0.86
+P026,Mandatory transitional open system,Healthcare,"['Python', 'Blockchain', 'Data Analysis']",1,Survey,6,2,M12,6,0.97
+P027,Reduced discrete budgetary management,Finance,"['Cloud', 'ML']",4,Survey,12,2,M10,9,0.69
+P028,Enterprise-wide 3rdgeneration extranet,Healthcare,"['ML', 'CAD']",1,Research,6,4,M17,9,0.85
+P029,Compatible needs-based initiative,Sustainability,"['Cloud', 'Embedded Systems', 'ML']",2,Survey,13,4,M09,9,0.79
+P030,Optional clear-thinking firmware,Robotics,"['IoT', 'ML']",4,Survey,14,3,M13,5,0.56
+P031,Team-oriented stable website,IoT,"['Blockchain', 'Cloud', 'ML', 'Data Analysis']",3,Research,10,3,M10,7,0.7
+P032,Cross-group attitude-oriented frame,Robotics,"['CAD', 'IoT', 'Embedded Systems']",2,Survey,5,2,M06,5,0.83
+P033,Exclusive bifurcated application,IoT,"['Blockchain', 'Cloud', 'IoT', 'ML']",5,Prototype,14,3,M06,6,0.76
+P034,Profit-focused zero-defect conglomeration,IoT,"['Data Analysis', 'Python']",4,Simulation,13,2,M07,5,0.95
+P035,Extended motivating secured line,AI,"['Python', 'IoT']",2,Simulation,9,5,M14,11,0.61
+P036,Persistent discrete superstructure,Finance,"['Cloud', 'Embedded Systems']",3,Research,5,4,M04,6,0.55
+P037,Multi-lateral systemic challenge,Robotics,"['Blockchain', 'Data Analysis', 'Cloud']",5,Prototype,12,4,M04,4,0.83
+P038,Multi-layered exuding access,Sustainability,"['Blockchain', 'IoT']",3,Prototype,10,3,M15,11,0.96
+P039,Public-key intangible circuit,Robotics,"['Python', 'Blockchain', 'Cloud', 'ML']",5,Prototype,12,2,M04,10,0.56
+P040,Distributed object-oriented strategy,AI,"['Blockchain', 'IoT', 'Python']",3,Survey,8,4,M17,9,0.97
+P041,Secured cohesive archive,Finance,"['Data Analysis', 'Cloud', 'Blockchain', 'ML']",3,Simulation,6,2,M02,8,0.61
+P042,User-centric analyzing architecture,Finance,"['Data Analysis', 'ML']",1,Prototype,5,2,M11,11,0.66
+P043,Team-oriented systematic throughput,AI,"['ML', 'Blockchain', 'Embedded Systems', 'Data Analysis']",3,Prototype,7,3,M05,7,0.82
+P044,Integrated regional firmware,Sustainability,"['CAD', 'Python']",2,Prototype,7,2,M12,6,0.95
+P045,Right-sized fresh-thinking array,Sustainability,"['IoT', 'Blockchain', 'Data Analysis', 'Embedded Systems']",5,Survey,5,3,M17,10,0.45
+P046,Synergized disintermediate time-frame,Healthcare,"['Data Analysis', 'IoT']",3,Simulation,12,4,M17,10,0.83
+P047,Switchable global matrices,IoT,"['Blockchain', 'Cloud']",1,Survey,6,2,M12,10,0.82
+P048,Re-contextualized discrete paradigm,Sustainability,"['ML', 'IoT']",1,Simulation,14,4,M10,11,0.96
+P049,Reactive maximized hub,AI,"['CAD', 'IoT']",2,Simulation,9,3,M07,9,0.47
+P050,Customer-focused national portal,Robotics,"['Embedded Systems', 'Data Analysis']",1,Research,7,5,M08,5,0.65

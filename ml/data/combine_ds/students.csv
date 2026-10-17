@@ -1,0 +1,201 @@
+student_id,year,cgpa,skills,interest_areas,preferred_project_type,availability_hours,past_project_scores,learning_style,personality_score
+S001,3,9.19,"['Blockchain', 'Python']","['IoT', 'AI']",Survey,19,8.66,Visual,0.68
+S002,3,7.78,"['Cloud', 'Data Analysis', 'IoT', 'Python']",['Robotics'],Prototype,11,5.29,Kinesthetic,0.89
+S003,4,6.57,"['CAD', 'Data Analysis', 'Blockchain']",['Robotics'],Simulation,7,5.1,Auditory,0.98
+S004,4,9.75,"['Data Analysis', 'Embedded Systems', 'Cloud', 'IoT']","['Healthcare', 'Sustainability', 'IoT']",Simulation,6,5.91,Visual,0.35
+S005,4,8.45,"['ML', 'Data Analysis', 'IoT']","['Finance', 'IoT']",Simulation,17,7.16,Visual,0.43
+S006,3,7.6,"['IoT', 'CAD']","['AI', 'IoT', 'Finance']",Prototype,16,9.87,Visual,0.39
+S007,2,9.14,"['Blockchain', 'Python', 'CAD']","['Finance', 'IoT', 'Healthcare']",Simulation,7,6.91,Kinesthetic,0.99
+S008,1,6.19,"['Data Analysis', 'CAD', 'Embedded Systems']",['IoT'],Survey,7,8.4,Auditory,0.56
+S009,2,9.8,"['Blockchain', 'IoT', 'Data Analysis']","['Sustainability', 'Robotics', 'Healthcare']",Research,16,7.82,Auditory,0.51
+S010,2,6.39,"['Python', 'ML', 'Blockchain', 'Data Analysis']","['Finance', 'Robotics', 'IoT']",Survey,8,6.21,Auditory,0.75
+S011,4,7.98,"['Embedded Systems', 'ML', 'Data Analysis', 'Blockchain']",['Healthcare'],Simulation,19,5.87,Auditory,0.51
+S012,2,8.65,"['Embedded Systems', 'Cloud', 'Blockchain', 'Data Analysis']","['Healthcare', 'AI']",Simulation,6,7.13,Visual,0.37
+S013,4,6.74,"['Data Analysis', 'CAD']","['Robotics', 'AI']",Survey,19,9.21,Visual,0.56
+S014,2,9.58,"['Embedded Systems', 'ML', 'Python']","['Sustainability', 'Healthcare']",Simulation,18,8.64,Auditory,0.46
+S015,2,6.78,"['Blockchain', 'Embedded Systems']",['Sustainability'],Research,13,9.81,Visual,0.88
+S016,1,7.09,"['ML', 'Data Analysis']","['Healthcare', 'Sustainability']",Research,9,7.93,Visual,0.97
+S017,4,8.17,"['Python', 'IoT']","['AI', 'Finance']",Prototype,13,6.48,Visual,0.33
+S018,1,9.95,"['CAD', 'ML', 'IoT']",['IoT'],Research,12,6.97,Visual,0.43
+S019,3,9.26,"['Blockchain', 'IoT', 'Cloud']","['AI', 'IoT', 'Robotics']",Research,5,8.56,Kinesthetic,0.83
+S020,3,6.3,"['Blockchain', 'Embedded Systems', 'Data Analysis']","['Sustainability', 'Healthcare']",Survey,11,8.26,Auditory,0.93
+S021,1,8.49,"['Embedded Systems', 'Blockchain', 'Cloud', 'Python']",['Robotics'],Prototype,6,5.48,Auditory,0.5
+S022,2,7.3,"['Embedded Systems', 'Blockchain', 'Python', 'IoT']","['IoT', 'Robotics']",Research,7,7.96,Kinesthetic,0.42
+S023,3,7.89,"['CAD', 'ML', 'IoT', 'Data Analysis']","['Robotics', 'IoT', 'AI']",Prototype,9,9.86,Auditory,0.88
+S024,1,8.25,"['ML', 'IoT']","['IoT', 'Healthcare', 'Finance']",Prototype,19,6.28,Auditory,0.23
+S025,3,7.71,"['Cloud', 'Embedded Systems', 'IoT', 'CAD']",['Robotics'],Survey,14,7.2,Visual,0.36
+S026,4,8.55,"['Cloud', 'Blockchain', 'IoT', 'Python']",['Finance'],Survey,8,7.82,Auditory,0.76
+S027,1,7.0,"['Python', 'Cloud', 'Data Analysis', 'IoT']","['Robotics', 'IoT']",Prototype,17,7.7,Auditory,0.36
+S028,1,6.31,"['Python', 'Cloud', 'ML']",['Robotics'],Simulation,15,8.47,Auditory,0.9
+S029,2,9.23,"['CAD', 'Data Analysis']","['Sustainability', 'AI', 'Finance']",Prototype,13,5.53,Visual,0.57
+S030,4,6.75,"['Python', 'Embedded Systems', 'IoT']","['IoT', 'AI', 'Robotics']",Prototype,18,9.42,Kinesthetic,0.46
+S031,3,9.58,"['ML', 'Blockchain', 'Cloud', 'Data Analysis']",['AI'],Research,11,9.53,Auditory,0.42
+S032,3,7.71,"['Data Analysis', 'Cloud']",['IoT'],Simulation,8,6.76,Visual,0.44
+S033,2,8.04,"['Python', 'ML']","['Robotics', 'Finance', 'AI']",Survey,13,7.42,Visual,0.75
+S034,2,7.35,"['Embedded Systems', 'IoT', 'Blockchain']","['Robotics', 'Healthcare', 'AI']",Research,19,5.84,Kinesthetic,0.38
+S035,4,8.81,"['Blockchain', 'Data Analysis']","['Healthcare', 'Finance']",Prototype,5,5.32,Auditory,0.4
+S036,4,7.01,"['Data Analysis', 'Blockchain', 'CAD', 'Cloud']","['Sustainability', 'IoT', 'AI']",Survey,6,8.56,Kinesthetic,0.32
+S037,4,6.15,"['Cloud', 'IoT', 'Data Analysis']","['Healthcare', 'Sustainability']",Prototype,5,9.88,Visual,0.53
+S038,3,7.11,"['Blockchain', 'Python', 'IoT']","['AI', 'Robotics']",Survey,5,8.17,Visual,0.74
+S039,1,7.96,"['Data Analysis', 'CAD']","['Sustainability', 'AI']",Survey,10,6.21,Visual,0.74
+S040,3,7.48,"['Cloud', 'CAD']","['Finance', 'AI']",Simulation,5,8.64,Kinesthetic,0.49
+S041,4,9.93,"['IoT', 'Cloud', 'Blockchain']","['IoT', 'Sustainability', 'Healthcare']",Research,10,7.68,Visual,0.27
+S042,1,6.6,"['Embedded Systems', 'Cloud']",['Sustainability'],Prototype,15,5.93,Auditory,0.23
+S043,4,7.3,"['CAD', 'Blockchain']","['Finance', 'IoT', 'Robotics']",Research,8,5.08,Kinesthetic,0.61
+S044,3,7.39,"['Data Analysis', 'IoT', 'Cloud']","['Finance', 'Healthcare']",Simulation,11,5.87,Kinesthetic,0.75
+S045,4,8.07,"['Embedded Systems', 'Python', 'CAD']",['IoT'],Prototype,12,5.69,Kinesthetic,0.47
+S046,1,6.84,"['IoT', 'ML', 'Data Analysis', 'Python']","['Finance', 'Robotics', 'Healthcare']",Prototype,19,9.39,Visual,0.41
+S047,4,6.7,"['ML', 'Python', 'CAD']","['AI', 'Sustainability']",Simulation,13,7.58,Visual,0.41
+S048,1,6.37,"['ML', 'Blockchain', 'Cloud', 'Data Analysis']","['Healthcare', 'AI']",Prototype,16,7.79,Auditory,0.91
+S049,3,7.36,"['ML', 'Data Analysis', 'IoT', 'CAD']","['Healthcare', 'Robotics']",Survey,7,8.5,Kinesthetic,0.88
+S050,4,9.55,"['Blockchain', 'Cloud']","['Finance', 'IoT', 'Sustainability']",Prototype,12,9.44,Visual,0.88
+S051,1,6.65,"['Data Analysis', 'Python', 'CAD', 'Cloud']",['Sustainability'],Survey,10,8.34,Auditory,0.66
+S052,4,6.41,"['Blockchain', 'Data Analysis', 'Embedded Systems']","['AI', 'Sustainability']",Prototype,7,9.87,Visual,0.43
+S053,2,8.19,"['ML', 'Python', 'IoT']","['IoT', 'AI']",Prototype,10,7.24,Kinesthetic,1.0
+S054,4,8.85,"['Data Analysis', 'Embedded Systems']",['Robotics'],Research,5,7.47,Kinesthetic,0.34
+S055,4,8.6,"['Cloud', 'IoT']","['Robotics', 'AI', 'IoT']",Research,11,8.6,Visual,0.45
+S056,4,6.37,"['IoT', 'Blockchain']","['Robotics', 'AI']",Research,7,8.18,Visual,0.4
+S057,2,9.89,"['IoT', 'Python', 'Blockchain', 'Data Analysis']",['IoT'],Simulation,17,7.43,Auditory,0.92
+S058,3,9.18,"['ML', 'Data Analysis', 'Python']","['Sustainability', 'Healthcare']",Simulation,18,8.23,Auditory,0.74
+S059,1,6.78,"['Python', 'ML', 'Cloud', 'CAD']","['IoT', 'Finance']",Simulation,17,7.5,Auditory,0.66
+S060,4,8.58,"['Python', 'ML']","['AI', 'Finance']",Research,5,9.97,Visual,0.58
+S061,2,9.66,"['Blockchain', 'IoT']","['Finance', 'Healthcare', 'AI']",Survey,7,8.74,Auditory,0.96
+S062,1,7.71,"['Cloud', 'ML', 'CAD', 'Python']","['AI', 'Healthcare', 'Finance']",Survey,9,7.86,Visual,0.98
+S063,4,7.18,"['ML', 'Cloud', 'Data Analysis']",['Healthcare'],Prototype,9,5.95,Kinesthetic,0.41
+S064,3,6.68,"['CAD', 'Blockchain', 'Python']","['IoT', 'Sustainability']",Prototype,13,6.97,Auditory,0.88
+S065,3,8.28,"['ML', 'Embedded Systems', 'IoT']","['IoT', 'AI']",Simulation,12,6.04,Kinesthetic,0.74
+S066,3,6.56,"['ML', 'IoT', 'Embedded Systems', 'Blockchain']","['AI', 'Robotics']",Simulation,15,6.48,Visual,0.46
+S067,4,8.79,"['Data Analysis', 'IoT']","['Finance', 'AI']",Prototype,15,8.54,Kinesthetic,0.64
+S068,2,9.24,"['ML', 'Python', 'Embedded Systems']","['Healthcare', 'Robotics']",Survey,7,6.28,Kinesthetic,0.69
+S069,4,8.05,"['CAD', 'Embedded Systems', 'Python', 'Blockchain']",['AI'],Simulation,13,8.14,Auditory,0.36
+S070,4,8.81,"['Data Analysis', 'CAD']","['IoT', 'Sustainability', 'Finance']",Simulation,18,9.45,Kinesthetic,0.47
+S071,4,8.32,"['IoT', 'Python', 'CAD', 'Data Analysis']",['AI'],Simulation,11,8.36,Visual,0.46
+S072,2,8.17,"['Blockchain', 'Embedded Systems', 'CAD', 'Python']","['IoT', 'AI', 'Sustainability']",Simulation,17,9.19,Visual,0.89
+S073,1,6.15,"['Cloud', 'Python']","['Healthcare', 'AI', 'Finance']",Research,10,6.52,Auditory,0.63
+S074,1,8.09,"['CAD', 'Embedded Systems']","['IoT', 'Healthcare', 'Finance']",Survey,9,6.36,Kinesthetic,0.97
+S075,3,6.34,"['Blockchain', 'Cloud', 'Python']","['IoT', 'Robotics']",Research,17,5.97,Auditory,0.53
+S076,3,8.55,"['Python', 'CAD', 'Data Analysis']","['Healthcare', 'Finance', 'AI']",Simulation,8,5.66,Auditory,0.98
+S077,2,7.29,"['Python', 'IoT']","['Robotics', 'AI', 'Finance']",Simulation,5,6.99,Auditory,0.55
+S078,2,6.31,"['IoT', 'Blockchain', 'Python', 'Embedded Systems']","['Robotics', 'AI', 'Finance']",Simulation,9,5.92,Visual,0.26
+S079,3,8.78,"['ML', 'Cloud', 'Python', 'IoT']","['AI', 'Finance']",Survey,9,5.29,Auditory,0.93
+S080,3,7.0,"['Python', 'Embedded Systems', 'Cloud']","['Finance', 'Sustainability', 'AI']",Prototype,18,5.47,Visual,0.35
+S081,1,7.12,"['CAD', 'IoT', 'Data Analysis', 'Embedded Systems']",['Healthcare'],Prototype,17,8.69,Kinesthetic,0.64
+S082,2,8.92,"['Blockchain', 'Embedded Systems', 'Data Analysis', 'Cloud']","['Finance', 'Sustainability']",Research,7,6.24,Kinesthetic,0.48
+S083,1,6.48,"['Embedded Systems', 'Data Analysis', 'Blockchain', 'Python']",['IoT'],Prototype,17,5.58,Visual,0.24
+S084,1,7.25,"['ML', 'Cloud', 'IoT']","['Healthcare', 'IoT', 'Sustainability']",Survey,18,8.52,Auditory,0.58
+S085,2,9.05,"['IoT', 'ML', 'CAD']","['Robotics', 'AI']",Prototype,9,7.37,Auditory,0.34
+S086,2,8.6,"['Blockchain', 'Embedded Systems']","['Sustainability', 'AI', 'Healthcare']",Simulation,14,8.08,Kinesthetic,0.71
+S087,2,7.04,"['Cloud', 'IoT']",['AI'],Research,14,8.13,Kinesthetic,0.6
+S088,1,8.16,"['Blockchain', 'ML', 'Data Analysis', 'Cloud']",['Robotics'],Prototype,17,5.81,Kinesthetic,0.26
+S089,3,9.78,"['Python', 'Data Analysis', 'Cloud']","['Robotics', 'Finance', 'AI']",Prototype,16,7.93,Visual,0.95
+S090,4,8.71,"['Python', 'Data Analysis', 'IoT']",['IoT'],Prototype,7,8.22,Visual,0.57
+S091,3,9.28,"['ML', 'IoT', 'Data Analysis', 'Blockchain']","['IoT', 'AI', 'Healthcare']",Simulation,16,6.93,Auditory,0.97
+S092,2,6.83,"['Embedded Systems', 'CAD', 'Data Analysis']","['AI', 'Finance', 'Healthcare']",Simulation,17,5.35,Visual,0.28
+S093,2,6.16,"['Embedded Systems', 'CAD', 'Cloud', 'Blockchain']",['Robotics'],Simulation,6,8.42,Kinesthetic,0.26
+S094,4,7.54,"['Embedded Systems', 'Data Analysis', 'IoT']","['AI', 'Robotics']",Prototype,14,5.12,Auditory,0.85
+S095,1,7.98,"['Data Analysis', 'IoT']",['IoT'],Research,14,8.48,Visual,0.7
+S096,1,6.16,"['CAD', 'Data Analysis', 'ML', 'IoT']","['Robotics', 'IoT']",Simulation,13,9.02,Visual,0.43
+S097,2,7.69,"['Cloud', 'Blockchain', 'IoT', 'ML']","['Finance', 'AI', 'Healthcare']",Simulation,12,9.03,Auditory,0.99
+S098,4,6.51,"['Python', 'Embedded Systems', 'Blockchain']","['Robotics', 'Sustainability', 'IoT']",Simulation,5,8.88,Auditory,0.47
+S099,2,8.25,"['IoT', 'Cloud']","['Sustainability', 'AI', 'Finance']",Research,16,7.14,Visual,0.8
+S100,1,6.95,"['IoT', 'Cloud']",['IoT'],Survey,18,9.51,Auditory,0.6
+S101,4,7.56,"['ML', 'CAD', 'Embedded Systems', 'IoT']",['IoT'],Prototype,17,9.48,Kinesthetic,0.51
+S102,4,9.83,"['Python', 'CAD', 'Data Analysis']","['AI', 'Sustainability', 'IoT']",Prototype,7,5.46,Auditory,0.46
+S103,2,8.71,"['Blockchain', 'Data Analysis', 'Python']","['Robotics', 'Sustainability', 'Healthcare']",Research,8,7.87,Visual,0.71
+S104,1,6.37,"['Blockchain', 'Python', 'IoT']",['Sustainability'],Research,16,6.64,Auditory,0.74
+S105,4,9.78,"['CAD', 'ML', 'Data Analysis', 'Blockchain']","['IoT', 'Finance']",Simulation,13,5.57,Auditory,0.94
+S106,2,6.23,"['ML', 'CAD', 'Embedded Systems', 'Blockchain']","['Healthcare', 'Finance', 'IoT']",Survey,19,5.28,Visual,0.79
+S107,1,7.4,"['Python', 'Cloud', 'CAD', 'Blockchain']","['AI', 'Finance']",Simulation,6,9.84,Auditory,0.75
+S108,2,8.47,"['CAD', 'ML']",['Sustainability'],Simulation,17,9.19,Kinesthetic,0.54
+S109,4,6.29,"['Python', 'Embedded Systems']","['Sustainability', 'AI', 'Finance']",Survey,6,9.46,Kinesthetic,0.32
+S110,1,6.34,"['CAD', 'ML', 'IoT']","['Finance', 'IoT', 'Robotics']",Survey,7,7.91,Auditory,0.89
+S111,2,9.25,"['Blockchain', 'ML', 'Python', 'Embedded Systems']","['Healthcare', 'Finance', 'AI']",Prototype,19,9.54,Visual,0.67
+S112,4,7.51,"['Cloud', 'Data Analysis', 'CAD']","['Healthcare', 'Finance']",Survey,19,7.41,Kinesthetic,0.5
+S113,3,7.7,"['Cloud', 'Python']",['AI'],Prototype,14,6.65,Auditory,0.55
+S114,1,6.05,"['Embedded Systems', 'CAD', 'Cloud']","['Finance', 'AI']",Research,16,7.86,Kinesthetic,0.79
+S115,4,6.47,"['Data Analysis', 'Blockchain', 'ML']","['IoT', 'AI']",Prototype,13,8.72,Kinesthetic,0.74
+S116,4,9.85,"['Embedded Systems', 'Blockchain', 'Data Analysis', 'IoT']",['Robotics'],Research,19,7.39,Auditory,0.27
+S117,1,6.89,"['Cloud', 'IoT']","['Healthcare', 'Robotics']",Research,10,9.01,Visual,0.98
+S118,1,6.17,"['Cloud', 'Python']","['Healthcare', 'Finance']",Research,9,5.22,Kinesthetic,0.94
+S119,4,6.3,"['CAD', 'Data Analysis', 'ML', 'IoT']",['Healthcare'],Survey,7,8.48,Auditory,0.26
+S120,3,8.52,"['Blockchain', 'ML']","['AI', 'IoT']",Research,18,6.47,Visual,1.0
+S121,2,8.34,"['Blockchain', 'CAD', 'Python']","['Finance', 'Sustainability', 'Robotics']",Research,11,5.23,Kinesthetic,0.42
+S122,4,6.23,"['ML', 'Data Analysis', 'Blockchain']","['Healthcare', 'AI']",Research,10,7.28,Kinesthetic,0.7
+S123,4,6.68,"['Cloud', 'Embedded Systems']","['Finance', 'AI']",Prototype,8,7.32,Auditory,0.48
+S124,2,7.06,"['ML', 'Python', 'IoT', 'Data Analysis']","['IoT', 'Healthcare']",Simulation,9,9.87,Visual,0.99
+S125,2,6.13,"['Embedded Systems', 'Data Analysis']",['AI'],Survey,13,6.55,Kinesthetic,0.85
+S126,4,7.08,"['Cloud', 'IoT', 'Data Analysis']","['IoT', 'Sustainability', 'Healthcare']",Simulation,17,9.55,Auditory,0.86
+S127,2,7.67,"['Blockchain', 'Data Analysis', 'IoT', 'Embedded Systems']","['Sustainability', 'IoT']",Research,9,8.07,Visual,0.53
+S128,4,9.51,"['IoT', 'Cloud', 'Embedded Systems']","['Finance', 'Sustainability', 'AI']",Simulation,15,5.23,Auditory,0.22
+S129,1,9.11,"['IoT', 'Data Analysis', 'Embedded Systems', 'CAD']",['Robotics'],Simulation,6,9.94,Auditory,0.32
+S130,1,9.0,"['Python', 'IoT', 'Data Analysis', 'Embedded Systems']","['Healthcare', 'IoT']",Research,13,9.85,Visual,0.87
+S131,1,6.25,"['Cloud', 'Embedded Systems', 'ML', 'Python']","['Sustainability', 'IoT']",Prototype,13,7.07,Visual,0.42
+S132,4,6.3,"['Blockchain', 'CAD', 'Cloud']","['IoT', 'Finance']",Simulation,16,9.06,Visual,1.0
+S133,2,9.65,"['Data Analysis', 'ML', 'CAD', 'Blockchain']","['Sustainability', 'Finance']",Research,11,8.84,Auditory,0.96
+S134,2,7.51,"['Embedded Systems', 'Blockchain', 'Data Analysis']","['AI', 'Robotics', 'Finance']",Prototype,9,7.25,Auditory,0.3
+S135,3,7.1,"['Python', 'CAD']","['Finance', 'Healthcare']",Prototype,8,6.14,Visual,0.74
+S136,4,6.19,"['Cloud', 'ML']","['Healthcare', 'Robotics', 'Sustainability']",Research,19,5.57,Visual,0.74
+S137,2,7.9,"['Python', 'CAD', 'Embedded Systems', 'IoT']","['Robotics', 'IoT']",Research,7,7.6,Auditory,0.88
+S138,2,9.87,"['IoT', 'Blockchain', 'Cloud']","['Sustainability', 'Healthcare', 'Robotics']",Survey,18,9.38,Auditory,0.52
+S139,4,7.92,"['Embedded Systems', 'Blockchain']","['AI', 'Sustainability']",Simulation,11,8.78,Auditory,0.7
+S140,2,9.22,"['Embedded Systems', 'CAD', 'IoT', 'Data Analysis']",['Finance'],Prototype,11,5.68,Visual,0.21
+S141,2,8.43,"['Embedded Systems', 'ML', 'CAD']",['Robotics'],Simulation,6,6.96,Kinesthetic,0.55
+S142,3,8.91,"['IoT', 'ML', 'Blockchain']",['Healthcare'],Survey,13,7.57,Kinesthetic,0.83
+S143,4,7.19,"['IoT', 'Cloud', 'ML']","['Sustainability', 'IoT', 'Healthcare']",Research,14,9.31,Visual,0.96
+S144,4,7.84,"['Python', 'CAD', 'ML', 'Embedded Systems']","['Sustainability', 'AI', 'Finance']",Simulation,5,7.46,Auditory,0.41
+S145,4,6.18,"['CAD', 'ML', 'IoT']",['Finance'],Prototype,10,7.46,Kinesthetic,0.46
+S146,3,8.32,"['Data Analysis', 'Embedded Systems']",['IoT'],Survey,15,5.38,Kinesthetic,0.3
+S147,3,8.34,"['IoT', 'Python']","['Sustainability', 'IoT', 'Finance']",Research,15,5.69,Visual,0.71
+S148,4,8.79,"['ML', 'Embedded Systems', 'Data Analysis', 'Python']",['Finance'],Research,13,9.48,Visual,0.58
+S149,1,9.89,"['Embedded Systems', 'Blockchain', 'IoT', 'Cloud']","['Finance', 'Healthcare']",Survey,17,5.96,Visual,0.23
+S150,1,7.38,"['ML', 'Python', 'Embedded Systems', 'Blockchain']","['Finance', 'AI']",Prototype,14,5.89,Visual,0.27
+S151,1,8.14,"['Data Analysis', 'Blockchain', 'CAD']","['AI', 'Sustainability', 'IoT']",Simulation,16,6.03,Visual,0.49
+S152,2,7.32,"['CAD', 'IoT', 'ML']",['AI'],Prototype,15,5.2,Kinesthetic,0.84
+S153,1,8.75,"['Python', 'Blockchain']","['IoT', 'Healthcare']",Research,12,9.37,Auditory,0.94
+S154,1,6.01,"['Blockchain', 'CAD', 'Cloud']","['Finance', 'Robotics']",Survey,8,9.03,Visual,0.8
+S155,1,9.95,"['Blockchain', 'Cloud', 'CAD']","['Sustainability', 'Robotics']",Simulation,19,6.85,Kinesthetic,0.59
+S156,2,9.04,"['Cloud', 'Blockchain', 'Python']","['IoT', 'Robotics']",Simulation,18,7.31,Visual,0.8
+S157,2,6.59,"['CAD', 'IoT', 'Blockchain', 'Data Analysis']","['Healthcare', 'Sustainability']",Simulation,7,8.57,Kinesthetic,0.92
+S158,2,9.0,"['Blockchain', 'CAD', 'Cloud']","['Healthcare', 'Robotics']",Research,16,5.54,Visual,0.56
+S159,3,7.59,"['Cloud', 'Python', 'CAD', 'Data Analysis']","['IoT', 'Finance']",Research,13,8.69,Kinesthetic,0.35
+S160,3,7.29,"['Data Analysis', 'IoT', 'CAD', 'Python']","['Finance', 'Healthcare']",Survey,11,5.45,Visual,0.63
+S161,1,9.56,"['Python', 'Data Analysis', 'Embedded Systems', 'Cloud']","['IoT', 'Robotics']",Simulation,8,7.37,Visual,0.48
+S162,1,7.99,"['Embedded Systems', 'ML']","['Sustainability', 'IoT', 'AI']",Research,19,7.92,Auditory,0.79
+S163,3,8.98,"['Blockchain', 'ML', 'Data Analysis', 'CAD']",['Robotics'],Survey,5,7.82,Kinesthetic,0.5
+S164,1,7.45,"['ML', 'Cloud']","['Finance', 'Sustainability', 'IoT']",Prototype,14,8.04,Auditory,0.4
+S165,3,9.95,"['Blockchain', 'Embedded Systems', 'ML']",['Robotics'],Research,9,9.67,Auditory,0.21
+S166,1,6.61,"['Python', 'ML', 'Data Analysis', 'CAD']","['IoT', 'Robotics', 'Sustainability']",Simulation,11,7.44,Auditory,0.88
+S167,2,7.14,"['Data Analysis', 'IoT', 'Cloud']","['Finance', 'Healthcare']",Survey,19,5.28,Visual,0.87
+S168,3,8.1,"['Data Analysis', 'Python', 'IoT']","['AI', 'Healthcare']",Simulation,12,8.48,Kinesthetic,1.0
+S169,2,7.59,"['ML', 'Blockchain', 'Data Analysis']",['Finance'],Simulation,16,9.59,Auditory,0.2
+S170,2,7.03,"['Python', 'CAD']","['Healthcare', 'AI']",Research,12,8.61,Kinesthetic,0.86
+S171,2,8.23,"['CAD', 'Embedded Systems', 'ML']",['Robotics'],Survey,12,7.38,Visual,0.87
+S172,1,6.75,"['Blockchain', 'Data Analysis']",['Sustainability'],Simulation,10,8.55,Visual,0.36
+S173,4,6.97,"['Cloud', 'Data Analysis', 'ML']",['IoT'],Research,19,8.54,Kinesthetic,0.81
+S174,2,8.32,"['Python', 'Data Analysis', 'Blockchain']","['IoT', 'Healthcare']",Survey,15,9.66,Kinesthetic,0.46
+S175,3,6.21,"['Blockchain', 'Python', 'Embedded Systems', 'ML']","['Sustainability', 'Finance', 'Robotics']",Simulation,6,7.27,Auditory,0.64
+S176,2,9.96,"['ML', 'Cloud']","['Finance', 'IoT', 'Sustainability']",Research,17,8.42,Visual,0.27
+S177,3,8.73,"['Cloud', 'Data Analysis']",['Healthcare'],Survey,5,5.58,Auditory,0.58
+S178,2,7.65,"['Embedded Systems', 'Python', 'Blockchain', 'IoT']","['Sustainability', 'AI']",Simulation,18,5.53,Visual,0.88
+S179,4,9.86,"['Blockchain', 'IoT', 'Data Analysis', 'Embedded Systems']","['Finance', 'Healthcare', 'IoT']",Prototype,18,9.66,Auditory,0.99
+S180,2,6.72,"['Blockchain', 'Embedded Systems', 'ML']","['Sustainability', 'Healthcare']",Survey,7,9.63,Kinesthetic,0.78
+S181,4,9.37,"['CAD', 'Python', 'ML']","['Robotics', 'IoT']",Simulation,12,9.14,Visual,0.8
+S182,4,6.65,"['Python', 'ML']","['Healthcare', 'AI', 'Finance']",Survey,9,5.93,Kinesthetic,0.39
+S183,2,8.09,"['ML', 'CAD', 'Embedded Systems', 'Cloud']",['AI'],Survey,8,6.58,Visual,0.67
+S184,2,9.27,"['ML', 'Embedded Systems']","['Robotics', 'Sustainability']",Survey,11,8.57,Auditory,0.92
+S185,1,7.21,"['CAD', 'Cloud', 'IoT', 'Embedded Systems']",['IoT'],Simulation,11,7.19,Visual,0.66
+S186,1,9.6,"['ML', 'IoT']",['IoT'],Prototype,11,7.66,Auditory,0.25
+S187,4,8.5,"['Blockchain', 'Python']","['Healthcare', 'Robotics']",Research,7,7.16,Visual,0.47
+S188,3,7.34,"['ML', 'Data Analysis']",['Sustainability'],Survey,8,8.97,Kinesthetic,0.7
+S189,4,8.97,"['Cloud', 'Data Analysis', 'Python']","['IoT', 'Robotics', 'Healthcare']",Research,15,8.94,Visual,0.32
+S190,1,8.83,"['CAD', 'Cloud', 'Embedded Systems', 'Data Analysis']","['Healthcare', 'Robotics']",Survey,15,8.72,Visual,0.23
+S191,2,8.86,"['Cloud', 'Embedded Systems']",['Finance'],Simulation,9,9.38,Visual,0.47
+S192,2,8.15,"['Embedded Systems', 'Blockchain', 'Python']","['Healthcare', 'Robotics', 'IoT']",Survey,19,9.23,Auditory,0.3
+S193,4,8.01,"['Embedded Systems', 'ML', 'CAD', 'Cloud']","['AI', 'Sustainability']",Simulation,12,5.75,Kinesthetic,0.38
+S194,4,9.09,"['Embedded Systems', 'Cloud', 'CAD', 'IoT']","['IoT', 'Finance', 'Robotics']",Research,15,8.21,Auditory,0.76
+S195,4,8.86,"['Data Analysis', 'ML']","['Finance', 'Sustainability']",Survey,15,6.73,Kinesthetic,0.35
+S196,2,7.37,"['Data Analysis', 'IoT', 'Cloud', 'ML']","['Sustainability', 'Finance']",Survey,10,7.0,Auditory,0.57
+S197,2,8.46,"['Cloud', 'Data Analysis']","['Robotics', 'Healthcare']",Prototype,14,7.93,Auditory,0.6
+S198,1,7.02,"['Embedded Systems', 'CAD']","['AI', 'Finance']",Survey,12,9.36,Auditory,0.95
+S199,4,9.68,"['Cloud', 'Embedded Systems', 'CAD']","['Sustainability', 'Healthcare']",Research,9,9.61,Auditory,0.77
+S200,2,9.08,"['IoT', 'Data Analysis', 'CAD']",['Robotics'],Simulation,19,8.03,Auditory,0.54

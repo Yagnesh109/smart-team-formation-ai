@@ -1,0 +1,42 @@
+{
+  "0": {
+    "name": "High-Skill Specialist",
+    "description": "Top-tier technical capability with deep specialization in project domains.",
+    "centroid": {
+      "skill_match": 60.85,
+      "interest_match": 30.0,
+      "availability": 87.57,
+      "experience": 70.29
+    }
+  },
+  "2": {
+    "name": "Balanced Generalist",
+    "description": "Versatile skill set with consistent cross-domain capability and steady collaboration.",
+    "centroid": {
+      "skill_match": 60.31,
+      "interest_match": 94.17,
+      "availability": 87.99,
+      "experience": 69.52
+    }
+  },
+  "3": {
+    "name": "Dedicated Collaborator",
+    "description": "High availability and strong reliability, ideal for intensive project sprints.",
+    "centroid": {
+      "skill_match": 14.83,
+      "interest_match": 30.0,
+      "availability": 87.42,
+      "experience": 68.89
+    }
+  },
+  "1": {
+    "name": "Developing Enthusiast",
+    "description": "Emerging talent with high motivation and growing foundational skills.",
+    "centroid": {
+      "skill_match": 13.89,
+      "interest_match": 93.43,
+      "availability": 88.63,
+      "experience": 69.45
+    }
+  }
+}

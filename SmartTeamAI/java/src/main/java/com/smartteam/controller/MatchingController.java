@@ -46,7 +46,7 @@ public class MatchingController {
         model.addAttribute("availability", availability);
         model.addAttribute("experience", experience);
         model.addAttribute("myProjects", myProjects);
-        model.addAttribute("results", matching.recommend(requiredSkills, interest, availability, experience));
+        model.addAttribute("results", matching.recommend(requiredSkills, interest, availability, experience, studentId));
         return "student/matching";
     }
 }
